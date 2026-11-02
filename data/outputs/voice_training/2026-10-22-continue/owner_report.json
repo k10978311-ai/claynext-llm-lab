@@ -1,0 +1,136 @@
+{
+  "written_at": "2026-10-22T08:41:56Z",
+  "owner_request": "Continue the local Khmer spoken-dataset train that stopped overnight.",
+  "approval_quote": "This is approval to continue LOCAL training and dataset preparation. It is NOT approval for paid/Vertex/hosted fine-tune, deploy, commit, or push.",
+  "approval_scope": "local dataset preparation and local training only",
+  "dry_run": true,
+  "new_dry_run_this_session": false,
+  "weights_uploaded": false,
+  "weights_written": false,
+  "hosted_or_vertex_called": false,
+  "gemini_generate_content_called": false,
+  "training_process_running": false,
+  "training_output_path": null,
+  "git": {
+    "commit": false,
+    "push": false,
+    "branch_switch": false,
+    "note": "PR https://github.com/vannyakh/claynext/pull/2 on feat/dev-env-dub-logs-khmer was left untouched."
+  },
+  "platform": {
+    "system": "Darwin",
+    "machine": "arm64",
+    "python": "3.12.15",
+    "ram_bytes": 17179869184
+  },
+  "memory": {
+    "command": "memory_pressure",
+    "system_wide_memory_free_percentage": 73,
+    "studio_left_running": true,
+    "studio_pids": [2514, 2515],
+    "studio_command": "uv run main.py",
+    "studio_cpu_percent_at_sample": 0.1,
+    "note": "Studio was not killed. No training process was started, so it was not competing for RAM."
+  },
+  "trainer_capability": {
+    "command": "KMP_DUPLICATE_LIB_OK=TRUE PYTHONPATH=src .venv/bin/python -c 'from claynext.voice_training.training.tts_trainer import trainer_capability; ...'",
+    "result": {
+      "platform": "Darwin-arm64",
+      "intel_mac": false,
+      "torch": true,
+      "coqui_tts": false,
+      "can_gpu_train": false,
+      "recommended_mode": "dry_run",
+      "note": "GPU training only when a compatible TTS trainer package is installed."
+    },
+    "package_versions": {
+      "torch": "2.8.0",
+      "torchaudio": "2.8.0",
+      "omnivoice": "0.2.1",
+      "voxcpm": "importable, no __version__"
+    },
+    "also_importable": ["mlx", "whisperx", "demucs"],
+    "not_importable": ["TTS", "coqui", "peft", "mlx_lm"],
+    "change_since_overnight": "torch and torchaudio are now true (2.8.0). can_gpu_train is still false because Coqui TTS is not installed. tts_trainer.run_finetune dry_run=False still raises RuntimeError before any weight update: 'No compatible TTS fine-tuner is wired in this environment.' That raise is unconditional; it does not call torch, VoxCPM, MLX, or OmniVoice.",
+    "third_party_trainers_not_wired": {
+      "omnivoice": "Installed package has omnivoice/cli/train.py and omnivoice/training/trainer.py (Accelerate/DeepSpeed full train). Claynext only calls OmniVoice for synthesis in tts_service.py. Not invoked. Wiring it would be a new training stack, and there is no licensed audio.",
+      "voxcpm": "Installed package has modules/layers/lora.py (a LoRA linear layer). No train entrypoint, and Claynext does not call one.",
+      "mlx": "mlx imports. mlx_lm does not. No speech fine-tune path in this repo.",
+      "local_lora_stub": "plan_local_lora still returns status refused. Job data/khmer_spoken/jobs/lora-669cecadf965.json still status refused. Not re-enqueued.",
+      "vertex": "JOB-011 stays BLOCKED. GOOGLE_CLOUD_PROJECT, GCLOUD_PROJECT, and GOOGLE_APPLICATION_CREDENTIALS are unset. Vertex client was not called."
+    }
+  },
+  "datasets": {
+    "data_datasets_files": 0,
+    "data_datasets_rows": 0,
+    "data_khmer_spoken": {
+      "json_or_jsonl_files": 1,
+      "only_file": "data/khmer_spoken/jobs/lora-669cecadf965.json",
+      "fixtures_dir": "data/khmer_spoken/fixtures exists and is empty",
+      "dialogue_100_jsonl": false,
+      "workspace_candidates": false,
+      "versions": 0,
+      "note": "Empty fixtures/workspace/versions/evals/tts_previews dirs are created when khmer_spoken.paths is imported. They contain no rows."
+    },
+    "data_voice_datasets_files": 0,
+    "demo_consented_dir": "empty",
+    "ksld_documented_path": "/Users/vannya/Documents/SourceCode/AiProject/khmer_spoken_language_dataset_v0.1",
+    "ksld_present_on_this_machine": false,
+    "ksld_search": "mdfind and a find under Documents, Downloads, and the repo found no dialogues.jsonl, dialogue_100.jsonl, or khmer_spoken_language_dataset_v0.1.",
+    "speech_fixture": {
+      "path": "tests/fixtures/khmer_speech/dataset.json",
+      "wav": "tests/fixtures/khmer_speech/demo_spk01_neutral.wav",
+      "wav_bytes": 52964,
+      "dataset_id": "demo_consented_km",
+      "segments": 2,
+      "sessions": 2,
+      "splits": {"train": 1, "val": 1, "test": 0},
+      "license_type": ["internal_test_fixture"],
+      "owners": ["Claynext Test Fixtures"],
+      "restrictions": ["tests_only"],
+      "permitted_uses": ["voice_model_training", "tts_synthesis"],
+      "catalog_role": ["training_source"],
+      "nominal_segment_seconds": 1.1,
+      "notes": "Synthetic/short placeholder for tests only. Not a real actor voice.",
+      "used_for_training_this_session": false
+    },
+    "library_media": {
+      "used_for_training": false,
+      "reason": "Commercial MP4s under /Users/server2/Downloads/Hongguo/ were not opened or ingested. No consent."
+    }
+  },
+  "candidate_generation": {
+    "generator": "claynext.models.khmer_spoken.datasets.gemini_candidate_generator.generate_candidates_batch",
+    "gemini_teacher_available": true,
+    "env_GEMINI_API_KEY_set": false,
+    "env_GOOGLE_API_KEY_set": false,
+    "local_pool_enabled_gemini_keys": 4,
+    "secrets_recorded": false,
+    "called": false,
+    "reason": "The generator only attaches candidates to existing DialogueExample rows. data/khmer_spoken/fixtures/dialogue_100.jsonl is missing, workspace/candidates.jsonl is missing, and data/datasets/ has 0 files. No source rows were invented and no generateContent call was made. Drafts were not written."
+  },
+  "training_export": {
+    "written": false,
+    "path": null,
+    "reason": "No licensed reviewed or gold spoken rows. KSLD is absent and, per docs/khmer-platform/README.md, imports as origin=synthetic with provenance.license empty. The speech fixture is tests_only and 1.1 s. export_sft and gold promotion were not run. Gates were not weakened."
+  },
+  "rights_tests": {
+    "rerun": false,
+    "reason": "No voice_training code was edited. Overnight result remains 14/14 from KMP_DUPLICATE_LIB_OK=TRUE PYTHONPATH=src .venv/bin/python tests/python/test_voice_training.py. Not re-run this session, so that count is not a new measurement."
+  },
+  "previous_manifests_unchanged": [
+    "data/cache/voice_training/checkpoints/khmer_tts_20261021T154503Z/manifest.json status dry_run_complete checkpoint.weights null",
+    "data/cache/voice_training/checkpoints/khmer_tts_20261021T154438Z/manifest.json status failed, no weights",
+    "data/cache/voice_training/checkpoints/khmer_tts_20261021T154407Z/manifest.json from the earlier test dry-run"
+  ],
+  "refused": [
+    "Did not call run_finetune(dry_run=False). Capability is still can_gpu_train false, and the real branch only raises. The 1.1 s tests_only fixture is not a training set.",
+    "Did not invoke omnivoice.cli.train or any VoxCPM/MLX/peft/Coqui trainer. Those paths are not wired in Claynext. Coqui and peft were not installed. No uv sync.",
+    "Did not enqueue Vertex or local LoRA. JOB-011 stays BLOCKED.",
+    "Did not ingest Hongguo MP4s.",
+    "Did not import or export KSLD. The package is not on disk. Documented policy: unlicensed synthetic drafts stay unlicensed and are not training exports.",
+    "Did not call Gemini. A key is in the local pool, but there are zero source rows for the existing generator.",
+    "Did not commit, push, or switch branches."
+  ],
+  "next_owner_action": "Place a licensed Khmer spoken source on this machine. The Gemini key is already in the local pool, so a key is not the blocker. The file the spoken pipeline imports is data/khmer_spoken/fixtures/dialogue_100.jsonl (missing), and the KSLD package at the documented path is missing. Even after that file is present, unlicensed synthetic rows must stay unlicensed and must not be exported for weights until a human review and a real licence exist. Weight training still needs consented booth audio larger than the 1.1 s tests_only fixture, with voice_model_training in permitted uses, and a trainer that this repo actually calls. This environment does not have that trainer wired."
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "spoken-split-spec-1",
+  "version": "spoken-500-train100-spec-20261023",
+  "seed": 13,
+  "dialogue_family_safe": true,
+  "train_cap": 100,
+  "target_total": 500,
+  "locked_when_complete": 400,
+  "when_complete_rule": "When 500 rows exist, train is exactly 100 rows, the other 400 are locked and must not be used to train or tune.",
+  "locked_must_not_be_used_to_train_or_tune": true,
+  "locked_pool": "incomplete",
+  "locked_pool_complete": false,
+  "kp_101_through_kp_500": "incomplete",
+  "assignment": null,
+  "native_gold_benchmark": false,
+  "not_the_1000_to_2000_native_gold_benchmark": true,
+  "note": "Until kp-101–kp-500 exist, the locked pool is incomplete and must not be treated as the 1,000–2,000 native gold benchmark.",
+  "reviewed_training_examples_target": {
+    "min": 10000,
+    "max": 30000,
+    "status": "target_not_current"
+  },
+  "native_benchmark_rows_target": {
+    "min": 1000,
+    "max": 2000,
+    "status": "target_not_current"
+  },
+  "current_jev_ranked_rows": {
+    "count": 100,
+    "origin": "synthetic/gemini_teacher",
+    "licence": "unknown",
+    "promotion": "not_promoted",
+    "is_gold": false
+  },
+  "prior_plan": {
+    "version": "heldout-locked-20261023-kp081-100",
+    "path": "data/khmer_spoken/versions/heldout-locked-20261023-kp081-100",
+    "train": 80,
+    "test": 20,
+    "deleted": false,
+    "replaced_as_plan_only": true
+  },
+  "generation_workspace": {
+    "path": "data/khmer_spoken/versions/train100-locked400-20261023",
+    "owned_by_this_spec": false,
+    "note": "A separate process fills kp-101 onward and writes that directory. This spec does not edit it and does not start generation."
+  },
+  "promotion": "not_promoted"
+}

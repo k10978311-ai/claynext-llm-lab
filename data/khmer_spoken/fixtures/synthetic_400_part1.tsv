@@ -1,0 +1,88 @@
+child_to_parent	child_to_parent	dara	mother	worried	neutral	home	Mom, the rain is coming in through the kitchen window.
+child_to_parent	child_to_parent	srey	father	worried	neutral	home	Dad, my stomach hurts after I ate that green mango.
+child_to_parent	child_to_parent	dara	mother	neutral	neutral	home	Mom, can I take the leftover rice to school tomorrow?
+child_to_parent	child_to_parent	lina	father	worried	neutral	home	Dad, the teacher said I talked through the whole lesson.
+child_to_parent	child_to_parent	srey	mother	neutral	neutral	home	Mom, I can't find my other sandal under the bed.
+child_to_parent	child_to_parent	dara	father	happy	neutral	lane	Dad, the dog followed me all the way from the lane.
+child_to_parent	child_to_parent	lina	mother	worried	neutral	home	Mom, the power went out and I can't finish my reading.
+child_to_parent	child_to_parent	srey	father	neutral	neutral	home	Dad, may I sleep at Grandma's house tonight?
+child_to_parent	child_to_parent	dara	mother	sad	neutral	home	Mom, I spilled the fish sauce all over my white shirt.
+child_to_parent	child_to_parent	lina	father	tired	neutral	home	Dad, the neighbor's rooster woke me before sunrise again.
+child_to_parent	child_to_parent	srey	mother	neutral	neutral	home	Mom, I don't want this new shirt. The collar itches.
+child_to_parent	child_to_parent	dara	father	afraid	neutral	yard	Dad, I saw a snake near the well just now.
+child_to_parent	child_to_parent	srey	mother	neutral	neutral	home	Mom, can you tie my hair before we walk to the market?
+child_to_parent	child_to_parent	dara	father	neutral	neutral	home	Dad, I finished the water jug and I'm still thirsty.
+child_to_parent	child_to_parent	lina	mother	worried	neutral	home	Mom, the baby is crying in the hammock and won't stop.
+child_to_parent	child_to_parent	dara	father	neutral	neutral	lane	Dad, my bicycle chain came off on the way home.
+child_to_parent	child_to_parent	lina	mother	worried	neutral	home	Mom, I don't understand the homework on page twelve.
+child_to_parent	child_to_parent	srey	father	neutral	neutral	home	Dad, can you come to the school meeting tomorrow morning?
+child_to_parent	child_to_parent	dara	mother	tender	neutral	home	Mom, I gave my lunch to the boy who didn't bring any.
+child_to_parent	child_to_parent	srey	father	afraid	neutral	home	Dad, I'm scared of the thunder. Can I sit with you?
+child_to_parent	child_to_parent	lina	mother	worried	neutral	river	Mom, the ferry man said we missed the last boat.
+child_to_parent	child_to_parent	dara	father	happy	neutral	home	Dad, I found a coin under the wooden bed.
+child_to_parent	child_to_parent	srey	mother	sad	neutral	yard	Mom, my knee is bleeding from when I fell on the path.
+child_to_parent	child_to_parent	lina	father	worried	neutral	home	Dad, please don't tell Mom I climbed the mango tree.
+parent_to_child	parent_to_child	mother	srey	neutral	neutral	home	Wash your hands before you touch the rice, dear.
+parent_to_child	parent_to_child	father	dara	neutral	neutral	home	Put your schoolbag by the door so you don't forget it.
+parent_to_child	parent_to_child	mother	lina	worried	neutral	home	You have a fever. Stay on the mat and I'll get a cool cloth.
+parent_to_child	parent_to_child	father	dara	angry	neutral	home	I called you three times. Why didn't you answer?
+parent_to_child	parent_to_child	mother	srey	worried	neutral	market	Hold my hand. The market road is full of motorbikes.
+parent_to_child	parent_to_child	father	lina	proud	neutral	home	You read that page by yourself. I'm glad.
+parent_to_child	parent_to_child	mother	dara	tender	neutral	home	The lamp is low. Close your eyes. I'll stay until you sleep.
+parent_to_child	parent_to_child	father	srey	neutral	neutral	home	Don't run with the knife. Put it back on the tray.
+parent_to_child	parent_to_child	mother	lina	neutral	neutral	home	Your uniform is still wet. Wear the old one today.
+parent_to_child	parent_to_child	father	dara	worried	neutral	river	Stay away from the riverbank. The current is fast today.
+parent_to_child	parent_to_child	mother	srey	happy	neutral	home	I saved you the sweet coconut. Eat it before it melts.
+parent_to_child	parent_to_child	father	lina	neutral	neutral	home	Help me carry this sack of rice into the house.
+parent_to_child	parent_to_child	mother	dara	tender	neutral	home	I know you're tired. Sit down and drink some water first.
+parent_to_child	parent_to_child	father	srey	tender	neutral	market	If you get lost, stay where you are and call my name.
+parent_to_child	parent_to_child	mother	lina	angry	neutral	yard	You left the gate open and the chickens got out.
+parent_to_child	parent_to_child	father	dara	neutral	neutral	home	Wake up. The sun is already over the roof.
+parent_to_child	parent_to_child	mother	srey	worried	neutral	clinic	Tell the doctor exactly where it hurts. Don't be shy.
+parent_to_child	parent_to_child	father	lina	neutral	neutral	home	Turn the radio down. Grandma is resting.
+parent_to_child	parent_to_child	mother	dara	tender	neutral	home	I packed an extra mango for you. Don't eat it on the bus.
+parent_to_child	parent_to_child	father	srey	neutral	neutral	home	Come inside. The mosquitoes are thick tonight.
+younger_to_older_sibling	younger_to_older_sibling	srey	sokha	neutral	casual	lane	Brother, my sandal strap broke. Can you fix it?
+younger_to_older_sibling	younger_to_older_sibling	lina	channary	worried	casual	home	Sis, Mom asked where you went after school.
+younger_to_older_sibling	younger_to_older_sibling	dara	sokha	neutral	casual	home	Brother, can I ride on the back of your motorbike?
+younger_to_older_sibling	younger_to_older_sibling	srey	channary	tender	casual	home	Sis, I saved you the last piece of grilled fish.
+younger_to_older_sibling	younger_to_older_sibling	lina	sokha	angry	casual	home	Brother, you used my notebook and didn't put it back.
+younger_to_older_sibling	younger_to_older_sibling	dara	channary	worried	casual	kitchen	Sis, the kettle is boiling over. What should I do?
+younger_to_older_sibling	younger_to_older_sibling	srey	sokha	happy	casual	school	Brother, I got the same score as you on the test.
+younger_to_older_sibling	younger_to_older_sibling	lina	channary	neutral	casual	market	Sis, can you ask the price? I'm too shy to start.
+younger_to_older_sibling	younger_to_older_sibling	dara	sokha	afraid	casual	home	Brother, I heard something on the roof. Come look.
+younger_to_older_sibling	younger_to_older_sibling	srey	channary	sad	casual	home	Sis, the other girls laughed at my old bag.
+younger_to_older_sibling	younger_to_older_sibling	lina	sokha	neutral	casual	lane	Brother, will you walk me to the bus stop?
+younger_to_older_sibling	younger_to_older_sibling	dara	channary	teasing	casual	home	Sis, you hummed that song all morning.
+younger_to_older_sibling	younger_to_older_sibling	srey	sokha	worried	casual	home	Brother, Dad is looking for the missing wrench.
+younger_to_older_sibling	younger_to_older_sibling	lina	channary	tender	casual	home	Sis, I mended the tear in your skirt.
+younger_to_older_sibling	younger_to_older_sibling	dara	sokha	neutral	casual	field	Brother, the buffalo won't move. Can you come?
+younger_to_older_sibling	younger_to_older_sibling	srey	channary	neutral	casual	home	Sis, may I wear your hair clip to the wedding?
+older_to_younger_sibling	older_to_younger_sibling	sokha	dara	neutral	casual	home	Tie your shoes. We're leaving for school in five minutes.
+older_to_younger_sibling	older_to_younger_sibling	channary	srey	tender	casual	home	I'll comb your hair. Hold still for a moment.
+older_to_younger_sibling	older_to_younger_sibling	sokha	lina	worried	casual	home	If you feel dizzy, sit down and tell me. Don't hide it.
+older_to_younger_sibling	older_to_younger_sibling	channary	dara	neutral	casual	kitchen	Stir the soup slowly so it doesn't stick.
+older_to_younger_sibling	older_to_younger_sibling	sokha	srey	teasing	casual	home	You hid my keys in the rice jar again, didn't you?
+older_to_younger_sibling	older_to_younger_sibling	channary	lina	neutral	casual	home	Fold the blankets before Mom gets back from the market.
+older_to_younger_sibling	older_to_younger_sibling	sokha	dara	proud	casual	home	You spelled that word right. Do the next one the same way.
+older_to_younger_sibling	older_to_younger_sibling	channary	srey	worried	casual	lane	Stay on this side of the road. I'll hold the lamp.
+older_to_younger_sibling	older_to_younger_sibling	sokha	lina	angry	casual	home	I asked you not to touch my tools. Put them back.
+older_to_younger_sibling	older_to_younger_sibling	channary	dara	tender	casual	kitchen	Blow on the porridge. It's still too hot for you.
+older_to_younger_sibling	older_to_younger_sibling	sokha	srey	neutral	casual	home	I'll take the blame with Dad. You tell the truth next time.
+older_to_younger_sibling	older_to_younger_sibling	channary	lina	happy	casual	home	The letter came. You were accepted into the new class.
+older_to_younger_sibling	older_to_younger_sibling	sokha	dara	neutral	casual	field	Carry the small basket. I'll take the heavy one.
+older_to_younger_sibling	older_to_younger_sibling	channary	srey	neutral	casual	home	Don't answer the door unless you know the voice.
+older_to_younger_sibling	older_to_younger_sibling	sokha	lina	tired	casual	home	I'm home late. There's rice under the lid. Eat first.
+older_to_younger_sibling	older_to_younger_sibling	channary	dara	neutral	casual	yard	Water the herbs by the fence, then you can play.
+grandchild_to_grandparent	grandchild_to_grandparent	dara	grandma_yeay	neutral	neutral	home	Grandma, the jasmine by the steps is blooming.
+grandchild_to_grandparent	grandchild_to_grandparent	srey	grandpa_ta	tender	neutral	home	Grandpa, I brought you the newspaper from the shop.
+grandchild_to_grandparent	grandchild_to_grandparent	lina	grandma_yeay	worried	neutral	home	Grandma, you forgot your glasses on the porch.
+grandchild_to_grandparent	grandchild_to_grandparent	dara	grandpa_ta	neutral	neutral	yard	Grandpa, may I learn how you tie the fishing net?
+grandchild_to_grandparent	grandchild_to_grandparent	srey	grandma_yeay	happy	neutral	kitchen	Grandma, your soup smells like lemongrass today.
+grandchild_to_grandparent	grandchild_to_grandparent	lina	grandpa_ta	sad	neutral	home	Grandpa, does your knee still hurt when it rains?
+grandchild_to_grandparent	grandchild_to_grandparent	dara	grandma_yeay	tender	neutral	home	Grandma, I'll fan you. The afternoon is heavy.
+grandchild_to_grandparent	grandchild_to_grandparent	srey	grandpa_ta	neutral	neutral	market	Grandpa, which stall sells the dried fish you like?
+grandchild_to_grandparent	grandchild_to_grandparent	lina	grandma_yeay	tender	neutral	home	Grandma, I can thread the needle if your eyes are tired.
+grandchild_to_grandparent	grandchild_to_grandparent	dara	grandpa_ta	happy	neutral	river	Grandpa, I caught a small fish. Do you want to see it?
+grandchild_to_grandparent	grandchild_to_grandparent	srey	grandma_yeay	neutral	neutral	pagoda	Grandma, hold my arm on the pagoda steps.
+grandchild_to_grandparent	grandchild_to_grandparent	lina	grandpa_ta	worried	neutral	kitchen	Grandpa, you left the kettle on the stove.

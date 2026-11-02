@@ -1,0 +1,15 @@
+{
+  "train_count": 80,
+  "test_count": 20,
+  "split_path": "/Users/server2/Documents/Project/claynext/data/khmer_spoken/versions/heldout-locked-20261023-kp081-100",
+  "weights_written": false,
+  "started": false,
+  "reason": "this M4 has 16 GB RAM; 3B/7B/8B/14B fine-tunes are not started (7B/8B/14B do not fit; 3B is not a tiny adapter) peft and mlx_lm are not installed, so no tiny adapter ran either.",
+  "benchmark_path": "/Users/server2/Documents/Project/claynext/data/outputs/benchmarks/2026-10-23-spoken-heldout-test/heldout-locked-20261023-kp081-100__fake__khmer-movie-benchmark-1.json",
+  "job_path": "/Users/server2/Documents/Project/claynext/data/khmer_spoken/jobs/lora-4cae62f4ef79.json",
+  "job_id": "lora-4cae62f4ef79",
+  "trainer_status": "refused",
+  "ollama_ps": "NAME    ID    SIZE    PROCESSOR    CONTEXT    UNTIL",
+  "studio": "running",
+  "memory": "System-wide memory free percentage: 69%"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "owner-approval-sidecar-20261026-next",
+  "schema": "spoken-owner-approval-sidecar-1",
+  "created_at": "2026-10-27T03:26:36+00:00",
+  "dry_run": true,
+  "started": false,
+  "weights_written": false,
+  "weights_uploaded": false,
+  "training_started": false,
+  "promotion": "not_promoted",
+  "hosted_fine_tune": "not_started",
+  "vertex_fine_tune": "not_called",
+  "licence": "unknown",
+  "invented_external_licence": false,
+  "not_gold": true,
+  "native_gold_benchmark": false,
+  "not_the_1000_to_2000_native_gold_benchmark": true,
+  "newly_marked_gold": 0,
+  "scores": {
+    "chrf": "not_measured",
+    "comet": "not_measured",
+    "human": "not_measured"
+  },
+  "teacher": "gemini",
+  "ranker": "jev",
+  "gemini_and_jev_are_not_a_weight_update": true,
+  "blocked_model_sizes": [
+    "3B",
+    "7B",
+    "8B",
+    "14B"
+  ],
+  "owner_quote": "approvals next.",
+  "owner_quote_scope": "Continue the spoken dataset pipeline. Record owner approval on the next train-pool rows that already have Gemini candidates and are not in the 20261023 or 20261026 sidecars. A Jev line is the approved text when it matches a candidate. Not approval to train weights, invent a licence, mark native gold, change promotion, or score the set.",
+  "why_sidecar": "fill_scale.py pid 58618 is rewriting spoken_scale.jsonl with atomic replace after each row and refuses rows past kp-100 that are no longer pending. The live file was not edited. kp-101–kp-636 stay in the 20261023 sidecar. kp-637–kp-720 stay in the 20261026 sidecar.",
+  "live_jsonl_edited": false,
+  "live_jsonl_edited_by_this_process": false,
+  "live_jsonl": "data/khmer_spoken/workspace/spoken_scale.jsonl",
+  "snapshot_sha256": "fe18b1ce0dfa2fc69c0411e569905c8d79639bb0f2a2eda4c86621357befb36a",
+  "workspace_sha256_after_sidecar_write": "fe18b1ce0dfa2fc69c0411e569905c8d79639bb0f2a2eda4c86621357befb36a",
+  "workspace_changed_after_snapshot": false,
+  "snapshot_rows": 2000,
+  "prior_sidecars_kept": [
+    "data/khmer_spoken/versions/owner-approval-sidecar-20261023",
+    "data/khmer_spoken/versions/owner-approval-sidecar-20261026"
+  ],
+  "prior_sidecar_overwritten": false,
+  "prior_sidecar_counts": {
+    "owner-approval-sidecar-20261023": 536,
+    "owner-approval-sidecar-20261026": 84
+  },
+  "prior_version_kept": "data/khmer_spoken/versions/scale-lock1000-20261023",
+  "locked_ids_unchanged": true,
+  "locked_ids_sha256": "7600912095fd9b2fcb13255f468cceb9998efca87a0db03097a08c2e8949bfe8",
+  "locked_ids_match_scale_lock": true,
+  "split": {
+    "rule": "last 1000 ids locked; earlier ids are the train pool",
+    "train_count": 1000,
+    "locked_count": 1000,
+    "train_id_first": "kp-001",
+    "train_id_last": "kp-1000",
+    "locked_id_first": "kp-1001",
+    "locked_id_last": "kp-2000",
+    "train_on_locked": false,
+    "tune_on_locked": false,
+    "new_approvals_first": "kp-721",
+    "new_approvals_last": "kp-733",
+    "new_approvals_count": 13,
+    "new_approval_gaps": [],
+    "holdout_approved": 0,
+    "holdout_with_candidates": 0
+  },
+  "approval": {
+    "recorded_in": "approvals.jsonl",
+    "applied_to_live_jsonl": false,
+    "count": 13,
+    "first_id": "kp-721",
+    "last_id": "kp-733",
+    "review_status": "approved",
+    "verified_by": "project-owner",
+    "marked_gold": false,
+    "empty_stubs_approved": 0,
+    "holdout_approved": 0,
+    "licence": "unknown",
+    "prior_reviewer_notes_nonempty": 13,
+    "prior_reviewer_notes": "Synthetic English source only. No reference Khmer. review_status pending_native_review.",
+    "history_kept": true,
+    "skipped": {
+      "already_in_prior_sidecar": 620,
+      "already_approved_kp001_100": 100,
+      "empty_stub": 267,
+      "holdout": 0,
+      "not_pending": 0,
+      "licence_not_unknown": 0,
+      "inflight_without_jev": 0,
+      "no_khmer_candidate": 0
+    },
+    "already_recorded_in_prior_sidecars": 620
+  },
+  "snapshot_counts": {
+    "source_rows": 2000,
+    "with_gemini_candidates": 733,
+    "last_id_with_candidates": "kp-733",
+    "next_empty_train_id": "kp-734",
+    "train_pool_empty": 267,
+    "jev_ranked_on_approved_rows": 13,
+    "skipped_inflight_without_jev": []
+  },
+  "jobs_left_blocked": [
+    "JOB-011",
+    "JOB-019",
+    "JOB-020",
+    "JOB-021",
+    "JOB-022"
+  ],
+  "fill_at_snapshot": {
+    "pid": 58618,
+    "alive_at_record": true,
+    "args": "--limit 280 --max-minutes 80 --write-split",
+    "do_not_start_another_while_alive": true,
+    "weights_written": false
+  }
+}

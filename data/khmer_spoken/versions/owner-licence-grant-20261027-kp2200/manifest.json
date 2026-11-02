@@ -1,0 +1,61 @@
+{
+  "version": "owner-licence-grant-20261027-kp2200",
+  "schema": "spoken-owner-licence-grant-1",
+  "created_at": "2026-10-27T07:21:08+00:00",
+  "statement": "The project owner approved training use of the listed spoken Khmer rows while license_type remains unknown. This grant covers kp-001–kp-1000 and kp-2001–kp-2200 only. It is not CC-BY and not any other external licence. Holdout rows kp-1001–kp-2000 are not included and were not changed.",
+  "owner_quote": "if licence is still unknown i approve you do sometihnk and continue trained.",
+  "session_quote": "continue next",
+  "owner_quote_scope": "Standing project-owner approval that training use is allowed while licence remains unknown. This grant covers kp-001–kp-1000 and kp-2001–kp-2200 only. It is not an external licence. It does not change holdout rows, invent CC-BY, mark native gold, promote, call Vertex, or launch a 3B, 7B, 8B, or 14B fine-tune.",
+  "grant": "project-owner approval to train on these rows despite unknown licence",
+  "by": "project-owner",
+  "licence": "unknown",
+  "license_type": "unknown",
+  "external_licence": null,
+  "invented_external_licence": false,
+  "owner_training_approved": true,
+  "applied_to_live_jsonl": false,
+  "live_jsonl_edited": false,
+  "live_files": [
+    "data/khmer_spoken/workspace/spoken_scale.jsonl",
+    "data/khmer_spoken/workspace/spoken_train_next.jsonl"
+  ],
+  "holdout_changed": false,
+  "holdout_included": false,
+  "holdout_count": 0,
+  "promotion": "not_promoted",
+  "newly_marked_gold": 0,
+  "dry_run": true,
+  "started": false,
+  "weights_written": false,
+  "weights_uploaded": false,
+  "trainer_start_called": false,
+  "fill_started": false,
+  "id_ranges": [
+    "kp-001–kp-1000",
+    "kp-2001–kp-2200"
+  ],
+  "included_count": 1200,
+  "included_ids_file": "data/khmer_spoken/versions/owner-licence-grant-20261027-kp2200/train_ids.txt",
+  "excluded_holdout": "kp-1001–kp-2000",
+  "prior_grant_kept": "data/khmer_spoken/versions/owner-licence-grant-20261026-kp1000",
+  "prior_grant_overwritten": false,
+  "prior_grant_included_count": 1000,
+  "gaps_are_holdout_only": true,
+  "snapshot_sha256_scale": "c9a14bfaacf91261c6f3b88502afd3761c7dd6ad0b3131fcb03ed9dc54ddb662",
+  "snapshot_sha256_train_next": "9543a34ae84356013624e34a033964f87ee7f7e3a945ce1204c04ed6610350ea",
+  "snapshot_note": "kp-001–kp-1000 keep the Jev lines already frozen in the -c export. kp-2001–kp-2200 each had three Gemini candidates and a matching Jev line. Holdout kp-1001–kp-2000 had no candidates. Neither live file was edited.",
+  "scores": {
+    "chrf": "not_measured",
+    "comet": "not_measured",
+    "human": "not_measured"
+  },
+  "jobs_left_blocked": [
+    "JOB-011",
+    "JOB-019",
+    "JOB-020",
+    "JOB-021",
+    "JOB-022"
+  ],
+  "job_026": "IN_PROGRESS",
+  "ten_thousand_row_target_met": false
+}

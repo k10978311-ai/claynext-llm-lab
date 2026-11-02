@@ -1,0 +1,48 @@
+{
+  "written_at": "2026-10-22T09:45:00Z",
+  "owner_quote": "pls approve all",
+  "reviewer": "project-owner",
+  "decision": "approve",
+  "command": "KMP_DUPLICATE_LIB_OK=TRUE PYTHONPATH=src .venv/bin/python data/outputs/voice_training/2026-10-22-ai-first/apply_owner_approval.py",
+  "command_result": {
+    "approved": 55,
+    "workspace_pending": 45,
+    "gold_export_count": 55,
+    "gold_export_rejected": 45,
+    "lora_status": "refused",
+    "skipped": []
+  },
+  "workspace_path": "data/khmer_spoken/workspace/candidates.jsonl",
+  "workspace_approved": 55,
+  "workspace_status": "approved",
+  "workspace_still_pending": 45,
+  "workspace_pending_ids": "kp-056 through kp-100",
+  "workspace_gold": 0,
+  "candidates_kept": 3,
+  "license_type": "unknown",
+  "license_outcome": "Licence left as the schema value unknown. No CC-BY, commercial, or other external licence was written. The spoken gold exporter does not reject unknown: it only errors when license_type is empty. It accepted the 55 approved rows and rewrote review_status to gold in the version file only. The workspace rows stay approved, not gold. The dialogue-dataset gold gate (provenance.license required) was not used and was not weakened. Voice-cloning consent was not touched. These are text drafts.",
+  "gold_export_accepted": true,
+  "gold_export_path": "data/khmer_spoken/versions/owner-approved-20261022/dialogue.jsonl",
+  "gold_export_rows": 55,
+  "gold_export_ids": "kp-001 through kp-055",
+  "gold_export_rejected_rows": 45,
+  "gold_export_rejected_reason": "not_approved_or_gold",
+  "previous_empty_export_left_in_place": "data/khmer_spoken/versions/ai-draft-not-gold-20261022/dialogue.jsonl",
+  "local_lora": {
+    "called": "plan_local_lora",
+    "status": "refused",
+    "ok": false,
+    "error": "Local LoRA/QLoRA trainer is stubbed; Vertex SFT is a different client.",
+    "weights_written": false
+  },
+  "vertex_called": false,
+  "gemini_called": false,
+  "weights_written": false,
+  "still_blocked": [
+    "kp-056 through kp-100 remain pending_native_review with no Gemini candidates",
+    "licence is still unknown, not an external grant",
+    "local LoRA trainer is still a stub and refused",
+    "no weights were written",
+    "JOB-011 hosted fine-tune was not called"
+  ]
+}

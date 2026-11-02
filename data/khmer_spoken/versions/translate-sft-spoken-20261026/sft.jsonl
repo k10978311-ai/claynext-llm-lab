@@ -1,0 +1,720 @@
+{"id": "kp-001", "source": "Mom, I'm hungry.", "target": "ម៉ាក់ កូនឃ្លានហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-002", "source": "Dad, can I go play outside?", "target": "ប៉ា កូនសុំចេញទៅលេងខាងក្រៅបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-003", "source": "Mom, I'm sorry. I broke the plate.", "target": "ម៉ាក់ កូនសុំទោស... កូនធ្វើឱ្យបែកចានហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-004", "source": "I hate you! You never listen to me!", "target": "កូនស្អប់ម៉ាក់ណាស់! ម៉ាក់មិនដែលស្តាប់កូនម្តងណាទេ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-005", "source": "Dad, are you okay?", "target": "ប៉ា! ប៉ាអត់អីទេហ្អី?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-006", "source": "Mom, I passed the exam!", "target": "ម៉ាក់! កូនប្រឡងជាប់ហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-007", "source": "Come eat, sweetie.", "target": "មកញ៉ាំបាយមកកូនស្រី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-008", "source": "Dad is proud of you.", "target": "ប៉ាមានមោទនភាពចំពោះកូនណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-009", "source": "Where have you been all night?", "target": "មួយយប់ទល់ភ្លឺហ្នឹង ឯងទៅណាមក?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-010", "source": "Don't be scared, Mom is here.", "target": "កុំខ្លាចអីកូន ម៉ាក់នៅទីនេះហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-011", "source": "Go to sleep now.", "target": "ទៅគេងទៅកូន", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-012", "source": "Brother, wait for me!", "target": "បង ចាំខ្ញុំផង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-013", "source": "Sis, can you lend me some money?", "target": "បង អាចឱ្យខ្ញុំខ្ចីលុយខ្លះបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-014", "source": "I told you I didn't take it!", "target": "ខ្ញុំប្រាប់ឯងហើយតើ ថាខ្ញុំអត់បានយកទេ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-015", "source": "Thank you, brother.", "target": "អរគុណបង", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-016", "source": "Are you going to tell Mom?", "target": "ឯងចង់ទៅប្រាប់ម៉ាក់មែន?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-017", "source": "I miss you, sis.", "target": "នឹកបងណាស់", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-018", "source": "Hurry up, we're late.", "target": "លឿនឡើង យឺតម៉ោងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-019", "source": "Don't worry, I'll handle it.", "target": "កុំបារម្ភអី ចាំខ្ញុំចាត់ការរឿងហ្នឹងឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-020", "source": "You ate my snack again?", "target": "ឯងញ៉ាំនំខ្ញុំទៀតហើយមែនហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-021", "source": "Listen to me, okay?", "target": "ស្តាប់ខ្ញុំសិនណា៎ ឮអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-022", "source": "Grandma, tell me a story.", "target": "យាយ និទានរឿងឱ្យចៅស្តាប់មួយមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-023", "source": "Grandpa, let me carry that.", "target": "លោកតា ទុកឱ្យចៅជួយយួរឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-024", "source": "Come here, my dear.", "target": "មកនេះមក ចៅសម្លាញ់យាយ", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-025", "source": "Grandpa is old now.", "target": "ឥឡូវតាចាស់ហើយ...", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-026", "source": "I love you.", "target": "បងស្រលាញ់អូន", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-027", "source": "I missed you so much.", "target": "អូននឹកបងខ្លាំងណាស់", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-028", "source": "Why didn't you call me?", "target": "ម៉េចក៏មិនខលមកខ្ញុំ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-029", "source": "You're so silly.", "target": "ឆ្កួតមែន វិសាលឯងនេះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-030", "source": "Wait for me, I'll be back soon.", "target": "ចាំបងណា៎ តិចទៀតបងមកវិញហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-031", "source": "Are you cold?", "target": "រងាអត់ហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-032", "source": "Dude, where are you going?", "target": "អាម៉ាក ទៅណាឯងហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-033", "source": "I'll pay for lunch today.", "target": "ថ្ងៃហ្នឹង បាយថ្ងៃអញប៉ាវ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-034", "source": "Bro, no way!", "target": "អាប្រូ ឆ្កួតអ្ហី! មិនជឿដាច់ខាត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-035", "source": "Did you see him today?", "target": "ថ្ងៃហ្នឹងបានឃើញគាត់អត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-036", "source": "Shut up, you idiot.", "target": "បិទមាត់ទៅ អាភ្លើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-037", "source": "I'm so tired, man.", "target": "អញហត់ណាស់អាវើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-038", "source": "Can I borrow your pen?", "target": "សុំខ្ចីប៊ិចមួយបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-039", "source": "Thanks for helping me.", "target": "អរគុណដែលបានជួយខ្ញុំ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-040", "source": "See you tomorrow.", "target": "ចាំជួបគ្នាថ្ងៃស្អែកណា", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-041", "source": "Finish the report by tonight.", "target": "ធ្វើរបាយការណ៍ហ្នឹងឱ្យហើយត្រឹមយប់នេះណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-042", "source": "Good job today.", "target": "ថ្ងៃនេះធ្វើបានល្អណាស់!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-043", "source": "You're fired!", "target": "ខ្ញុំដេញឯងចេញហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-044", "source": "Hey, grab me a coffee?", "target": "នែ៎ ជួយទិញកាហ្វេឱ្យបងមួយកែវមក?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-045", "source": "Please present your plan.", "target": "សូមលោកជួយបង្ហាញពីផែនការរបស់លោកមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-046", "source": "Yes, boss, I'll do it now.", "target": "បាទមេ ខ្ញុំធ្វើឥឡូវហ្នឹងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-047", "source": "Sir, the client is here.", "target": "លោក ភ្ញៀវមកដល់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-048", "source": "Can I leave early today?", "target": "ថ្ងៃនេះខ្ញុំសុំចេញទៅមុនបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-049", "source": "That's not fair!", "target": "ធ្វើចឹងអត់យុត្តិធម៌ទេ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-050", "source": "Venerable, please bless my family.", "target": "ព្រះគុណម្ចាស់ សូមមេត្តាឱ្យពរជ័យដល់ក្រុមគ្រួសារករុណាផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-051", "source": "Venerable, have you eaten?", "target": "តេជគុណ ឆាន់បាយហើយនៅ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-052", "source": "I'd like to offer food.", "target": "ករុណាព្រះគុណម្ចាស់ យាយមានសទ្ធាចង់ប្រគេនចង្ហាន់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-053", "source": "Thank you, Venerable.", "target": "អរព្រះគុណ ព្រះតេជគុណ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-054", "source": "May you be happy.", "target": "សូមឱ្យញោមជួបតែសេចក្តីសុខណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-055", "source": "I will chant for you tomorrow.", "target": "ស្អែក អាត្មាចាំសូត្រមន្តឱ្យញោម។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-056", "source": "Child, do not be angry.", "target": "កូន កុំខឹងអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-057", "source": "Uncle, how much is this?", "target": "ពូ អាហ្នឹងមួយប៉ុន្មាន?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-058", "source": "Grandma, let me help you.", "target": "លោកយាយ ទុកឱ្យចៅជួយណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-059", "source": "Excuse me, auntie, where is the market?", "target": "សុំទោសអ៊ំ ផ្សារនៅឯណាដែរ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-060", "source": "Thank you, uncle.", "target": "អរគុណពូ", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-061", "source": "Excuse me, is this seat taken?", "target": "សុំទោស កន្លែងនេះមានគេអង្គុយនៅ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-062", "source": "Can you help me?", "target": "តើលោកអាចជួយខ្ញុំបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-063", "source": "Sorry, I didn't see you.", "target": "សុំទោសលោក ខ្ញុំអត់បានឃើញលោកទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-064", "source": "Sis, which way to the station?", "target": "បង ផ្លូវទៅស្ថានីយ៍ទៅតាមណាដែរ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-065", "source": "Move.", "target": "ជៀសចេញ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-066", "source": "You'll pay for this!", "target": "ឯងនឹងត្រូវសងរឿងហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-067", "source": "I'm going to kill you!", "target": "អញនឹងសម្លាប់ឯង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-068", "source": "Get out of my house, you bastard!", "target": "អាឆ្កែ! អ្ហែងចេញពីផ្ទះអញឱ្យផុតទៅ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-069", "source": "We will meet again.", "target": "យើងនឹងជួបគ្នាម្ដងទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-070", "source": "Don't touch me!", "target": "កុំមកប៉ះខ្ញុំ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-071", "source": "Coward.", "target": "កំសាកណាស់ឯង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-072", "source": "Yes, my lord.", "target": "បាទ លោកម្ចាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-073", "source": "The carriage is ready, madam.", "target": "ជម្រាបលោកស្រី រទេះសេះត្រៀមរួចរាល់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-074", "source": "Please forgive me, master.", "target": "សូមលោកម្ចាស់អត់ទោសឱ្យខ្ញុំផង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-075", "source": "Your Majesty, the enemy has arrived.", "target": "ក្រាបទូលព្រះករុណា ខ្មាំងសត្រូវមកដល់ហើយក្រាបទូល។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-076", "source": "Bring me tea.", "target": "យកទឹកតែមកឱ្យខ្ញុំបន្តិចមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-077", "source": "How dare you!", "target": "ឯងហ៊ានណាស់!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-078", "source": "Show me your ID.", "target": "សុំមើលអត្តសញ្ញាណប័ណ្ណបន្តិចមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-079", "source": "Don't move!", "target": "កុំកម្រើក!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-080", "source": "Officer, someone stole my bag.", "target": "លោកប៉ូលិស មានគេលួចកាបូបខ្ញុំបាត់ហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-081", "source": "I didn't do anything!", "target": "ខ្ញុំអត់បានធ្វើអីទេ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-082", "source": "You call that dancing?", "target": "អាហ្នឹងឯងហៅថារាំដែរ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-083", "source": "Look who finally woke up.", "target": "មើលនរណាគេទើបតែភ្ញាក់ពីគេងហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-084", "source": "Uncle, that's way too expensive!", "target": "ពូអើយ ថ្លៃអីក៏ថ្លៃម្ល៉េះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-085", "source": "I've had enough of this!", "target": "ខ្ញុំទ្រាំលែងបានទៀតហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-086", "source": "You promised me!", "target": "ឯងសន្យាជាមួយខ្ញុំហើយតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-087", "source": "Watch where you're going!", "target": "ដើរមើលផ្លូវផង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-088", "source": "I'm very disappointed in you.", "target": "ពុកខកចិត្តនឹងឯងខ្លាំងណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-089", "source": "Why did you lie to me?", "target": "ម៉េចបានជាបងកុហកខ្ញុំ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-090", "source": "Leave me alone!", "target": "ទុកឱ្យកូននៅម្នាក់ឯងទៅ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-091", "source": "You're such a baby.", "target": "ឯងនេះ ធ្វើដូចកូនក្មេងចឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-092", "source": "Look at those chubby cheeks!", "target": "មើលនែ៎ចៅ ថ្ពាល់ឡើងកំប៉ោង គួរឱ្យចង់ក្តិចមែន!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-093", "source": "Did my little sister fall in love?", "target": "ប្អូនស្រីញ៉ុំចេះស្រឡាញ់គេហើយមែន?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-094", "source": "You're hopeless, you know that?", "target": "អស់សង្ឃឹមហ្មងឯង ដឹងខ្លួនអត់ហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-095", "source": "Where are you going?", "target": "ទៅណាហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-096", "source": "What's your name?", "target": "ឯងឈ្មោះអី?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-097", "source": "Who are you?", "target": "ឯងជាអ្នកណាគេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-098", "source": "I'm hungry, sis.", "target": "បង អូនឃ្លានហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-099", "source": "I'm hungry, brother.", "target": "បង អូនឃ្លានហើយ", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-100", "source": "I have five years of experience.", "target": "ខ្ញុំមានបទពិសោធន៍ការងារ ៥ ឆ្នាំ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-101", "source": "Mom, the rain is coming in through the kitchen window.", "target": "ម៉ាក់ ភ្លៀងកំពុងតែជះចូលតាមបង្អួចផ្ទះបាយហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-102", "source": "Dad, my stomach hurts after I ate that green mango.", "target": "ប៉ា កូនចុកពោះ ក្រោយញ៉ាំស្វាយខ្ចីហ្នឹងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-103", "source": "Mom, can I take the leftover rice to school tomorrow?", "target": "ម៉ាក់ ស្អែកកូនសុំយកបាយសល់ទៅសាលាបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-104", "source": "Dad, the teacher said I talked through the whole lesson.", "target": "ប៉ា... អ្នកគ្រូថា កូននិយាយគ្នាមិនឈប់ពេញមួយម៉ោងរៀនហ្មង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-105", "source": "Mom, I can't find my other sandal under the bed.", "target": "ម៉ាក់ កូនរកស្បែកជើងម្ខាងទៀតនៅក្រោមគ្រែអត់ឃើញទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-106", "source": "Dad, the dog followed me all the way from the lane.", "target": "ប៉ា! អាឆ្កែហ្នឹងដើរតាមខ្ញុំតាំងពីក្នុងច្រកមកម៉្លេះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-107", "source": "Mom, the power went out and I can't finish my reading.", "target": "ម៉ាក់ ដាច់ភ្លើងហើយ កូនអានអត់ទាន់ចប់ផងហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-108", "source": "Dad, may I sleep at Grandma's house tonight?", "target": "ប៉ា យប់ហ្នឹងកូនសុំទៅដេកផ្ទះយាយបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-109", "source": "Mom, I spilled the fish sauce all over my white shirt.", "target": "ម៉ាក់ កូនធ្វើកំពប់ទឹកត្រីប្រឡាក់ពេញអាវសអស់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-110", "source": "Dad, the neighbor's rooster woke me before sunrise again.", "target": "ប៉ា មាន់អ្នកជិតខាងរងាវដាស់កូនមុនថ្ងៃរះទៀតហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-111", "source": "Mom, I don't want this new shirt. The collar itches.", "target": "ម៉ាក់ កូនអត់ចង់បានអាវថ្មីហ្នឹងទេ កអាវវារមាស់ណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-112", "source": "Dad, I saw a snake near the well just now.", "target": "ប៉ា! កូនទើបតែឃើញពស់នៅជិតអណ្តូងមិញហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-113", "source": "Mom, can you tie my hair before we walk to the market?", "target": "ម៉ាក់ ជួយចងសក់ឱ្យកូនបន្តិចបានអត់ មុនយើងដើរទៅផ្សារ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-114", "source": "Dad, I finished the water jug and I'm still thirsty.", "target": "ប៉ា ខ្ញុំផឹកទឹកអស់មួយថូហើយ នៅតែស្រេកទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-115", "source": "Mom, the baby is crying in the hammock and won't stop.", "target": "ម៉ាក់! អាអូនយំក្នុងអង្រឹងអត់ព្រមឈប់សោះហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-116", "source": "Dad, my bicycle chain came off on the way home.", "target": "ប៉ា ច្រវាក់កង់កូនរបូតតាមផ្លូវមកផ្ទះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-117", "source": "Mom, I don't understand the homework on page twelve.", "target": "ម៉ាក់ កូនអត់យល់កិច្ចការផ្ទះនៅទំព័រដប់ពីរហ្នឹងទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-118", "source": "Dad, can you come to the school meeting tomorrow morning?", "target": "ប៉ា ព្រឹកស្អែកប៉ាអាចទៅប្រជុំនៅសាលាបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-119", "source": "Mom, I gave my lunch to the boy who didn't bring any.", "target": "ម៉ាក់ កូនបានឱ្យបាយថ្ងៃត្រង់កូនទៅក្មេងប្រុសម្នាក់ដែលអត់បានយកបាយមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-120", "source": "Dad, I'm scared of the thunder. Can I sit with you?", "target": "ប៉ា កូនខ្លាចផ្គរលាន់ណាស់។ កូនសុំអង្គុយជិតប៉ាបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-121", "source": "Mom, the ferry man said we missed the last boat.", "target": "ម៉ាក់ គាត់ថាទូកជើងចុងក្រោយចេញបាត់ហើយ ពួកយើងមកអត់ទាន់គេទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-122", "source": "Dad, I found a coin under the wooden bed.", "target": "ប៉ា! ខ្ញុំរើសបានកាក់មួយនៅក្រោមគ្រែឈើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-123", "source": "Mom, my knee is bleeding from when I fell on the path.", "target": "ម៉ាក់ ជង្គង់កូនចេញឈាមហើយ មកពីកូនដួលតាមផ្លូវ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-124", "source": "Dad, please don't tell Mom I climbed the mango tree.", "target": "ពុក កុំប្រាប់ម៉ែឱ្យសោះណា ថាកូនឡើងដើមស្វាយនោះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-125", "source": "Wash your hands before you touch the rice, dear.", "target": "មុននឹងប៉ះបាយ លាងដៃឲ្យស្អាតសិនណា៎កូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-126", "source": "Put your schoolbag by the door so you don't forget it.", "target": "ទុកកាតាបនៅមាត់ទ្វារទៅ កូន កុំឱ្យភ្លេច។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-127", "source": "You have a fever. Stay on the mat and I'll get a cool cloth.", "target": "កូនឯងក្តៅខ្លួនហើយ! នៅលើកន្ទេលហ្នឹងសិនហើយ ចាំម៉ាក់ទៅយកកន្សែងត្រជាក់មកស្អំឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-128", "source": "I called you three times. Why didn't you answer?", "target": "ពុកខលទៅបីដងហើយ ម៉េចបានជាមិនលើកទូរស័ព្ទ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-129", "source": "Hold my hand. The market road is full of motorbikes.", "target": "កាន់ដៃម៉ាក់សិនមក ផ្លូវផ្សារនេះម៉ូតូច្រើនណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-130", "source": "You read that page by yourself. I'm glad.", "target": "កូនអានទំព័រហ្នឹងដោយខ្លួនឯងបានតើ! ប៉ាសប្បាយចិត្តណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-131", "source": "The lamp is low. Close your eyes. I'll stay until you sleep.", "target": "ចង្កៀងជិតរលត់ហើយ... បិទភ្នែកទៅកូន ម៉ែនៅក្បែរនេះទាល់តែកូនដេកលក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-132", "source": "Don't run with the knife. Put it back on the tray.", "target": "កូន កុំកាន់កាំបិតរត់អញ្ចឹង យកទៅដាក់លើថាសវិញទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-133", "source": "Your uniform is still wet. Wear the old one today.", "target": "លីណា ឯកសណ្ឋានកូនមិនទាន់ស្ងួតទេ ថ្ងៃនេះពាក់ឈុតចាស់សិនទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-134", "source": "Stay away from the riverbank. The current is fast today.", "target": "ដារ៉ា កុំទៅក្បែរមាត់ស្ទឹងកូន! ថ្ងៃនេះទឹកហូរខ្លាំងណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-135", "source": "I saved you the sweet coconut. Eat it before it melts.", "target": "ម៉ាក់ទុកដូងផ្អែមឱ្យកូន។ ប្រញាប់ញ៉ាំទៅ ប្រយ័ត្នរលាយណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-136", "source": "Help me carry this sack of rice into the house.", "target": "កូន ជួយប៉ាលើកបាវអង្ករនេះចូលក្នុងផ្ទះមួយភ្លែត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-137", "source": "I know you're tired. Sit down and drink some water first.", "target": "ម៉ាក់ដឹងថាកូនហត់ហើយ អង្គុយចុះផឹកទឹកសិនទៅកូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-138", "source": "If you get lost, stay where you are and call my name.", "target": "បើកូនវង្វេង ឈរនៅកន្លែងហ្នឹងទៅ ហើយស្រែកហៅឈ្មោះប៉ាឮៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-139", "source": "You left the gate open and the chickens got out.", "target": "លីណា! ឯងទុកទ្វារចោល ធ្វើឱ្យមាន់របូតចេញអស់ហើយឃើញទេ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-140", "source": "Wake up. The sun is already over the roof.", "target": "ងើបឡើងកូន ថ្ងៃរះផុតដំបូលផ្ទះបាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-141", "source": "Tell the doctor exactly where it hurts. Don't be shy.", "target": "ប្រាប់លោកគ្រូពេទ្យឲ្យច្បាស់ទៅកូន ថាឈឺត្រង់ណាខ្លះ។ កុំខ្មាសអីណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-142", "source": "Turn the radio down. Grandma is resting.", "target": "បន្ថយសំឡេងវិទ្យុបន្តិចកូន យាយកំពុងសម្រាក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-143", "source": "I packed an extra mango for you. Don't eat it on the bus.", "target": "ម៉ែខ្ចប់ស្វាយឱ្យមួយទៀតហើយណា៎ កុំអាលញ៉ាំលើឡានអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-144", "source": "Come inside. The mosquitoes are thick tonight.", "target": "ចូលក្នុងមកកូន យប់ហ្នឹងមូសច្រើនណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-145", "source": "Brother, my sandal strap broke. Can you fix it?", "target": "បង ស្បែកជើងខ្ញុំដាច់ខ្សែហើយ ជួយធ្វើឱ្យវិញបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-146", "source": "Sis, Mom asked where you went after school.", "target": "បង ម៉ាក់សួរថាចេញពីរៀនហើយបងទៅណា?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-147", "source": "Brother, can I ride on the back of your motorbike?", "target": "បង សុំជិះម៉ូតូពីក្រោយផងបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-148", "source": "Sis, I saved you the last piece of grilled fish.", "target": "បង! ខ្ញុំទុកត្រីអាំងមួយដុំចុងក្រោយនេះឱ្យបងណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-149", "source": "Brother, you used my notebook and didn't put it back.", "target": "បង! យកសៀវភៅខ្ញុំទៅប្រើហើយ ម៉េចក៏អត់ទុកកន្លែងដើមវិញចឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-150", "source": "Sis, the kettle is boiling over. What should I do?", "target": "បង! កំសៀវពុះហៀរហើយ ធ្វើម៉េចទៅ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-151", "source": "Brother, I got the same score as you on the test.", "target": "បង អូនប្រឡងបានពិន្ទុស្មើបងដែរតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-152", "source": "Sis, can you ask the price? I'm too shy to start.", "target": "បង ជួយសួរតម្លៃគេឱ្យបន្តិចមើល ខ្ញុំអៀនគេ អត់ហ៊ានសួរមុនទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-153", "source": "Brother, I heard something on the roof. Come look.", "target": "បង! ខ្ញុំដូចឮសំឡេងអីនៅលើដំបូល មកមើលតិចមើល។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-154", "source": "Sis, the other girls laughed at my old bag.", "target": "បង ពួកស្រីៗនោះគេនាំគ្នាសើចចំអកដាក់កាបូបចាស់ខ្ញុំ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-155", "source": "Brother, will you walk me to the bus stop?", "target": "បង ជួយដើរជូនអូនទៅចំណតឡានក្រុងបន្តិចបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-156", "source": "Sis, you hummed that song all morning.", "target": "បង! ច្រៀងង៉ូវៗបទហ្នឹងពេញមួយព្រឹកហើយណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-157", "source": "Brother, Dad is looking for the missing wrench.", "target": "បង! ប៉ាកំពុងតែរកអាសោរដែលបាត់ហ្នឹងហើយណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-158", "source": "Sis, I mended the tear in your skirt.", "target": "បង អូនដេរកន្លែងរហែកលើសំពត់បងរួចហើយណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-159", "source": "Brother, the buffalo won't move. Can you come?", "target": "បង ក្របីអត់ព្រមដើរទេ។ មកជួយបន្តិចបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-160", "source": "Sis, may I wear your hair clip to the wedding?", "target": "បង សុំខ្ទាស់ដង្កៀបសក់បងទៅការបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-161", "source": "Tie your shoes. We're leaving for school in five minutes.", "target": "ចងខ្សែស្បែកជើងទៅ ៥ នាទីទៀតយើងចេញទៅរៀនហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-162", "source": "I'll comb your hair. Hold still for a moment.", "target": "ចាំបងសិតសក់ឱ្យណា៎ នៅឱ្យស្ងៀមមួយភ្លែតមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-163", "source": "If you feel dizzy, sit down and tell me. Don't hide it.", "target": "បើអូនវិលមុខ អង្គុយចុះសិនមក ប្រាប់បងភ្លាម កុំទ្រាំលាក់ទុកអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-164", "source": "Stir the soup slowly so it doesn't stick.", "target": "កូរស៊ុបហ្នឹងមួយៗទៅ កុំឱ្យវាជាប់បាតឆ្នាំង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-165", "source": "You hid my keys in the rice jar again, didn't you?", "target": "អូនឯងយកកូនសោបងទៅលាក់ក្នុងធុងអង្ករទៀតហើយ ត្រូវអត់ហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-166", "source": "Fold the blankets before Mom gets back from the market.", "target": "បត់ភួយឱ្យហើយទៅ មុនម៉ាក់មកពីផ្សារវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-167", "source": "You spelled that word right. Do the next one the same way.", "target": "ឯងប្រកបពាក្យហ្នឹងត្រូវហើយ! អាបន្ទាប់ធ្វើអញ្ចឹងទៀតទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-168", "source": "Stay on this side of the road. I'll hold the lamp.", "target": "នៅខាងផ្លូវនេះមក! ចាំបងកាន់ចង្កៀងឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-169", "source": "I asked you not to touch my tools. Put them back.", "target": "ខ្ញុំប្រាប់ហើយតើ ថាកុំប៉ះពាល់ប្រដាប់ប្រដាខ្ញុំ! យកទៅទុកកន្លែងដើមវិញភ្លាមទៅ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-170", "source": "Blow on the porridge. It's still too hot for you.", "target": "ផ្លុំបបរតិចសិនទៅ វានៅក្តៅពេកហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-171", "source": "I'll take the blame with Dad. You tell the truth next time.", "target": "ចាំបងទទួលខុសជាមួយប៉ាជំនួស លើកក្រោយអូនឯងនិយាយការពិតទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-172", "source": "The letter came. You were accepted into the new class.", "target": "សំបុត្រមកដល់ហើយ! គេទទួលឯងចូលរៀនថ្នាក់ថ្មីហើយតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-173", "source": "Carry the small basket. I'll take the heavy one.", "target": "យួរកន្ត្រកតូចទៅ ចាំអាធ្ងន់ខ្ញុំយក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-174", "source": "Don't answer the door unless you know the voice.", "target": "កុំបើកទ្វារឱ្យសោះ បើមិនស្គាល់សំឡេងគេទេនោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-175", "source": "I'm home late. There's rice under the lid. Eat first.", "target": "ថ្ងៃនេះមកយឺត... បាយនៅក្រោមគម្របហ្នឹង ឯងញ៉ាំមុនចុះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-176", "source": "Water the herbs by the fence, then you can play.", "target": "ស្រោចទឹកជីរក្បែររបងសិនទៅ ចាំទៅលេង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-177", "source": "Grandma, the jasmine by the steps is blooming.", "target": "យាយ ផ្កាម្លិះនៅក្បែរកាំជណ្តើររីកហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-178", "source": "Grandpa, I brought you the newspaper from the shop.", "target": "លោកតា ចៅយកកាសែតពីហាងមកឱ្យតាហើយណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-179", "source": "Grandma, you forgot your glasses on the porch.", "target": "យាយអើយ ភ្លេចវ៉ែនតានៅរានហាលបាត់ហើយហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-180", "source": "Grandpa, may I learn how you tie the fishing net?", "target": "លោកតា ចៅសុំរៀនរបៀបចងសំណាញ់ហ្នឹងផងបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-181", "source": "Grandma, your soup smells like lemongrass today.", "target": "យាយអើយ ថ្ងៃនេះសម្លយាយឈ្ងុយស្លឹកគ្រៃណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-182", "source": "Grandpa, does your knee still hurt when it rains?", "target": "លោកតា ពេលមេឃភ្លៀង ជង្គង់លោកតានៅឈឺទៀតអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-183", "source": "Grandma, I'll fan you. The afternoon is heavy.", "target": "យាយ ចាំខ្ញុំជួយបក់ផ្លិតឱ្យ ថ្ងៃរសៀលនេះស្អុះស្អាប់ខ្លាំងណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-184", "source": "Grandpa, which stall sells the dried fish you like?", "target": "តា តូបមួយណាលក់ត្រីងៀតដែលតាចូលចិត្តហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-185", "source": "Grandma, I can thread the needle if your eyes are tired.", "target": "យាយអើយ បើយាយហត់ភ្នែក ទុកឱ្យចៅចាក់ម្ជុលឱ្យវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-186", "source": "Grandpa, I caught a small fish. Do you want to see it?", "target": "លោកតា! ចៅចាប់បានត្រីតូចមួយ។ លោកតាចង់មើលអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-187", "source": "Grandma, hold my arm on the pagoda steps.", "target": "យាយ កាន់ដៃចៅមក ពេលដើរលើជណ្តើរវត្តហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-188", "source": "Grandpa, you left the kettle on the stove.", "target": "លោកតា! តាភ្លេចកំសៀវទឹកចោលលើចង្ក្រានហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-189", "source": "Come sit in the shade, child. The sun is sharp.", "target": "មកអង្គុយម្លប់នេះមកចៅ ថ្ងៃចាំងក្តៅណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-190", "source": "Watch how I coil the rope. Then you try.", "target": "មើលតារុំខ្សែនេះសិនមក ចាំចៅឯងសាកធ្វើតាម។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-191", "source": "Taste this. Does it need more salt?", "target": "ភ្លក់មួយម៉ាត់មើល៍ ស្ទើរអំបិលទេហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-192", "source": "The stars are clear tonight. Sit with me a while.", "target": "យប់នេះផ្កាយភ្លឺច្បាស់ល្អណាស់។ មកអង្គុយលេងជាមួយតាបន្តិចមកចៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-193", "source": "Don't climb that ladder. Call your father.", "target": "កុំឡើងជណ្ដើរហ្នឹងចៅ! ទៅហៅប៉ាឯងមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-194", "source": "You read the letter to me without stumbling.", "target": "ចៅអានសំបុត្រឱ្យតាស្ដាប់ អត់ទាក់មាត់បន្តិចសោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-195", "source": "Take this banana to your mother on your way.", "target": "ពេលទៅ ឆ្លៀតយកចេកនេះទៅឱ្យម៉ែឯងផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-196", "source": "The boat leans if you stand up. Stay low.", "target": "បើចៅក្រោកឈរ ទូកវាផ្អៀងណា៎! នៅឲ្យទាបៗមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-197", "source": "I kept your favorite bowl. Eat before it cools.", "target": "យាយទុកចានដែលចៅចូលចិត្តឱ្យហ្នឹង។ ញ៉ាំទៅ ប្រយ័ត្នត្រជាក់អស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-198", "source": "You grew taller than the doorway mark.", "target": "ចៅឯងខ្ពស់ជាងស្នាមគូសនៅមាត់ទ្វារបាត់ហើយតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-199", "source": "Wake your sister. The monks will pass soon.", "target": "ទៅដាស់ប្អូនស្រីទៅចៅ ព្រះសង្ឃជិតនិមន្តបិណ្ឌបាតដល់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-200", "source": "If the fever stays, we go to the clinic at dawn.", "target": "បើចៅនៅតែក្តៅខ្លួនទៀត ទៀបភ្លឺហ្នឹងតាជូនទៅគ្លីនិកហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-201", "source": "I waited under the tamarind tree. I was afraid you wouldn't come.", "target": "បងចាំនៅក្រោមដើមអំពិល... ខ្លាចតែអូនមិនមកតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-202", "source": "I came as soon as the shop closed. Did you wait long?", "target": "ទើបតែបិទហាងហើយ អូនរត់មកហ្មងហ្នឹង។ បងចាំយូរអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-203", "source": "Your voice sounds tired. Did you eat today?", "target": "សម្លេងអូនស្ដាប់ទៅដូចហត់ៗម៉េចទេ។ ថ្ងៃនេះបានញ៉ាំអីនៅហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-204", "source": "The boat is quiet. Sit next to me, not across.", "target": "ទូកស្ងាត់ល្អណាស់។ មកអង្គុយក្បែរអូនមក កុំអង្គុយទល់មុខអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-205", "source": "You always pretend you don't want the sweet one.", "target": "ឯងចេះតែធ្វើពុតជាអត់ចង់បានអាផ្អែមហ្នឹងរហូតចឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-206", "source": "My mother asked who walked me home. I didn't know what to say.", "target": "ម៉ាក់សួរថាអ្នកណាជូនខ្ញុំមកផ្ទះ... ខ្ញុំអត់ដឹងថាត្រូវឆ្លើយថាម៉េចទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-207", "source": "I'll walk you to the lane. I won't come inside.", "target": "បងជូនទៅដល់ត្រឹមផ្លូវលំតើ មិនចូលទៅរំខានទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-208", "source": "You said sunset. It's dark and you're still not here.", "target": "ឯងថាពេលថ្ងៃលិចតើ! ឥឡូវមេឃងងឹតអស់ហើយ នៅមិនទាន់ឃើញមុខឯងទៀត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-209", "source": "Take my jacket. Your shoulders are wet.", "target": "យកអាវបងទៅពាក់ទៅ ស្មាអូនទទឹកអស់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-210", "source": "I read your note three times on the bus.", "target": "នៅលើឡានក្រុង អូនអានសំបុត្របងឡើងបីដងឯណោះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-211", "source": "If your father sees me, I'll greet him properly.", "target": "បើប៉ាឯងឃើញខ្ញុំ ចាំខ្ញុំជម្រាបសួរគាត់ឱ្យបានត្រឹមត្រូវទៅចុះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-212", "source": "I saved you a seat at the ceremony.", "target": "ក្នុងកម្មវិធីហ្នឹង អូនទុកកៅអីមួយឱ្យបងរួចហើយណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-213", "source": "I have to leave for the province on Friday.", "target": "ថ្ងៃសុក្រហ្នឹង បងត្រូវចេញទៅខេត្តហើយ...", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-214", "source": "Then write to me. Don't disappear.", "target": "អញ្ចឹងសរសេរមកខ្ញុំមក កុំបាត់ខ្លួនឱ្យសោះណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-215", "source": "You ordered two drinks and claimed both were yours.", "target": "ហៅទឹកមកពីរ ហើយមកថាជារបស់ឯងទាំងពីរហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-216", "source": "I'll wait outside the clinic until they call you.", "target": "ខ្ញុំចាំនៅក្រៅគ្លីនិកហ្នឹងហើយ ចាំដល់គេហៅឯងណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-217", "source": "You look like you belong in that color.", "target": "មើលទៅអូនសមនឹងពណ៌ហ្នឹងខ្លាំងណាស់ ដូចជាកើតមកសម្រាប់ពណ៌ហ្នឹងអ៊ីចឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-218", "source": "Don't joke about leaving if you mean it.", "target": "កុំយកការចាកចេញមកនិយាយលេង បើឯងពិតជាចង់ទៅមែនទែននោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-219", "source": "I'm at the corner by the pharmacy. Wave if you see me.", "target": "ខ្ញុំនៅកែងផ្លូវជិតកន្លែងលក់ថ្នាំហ្នឹង។ បើឃើញ លើកដៃបក់មក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-220", "source": "Go home safe. Message me when the gate closes.", "target": "ទៅផ្ទះប្រយ័ត្នប្រយែងណា៎បង។ ដល់បិទទ្វាររបងហើយ កុំភ្លេចឆាតមកអូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-221", "source": "The noodle stall moved. It's behind the cinema now.", "target": "កន្លែងលក់មីហ្នឹងរើបាត់ហើយ ឥឡូវនៅខាងក្រោយរោងកុន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-222", "source": "You owe me from last week and you know it.", "target": "ឯងជំពាក់ខ្ញុំតាំងពីអាទិត្យមុន ដឹងខ្លួនច្បាស់ហើយតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-223", "source": "Save me a seat. I'm buying the iced coffee.", "target": "ទុកកន្លែងឱ្យខ្ញុំផង ចាំខ្ញុំទៅទិញកាហ្វេទឹកកក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-224", "source": "I stayed up rewriting the paper. Don't ask me to sing.", "target": "ឯងដាច់យប់កែសារណាហ្នឹងឡើងវិញ កុំទាន់បបួលឯងច្រៀងអី អស់កម្លាំងរលីងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-225", "source": "You actually scored. I thought the ball hated you.", "target": "ឯងស៊ុតចូលមែនទែនហ្នឹង! ស្មានតែបាល់ស្អប់ឯងបាត់ហើយតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-226", "source": "Don't take that shortcut after dark. The lamps are out.", "target": "កុំដើរតាមផ្លូវកាត់ហ្នឹងពេលយប់អី ភ្លើងរលត់អស់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-227", "source": "I brought the notes you missed. They're a mess, but they're yours.", "target": "គ្នាយកកំណត់ត្រាថ្ងៃឯងខានមកឱ្យហ្នឹង។ សរសេររញ៉េរញ៉ៃមែន តែជារបស់ឯងហើយណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-228", "source": "You haggled for ten minutes and paid the first price.", "target": "ឯងតថ្លៃឡើងដប់នាទី ចុងក្រោយឲ្យតាមតម្លៃដំបូងគេដដែលហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-229", "source": "Hold the light higher. I can't see the bolt.", "target": "កាន់ភ្លើងឱ្យខ្ពស់បន្តិចមើល៍ ខ្ញុំមើលខ្ចៅអត់ឃើញទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-230", "source": "You told him my plan before I was ready.", "target": "ឯងទៅប្រាប់វាពីរឿងគម្រោងខ្ញុំ ទាំងដែលខ្ញុំមិនទាន់បានត្រៀមខ្លួនផងហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-231", "source": "I failed the practical. I don't want to talk on the ride.", "target": "ខ្ញុំធ្លាក់អាអនុវត្តបាត់ហើយ។ តាមផ្លូវហ្នឹង ខ្ញុំអត់ចង់និយាយអីទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-232", "source": "I'm outside your gate. Bring the charger down.", "target": "ដល់មុខរបងហើយ! យកខ្សែសាកចុះមកតិចមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-233", "source": "The water is warm. Come in. Stop standing there.", "target": "ទឹកក្តៅឧណ្ហៗស្រួលតើ! ចុះមក! កុំនៅឈរត្រង់ហ្នឹងអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-234", "source": "I'll cover the bill if you tell me what she said.", "target": "ចាំខ្ញុំប៉ាវ ឱ្យតែឯងប្រាប់មកថាម៉ិញនាងនិយាយអីខ្លះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-235", "source": "I'll sit with you until your name is called.", "target": "ចាំខ្ញុំអង្គុយជាមួយឯង ទាល់តែគេហៅឈ្មោះឯងណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-236", "source": "You wore the shirt backwards and still walked in proud.", "target": "ឯងពាក់អាវបញ្ច្រាសមុខក្រោយហើយ នៅដើរចូលមកធ្វើឬកឡើងឡូយទៀត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-237", "source": "My shift ends at midnight. Wait if you can.", "target": "ម៉ោង១២យប់ទើបខ្ញុំចេញវេន។ បើអាច ចាំគ្នាផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-238", "source": "Lend me your ruler. Mine snapped in the bag.", "target": "សុំខ្ចីបន្ទាត់ឯងតិចមើល! របស់ខ្ញុំបាក់ក្នុងកាតាបបាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-239", "source": "Dance with me before the slow songs start.", "target": "តោះ ឡើងរាំមួយគ្នាសិនមក មុនគេដូរចូលបទយឺត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-240", "source": "Share the umbrella. We'll both get wet otherwise.", "target": "ចូលមកជ្រកឆ័ត្រជាមួយគ្នាមក កុំអីទទឹកទាំងពីរនាក់ឥឡូវហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-241", "source": "Can I see how you solved the second problem?", "target": "សុំមើលរបៀបឯងដោះស្រាយលំហាត់ទីពីរហ្នឹងបន្តិចបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-242", "source": "Sure. Don't copy the last line. It's wrong.", "target": "បានតើ! តែ​កុំ​ចម្លង​ជួរ​ចុង​ក្រោយ​ណា វា​ខុស​ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-243", "source": "The librarian said we have to whisper in this room.", "target": "អ្នកកាន់បណ្ណាល័យប្រាប់ថា នៅក្នុងបន្ទប់នេះយើងត្រូវនិយាយខ្សឹបៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-244", "source": "I'll return your pen tomorrow. I promise.", "target": "ស្អែកចាំខ្ញុំយកប៊ិចទៅសងឯងវិញណា។ ខ្ញុំសន្យា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-245", "source": "Good game. Same time next week?", "target": "លេងសប្បាយណាស់! អាទិត្យក្រោយម៉ោងដដែលអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-246", "source": "This is my stop. See you at the group meeting.", "target": "ដល់កន្លែងខ្ញុំចុះហើយ។ ចាំជួបគ្នានៅកន្លែងប្រជុំក្រុមណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-247", "source": "I left my draft at home. May I check the topic against your outline?", "target": "ខ្ញុំភ្លេចក្រដាសព្រាងនៅផ្ទះបាត់ហើយ។ ខ្ញុំសុំខ្ចីមើលគ្រោងរបស់ឯងផ្ទៀងប្រធានបទបន្តិចបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-248", "source": "Do you want the window seat or the one by the fan?", "target": "ចង់អង្គុយក្បែរបង្អួច ឬមួយក្បែរកង្ហារ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-249", "source": "You looked nervous. You still answered clearly.", "target": "ឃើញអូនដូចជាភ័យៗ តែឆ្លើយបានច្បាស់ល្អតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-250", "source": "I'm running late. Start without me.", "target": "ខ្ញុំរាងយឺតបន្តិចហើយ ចាប់ផ្ដើមមុនទៅ មិនបាច់ចាំខ្ញុំទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-251", "source": "I'll hold the bags if you pay the vendor.", "target": "ចាំខ្ញុំជួយកាន់អីវ៉ាន់ឱ្យ បើឯងទៅគិតលុយអ្នកលក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-252", "source": "We both passed. Let's not pretend we expected that.", "target": "យើងជាប់ទាំងពីរនាក់ហ្មង! កុំធ្វើពុតដូចដឹងមុនពេកអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-253", "source": "The client changed the date. Reprint the schedule before noon.", "target": "ភ្ញៀវគាត់ប្តូរថ្ងៃហើយ។ ជួយព្រីនកាលវិភាគឡើងវិញឱ្យហើយមុនថ្ងៃត្រង់ផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-254", "source": "Please speak slower on the phone. They couldn't follow you.", "target": "ជួយនិយាយតាមទូរស័ព្ទឱ្យយឺតជាងនេះបន្តិច ព្រោះពួកគេស្តាប់តាមមិនទាន់ទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-255", "source": "The delivery arrived intact. Thank you for staying late.", "target": "ឥវ៉ាន់មកដល់ហើយ អត់មានខូចខាតអីទេ។ អរគុណវណ្ណាណាស់ ដែលជួយនៅយឺតដល់ម៉ោងនេះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-256", "source": "This invoice has the wrong total. Fix it before you leave.", "target": "វិក្កយបត្រនេះបូកសរុបខុសហើយ។ កែវាឱ្យហើយ មុនពេលចេញទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-257", "source": "Stack the new boxes in the back, labels facing out.", "target": "យកកេសថ្មីៗហ្នឹងទៅតម្រៀបនៅខាងក្រោយ ហើយបែរស្លាកមកក្រៅផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-258", "source": "If you feel unwell, go home. Don't push through the shift.", "target": "បើសិនជាប្អូនមិនសូវស្រួលខ្លួនទេ ត្រឡប់ទៅផ្ទះវិញចុះ កុំព្យាយាមទ្រាំបន្តវេនការងារអីណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-259", "source": "Walk us through the numbers. Start with last month.", "target": "ជួយបង្ហាញតួលេខទាំងអស់ហ្នឹងបន្តិចមក។ ចាប់ផ្ដើមពីខែមុនមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-260", "source": "Lock the front door when you take lunch. The register stays closed.", "target": "ពេលចេញទៅញ៉ាំបាយ ចាក់សោទ្វារមុខផង។ ហើយកេះលុយត្រូវបិទជានិច្ច។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-261", "source": "You beat me to the coffee again. Leave me half a cup.", "target": "ឯងលឿនជាងខ្ញុំទៀតហើយរឿងកាហ្វេហ្នឹង! ទុកឱ្យខ្ញុំកន្លះកែវផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-262", "source": "The guest asked for you by name. Keep that standard.", "target": "ភ្ញៀវគេសួររកឈ្មោះឯងចំៗតែម្ដង។ បន្តរក្សាស្ដង់ដារល្អបែបហ្នឹងរហូតណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-263", "source": "I asked for the file yesterday. Where is it?", "target": "ខ្ញុំបានសុំឯកសារហ្នឹងតាំងពីម្សិលមិញ។ ឥឡូវវានៅឯណា?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-264", "source": "Take the visitor to the small room. I'll be there in five minutes.", "target": "នាំភ្ញៀវទៅចាំនៅបន្ទប់តូចទៅ ប្រាំនាទីទៀតខ្ញុំទៅជួបគាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-265", "source": "Count the sacks twice. Write the number on the clipboard.", "target": "រាប់បាវហ្នឹងឱ្យបានពីរដង។ ហើយកត់ចំនួនលើក្ដារកៀបហ្នឹងទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-266", "source": "You handled that complaint calmly. I noticed.", "target": "លោកដោះស្រាយការតវ៉ានោះបានដោយចិត្តត្រជាក់ណាស់។ ខ្ញុំបានកត់សម្គាល់ឃើញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-267", "source": "Tomorrow we open early. Be here before the shutter goes up.", "target": "ថ្ងៃស្អែកយើងបើកហាងពីព្រលឹមបន្តិច។ ត្រូវមកឱ្យដល់ទីនេះមុនពេលទ្វាររូតបើកឡើង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-268", "source": "Don't promise the customer a date I haven't approved.", "target": "កុំទាន់សន្យាកាលបរិច្ឆេទជាមួយអតិថិជន បើខ្ញុំមិនទាន់បានអនុម័តឲ្យសោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-269", "source": "The printer jammed again. I already cleared the tray once.", "target": "ម៉ាស៊ីនព្រីនជាប់ក្រដាសទៀតហើយលោក។ ខ្ញុំទើបតែដកក្រដាសចេញពីថតវាម្តងហើយតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-270", "source": "The supplier says the cloth won't arrive until Thursday.", "target": "ជម្រាបលោកស្រី ខាងអ្នកផ្គត់ផ្គង់ថា ក្រណាត់ទាល់តែថ្ងៃព្រហស្បតិ៍ទើបមកដល់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-271", "source": "I need to leave at four. My father has a clinic appointment.", "target": "ខ្ញុំត្រូវចេញទៅវិញនៅម៉ោងបួនហើយលោក ព្រោះប៉ាខ្ញុំគាត់មានណាត់ជាមួយពេទ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-272", "source": "The guest signed the form. It's on your desk.", "target": "ភ្ញៀវគាត់ស៊ីញ៉ែបែបបទហើយលោកស្រី! ឥឡូវឯកសារហ្នឹងនៅលើតុលោកស្រីហើយបាទ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-273", "source": "I can present the first half if you want to take the questions.", "target": "ខ្ញុំអាចឡើងធ្វើបទបង្ហាញពាក់កណ្តាលដំបូងបាន បើសិនជាលោកចង់ចាំឆ្លើយសំណួរ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-274", "source": "The schedule you posted overlaps my other shift.", "target": "តារាងការងារដែលអ្នកស្រីទើបតែផុសហ្នឹង វាជាន់ម៉ោងវេនការងារមួយទៀតរបស់ខ្ញុំហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-275", "source": "May I confirm the price before I tell the customer?", "target": "លោក ខ្ញុំសុំបញ្ជាក់តម្លៃសិនបានទេ មុននឹងខ្ញុំប្រាប់ទៅភ្ញៀវ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-276", "source": "I made an error on the receipt. I want to correct it now.", "target": "លោកស្រី ខ្ញុំបានសរសេរខុសនៅលើវិក្កយបត្រហ្នឹងហើយ។ ឥឡូវខ្ញុំចង់សុំកែតម្រូវវាឡើងវិញភ្លាមៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-277", "source": "We are short two cartons. I checked the loading bay.", "target": "យើងខ្វះអស់ពីរ​កេសហើយបង។ ខ្ញុំបានទៅឆែកមើលនៅកន្លែងលើកឥវ៉ាន់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-278", "source": "I brought the documents you asked for. They're in order.", "target": "ខ្ញុំយកឯកសារដែលលោកស្រីត្រូវការមកជូនហើយ ខ្ញុំបានរៀបចំតាមលំដាប់រៀបរយអស់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-279", "source": "The back door lock is loose. Should I call someone?", "target": "គន្លឹះទ្វារក្រោយហាក់ដូចជារលុងហើយលោក។ តើគួរឱ្យខ្ញុំទូរស័ព្ទហៅគេមកជួសជុលទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-280", "source": "I'm at the bank. The line is long. I'll return after the stamp.", "target": "ខ្ញុំកំពុងនៅធនាគារ អ្នកស្រី។ មនុស្សតម្រង់ជួរច្រើនណាស់ ចាំគេបោះត្រារួច ខ្ញុំត្រឡប់ទៅវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-281", "source": "The new intern is waiting downstairs. Shall I bring them up?", "target": "ក្មេងហាត់ការថ្មីកំពុងចាំនៅខាងក្រោម។ ឱ្យខ្ញុំនាំគាត់ឡើងមកលើទេលោក?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-282", "source": "The customer called back to say the repair holds.", "target": "លោកស្រី! ភ្ញៀវទើបតែខលមកវិញថា របស់ដែលធ្វើហើយហ្នឹងនៅជាប់ល្អ ដើរស្រួលណាស់!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-283", "source": "I don't understand this column. Can you show me once?", "target": "ខ្ញុំមិនយល់ជួរឈរមួយនេះទេ។ តើលោកអាចជួយបង្ហាញខ្ញុំម្តងបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-284", "source": "I can stay late tonight, but not tomorrow. My bus stops early.", "target": "យប់នេះខ្ញុំអាចនៅជួយដល់យប់បាន តែស្អែកអត់បានទេលោកស្រី ព្រោះឡានក្រុងដែលខ្ញុំជិះអស់ជើងលឿន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-285", "source": "Venerable, we brought rice and fruit for the morning offering.", "target": "ព្រះតេជគុណ ករុណាខ្ញុំបានយកបាយ និងផ្លែឈើមកប្រគេនសម្រាប់ចង្ហាន់ពេលព្រឹក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-286", "source": "Venerable, may I ask which day the ceremony begins?", "target": "តេជគុណ ករុណាសុំសួរបន្តិច តើពិធីបុណ្យហ្នឹងចាប់ផ្ដើមពីថ្ងៃណាទៅ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-287", "source": "Venerable, please remember my grandson in your chant.", "target": "លោកម្ចាស់ ពេលសូត្រធម៌ សូមមេត្តាជួយនឹកដល់ចៅប្រុសខ្ញុំព្រះករុណាផងណាម្ចាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-288", "source": "Venerable, the shoes are left at the step, as you asked.", "target": "ករុណា ព្រះតេជគុណ ស្បែកជើង ខ្ញុំករុណាទុកនៅកាំជណ្ដើរ តាមដែលព្រះអង្គបង្គាប់ហើយទាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-289", "source": "Venerable, my mother is ill. May I request a blessing for her?", "target": "ព្រះតេជគុណម្ចាស់ ម៉ែរបស់កូនគាត់កំពុងឈឺ... តើកូនអាចសូមព្រះតេជគុណមេត្តាប្រសិទ្ធពរជ័យឱ្យគាត់បានទេម្ចាស់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-290", "source": "Venerable, where should I place this water?", "target": "ព្រះតេជគុណ ទឹកនេះឱ្យករុណាដាក់នៅឯណាដែរ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-291", "source": "Venerable, I came with my grandmother. She is sitting in the shade.", "target": "ករុណាព្រះគុណម្ចាស់ ករុណាខ្ញុំមកជាមួយលោកយាយ។ គាត់កំពុងអង្គុយនៅក្រោមម្លប់ឯណោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-292", "source": "Venerable, I spoke harshly at home. I want to make it right.", "target": "ព្រះតេជគុណ ករុណាខ្ញុំបានប្រើសម្តីគំរោះគំរើយនៅឯផ្ទះ។ ករុណាចង់កែប្រែកំហុសហ្នឹងឡើងវិញណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-293", "source": "Venerable, the gate was open. I closed it behind me.", "target": "ព្រះតេជព្រះគុណ ទ្វាររបងបើកចំហ ខ្ញុំព្រះករុណាដើរចូលមក ក៏បិទតាមក្រោយវិញហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-294", "source": "Venerable, is it all right if we sit at the back?", "target": "ព្រះតេជគុណ អនុញ្ញាតឱ្យពួកករុណាអង្គុយនៅខាងក្រោយបានទេករុណា?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-295", "source": "Venerable, this incense is from our family. We offer it with respect.", "target": "ព្រះតេជគុណ ធូបនេះជារបស់គ្រួសារករុណា ករុណាសូមប្រគេនដោយសេចក្តីគោរព។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-296", "source": "Venerable, we will return after the rain passes.", "target": "ព្រះគុណម្ចាស់ ក្រោយពេលភ្លៀងស្រាកបន្តិច ពួកខ្ញុំករុណានឹងត្រឡប់មកវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-297", "source": "Place the offering on the mat. There is no need to rush.", "target": "ដាក់ទេយ្យទានលើកន្ទេលហ្នឹងមកញោម មិនបាច់ប្រញាប់ពេកទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-298", "source": "Sit comfortably. Your knees need not touch the floor.", "target": "ញោមអង្គុយតាមស្រួលចុះ កុំឱ្យពិបាក មិនបាច់បង្ខំឱ្យជង្គង់ទល់នឹងកម្រាលនោះទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-299", "source": "Come back tomorrow morning. I will chant then.", "target": "ព្រឹកស្អែកចាំអញ្ជើញមកវិញណា៎ញោម ពេលហ្នឹងចាំអាត្មាសូត្រធម៌ឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-300", "source": "Anger cools if you do not feed it with more words.", "target": "ភ្លើងកំហឹងវានឹងរលត់ទៅឯកឯង បើញោមមិនយកពាក្យសម្ដីទៅបញ្ឆេះវាបន្ថែមទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-301", "source": "The ceremony begins after the bell. Wait with the others.", "target": "ទូងជួងរួច ពិធីនឹងចាប់ផ្ដើមហើយ។ ចាំនៅជាមួយគេឯទៀតសិនទៅញោម។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-302", "source": "You did well to help your grandmother up the steps.", "target": "ញោមធ្វើបានល្អណាស់ ដែលបានជួយលោកយាយឡើងកាំជណ្តើរ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-303", "source": "Leave the shoes outside. You may enter quietly.", "target": "ទុកស្បែកជើងនៅខាងក្រៅហើយ អាចចូលមកខាងក្នុងបាន តែសូមចូលដោយថ្នមៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-304", "source": "If you are unsure of the words, listen first.", "target": "បើកូនមិនទាន់ច្បាស់ពាក្យពេចន៍ទេ ស្តាប់សិនទៅណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-305", "source": "Auntie, may I walk with you to the corner? The basket looks heavy.", "target": "អ៊ំ ឱ្យខ្ញុំដើរជូនទៅដល់កាច់ជ្រុងផ្លូវហ្នឹងបានអត់? កន្ត្រកហ្នឹងដូចធ្ងន់ណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-306", "source": "Uncle, which of these mangoes is sweet today?", "target": "ពូ ស្វាយទាំងអស់ហ្នឹង មួយណាផ្អែមថ្ងៃហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-307", "source": "Auntie, my mother asked me to return your bowl.", "target": "មីងអើយ ម៉ែឱ្យខ្ញុំយកចានមកសងមីងវិញហ្នឹងណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-308", "source": "Uncle, your bicycle tire is flat. I can pump it.", "target": "ពូ កង់ពូអស់ខ្យល់ហើយ។ ចាំខ្ញុំជួយសប់ឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-309", "source": "Auntie, the bus you want stops across the road, not here.", "target": "អ៊ំ ឡានក្រុងដែលអ៊ំត្រូវជិះ ឈប់នៅម្ខាងផ្លូវឯណោះតើ មិនមែននៅកន្លែងនេះទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-310", "source": "Uncle, your change is short. I think they missed a note.", "target": "ពូ លុយអាប់ដូចជាខ្វះហើយ ខ្ញុំគិតថាគេភ្លេចឱ្យមួយសន្លឹក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-311", "source": "Grandma, may I sit on the step while you talk?", "target": "យាយ ចៅសុំអង្គុយលើកាំជណ្តើរ ពេលយាយនិយាយគ្នាបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-312", "source": "Ma'am, is this row saved, or may I sit here?", "target": "ជម្រាបសួរលោកស្រី ជួរនេះមានគេទុកហើយឬនៅបាទ ឬមួយខ្ញុំអាចសុំអង្គុយទីនេះបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-313", "source": "Auntie, the nurse called the next number. I think it's yours.", "target": "អ៊ំ ពេទ្យហៅលេខបន្ទាប់ហើយ ដូចជាលេខអ៊ំហើយមើលទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-314", "source": "Uncle, the boatman said children board first. Should I wait behind them?", "target": "ពូ អ្នកបើកទូកថាឱ្យក្មេងៗឡើងមុន។ ចុះខ្ញុំត្រូវចាំក្រោយគេដែរអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-315", "source": "Auntie, your laundry fell off the line. I picked it up.", "target": "មីងអើយ ខោអាវធ្លាក់ពីស្នួល ខ្ញុំរើសឱ្យហើយណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-316", "source": "Sir, you dropped your receipt by the counter.", "target": "លោកបាទ លោកជ្រុះវិក្កយបត្រនៅក្បែរបញ្ជរគិតលុយហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-317", "source": "Auntie, the rain is starting. Do you have a cover for the basket?", "target": "មីង! ភ្លៀងចាប់ផ្ដើមធ្លាក់ហើយតើ មានអីគ្របកន្ត្រកអត់ហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-318", "source": "Uncle, is the morning price the same after noon?", "target": "ពូ ថ្លៃពេលព្រឹក ហើយពេលរសៀល គិតដូចគ្នាអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-319", "source": "Auntie, my ball rolled under your stairs. May I get it?", "target": "អ៊ំ បាល់ខ្ញុំរមៀលចូលក្រោមជណ្តើរអ៊ំហើយ។ ខ្ញុំសុំចូលទៅយកបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-320", "source": "Sir, my father said the meeting moved to the shade by the well.", "target": "ជម្រាបសួរលោកពូ ប៉ាខ្ញុំផ្ដាំមកថា ការប្រជុំប្ដូរទៅក្រោមម្លប់ក្បែរអណ្ដូងវិញហើយចា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-321", "source": "Excuse me, does this bus stop at the hospital?", "target": "សុំទោសបង ឡានក្រុងនេះឈប់នៅមន្ទីរពេទ្យអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-322", "source": "Sorry, I stepped on your foot when the boat rocked.", "target": "សុំទោសផងបង ពេលទូកឃ្លេងឃ្លោងមិញ ខ្ញុំជាន់ជើងបងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-323", "source": "Is the clinic still open, or did I miss the hours?", "target": "បង គ្លីនិកនៅបើកអត់ ឬក៏ខ្ញុំមកហួសម៉ោងហើយ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-324", "source": "Could you point me toward the river road?", "target": "បង សុំសួរមួយ ផ្លូវមាត់ទន្លេទៅតាមណាដែរ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-325", "source": "I think you dropped this scarf.", "target": "ប្រហែលជាបងជ្រុះកន្សែងនេះហើយមើលទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-326", "source": "Please, the line starts behind that pole.", "target": "សុំទោសបង ជួរគេចាប់ផ្ដើមពីក្រោយបង្គោលនោះទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-327", "source": "Do you know if the power will be back tonight?", "target": "បងដឹងអត់ យប់ហ្នឹងភ្លើងមកវិញអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-328", "source": "Sorry, is this the queue for tickets?", "target": "សុំសួរមួយ គេតម្រង់ជួរទិញសំបុត្រនៅកន្លែងនេះមែន?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-329", "source": "Watch your bag. The crowd is pushing toward the gate.", "target": "ប្រយ័ត្នកាបូបបង! មនុស្សកំពុងតែរុញគ្នាសម្រុកទៅមាត់ទ្វារហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-330", "source": "I don't need a ride, thank you. I'm waiting for my sister.", "target": "អរគុណហើយ តែខ្ញុំអត់ទៅទេ ខ្ញុំចាំប្អូនស្រីខ្ញុំ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-331", "source": "Can you hear the announcement? I missed the platform number.", "target": "សុំទោស ឮគេប្រកាសមិញហ្នឹងអត់? ខ្ញុំស្តាប់លេខផ្លូវរថភ្លើងអត់ទាន់ទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-332", "source": "Please don't lean on that glass. It looks cracked.", "target": "សុំទោស កុំផ្អែកលើកញ្ចក់ហ្នឹងអី មើលទៅដូចជាប្រេះហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-333", "source": "I'm looking for the pharmacy with the green sign.", "target": "ខ្ញុំកំពុងរកហាងលក់ថ្នាំដែលមានស្លាកពណ៌បៃតង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-334", "source": "Sorry I'm blocking the aisle. I'll move up.", "target": "សុំទោសផង បាំងផ្លូវហើយ។ ចាំខ្ញុំរំកិលទៅមុខបន្តិច។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-335", "source": "Did the seller say the fruit was included, or did I mishear?", "target": "អ្នកលក់ថាផ្លែឈើហ្នឹងគិតបញ្ចូលដែរ ឬមួយក៏ខ្ញុំស្តាប់ច្រឡំទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-336", "source": "Hold the rail. The stairs are wet.", "target": "តោងបង្កាន់ដៃផង ជណ្តើរសើមណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-337", "source": "Your dog was in our yard this morning. I gave him water and sent him home.", "target": "ព្រឹកមិញ ឆ្កែឯងចូលមកក្នុងដីផ្ទះខ្ញុំ។ ខ្ញុំបានដាក់ទឹកឲ្យវាផឹក ហើយដេញវាឲ្យរត់ទៅផ្ទះវិញហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-338", "source": "We're having a ceremony on Sunday. The music may run late.", "target": "ថ្ងៃអាទិត្យហ្នឹងផ្ទះខ្ញុំមានបុណ្យ ភ្លេងប្រហែលជាលេងដល់យប់ជ្រៅបន្តិចហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-339", "source": "The shared tap is leaking. I turned it tight, but it still drips.", "target": "ក្បាលរ៉ូប៊ីណេដែលយើងប្រើរួមគ្នាហ្នឹងជ្រាបទឹកហើយ។ ខ្ញុំមួលឡើងណែនហើយ តែវានៅតែស្រក់ទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-340", "source": "Can I borrow a cup of rice? The shop is already shut.", "target": "ឯង ខ្ចីអង្ករមួយកែវបានអត់? តូបគេបិទបាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-341", "source": "Your child left a sandal by our gate. I put it on the wall.", "target": "កូនឯងភ្លេចស្បែកជើងមួយចំហៀងនៅមាត់របងផ្ទះ ខ្ញុំយកទៅដាក់លើរបងហ្នឹងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-342", "source": "The smoke from the burning leaves is coming into our kitchen.", "target": "យាយ ផ្សែងដុតស្លឹកឈើហុយចូលពេញផ្ទះបាយយើងហើយតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-343", "source": "I'll watch the lane while you go to the clinic.", "target": "នីតាទៅគ្លីនិកសិនទៅ ចាំខ្ញុំនៅមើលច្រកផ្លូវនេះឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-344", "source": "The power line is hanging low after the wind. Don't let the kids play under it.", "target": "ម៉ាលី ខ្យល់បោកមិញធ្វើឱ្យខ្សែភ្លើងយារធ្លាក់មកទាបណាស់ កុំឱ្យក្មេងៗទៅលេងនៅក្រោមហ្នឹងណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-345", "source": "Thank you for the jackfruit. We shared it after dinner.", "target": "អរគុណណាស់រឿងខ្នុរហ្នឹង! ក្រោយបាយល្ងាចរួច ពួកយើងចែកគ្នាហូបបាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-346", "source": "Please ask your guests to leave the motorbikes off the footpath.", "target": "ជួយប្រាប់ភ្ញៀវឯងកុំឱ្យចតម៉ូតូលើចិញ្ចើមផ្លូវផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-347", "source": "I heard a noise at your back door. Is everyone all right?", "target": "យាយ! ខ្ញុំឮសំឡេងចម្លែកនៅទ្វារក្រោយ។ គ្រប់គ្នាស្រួលបួលទេយាយ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-348", "source": "The well water looks cloudy today. We're boiling ours.", "target": "ថ្ងៃហ្នឹងទឹកអណ្ដូងមើលទៅល្អក់ម៉េចទេ។ ខាងខ្ញុំដាំផឹកហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-349", "source": "Your radio is loud during the baby's nap. Could you lower it after noon?", "target": "វិទ្យុឯងឮខ្លាំងណាស់ពេលអាអូនគេងថ្ងៃ។ ដល់ថ្ងៃត្រង់ជួយបន្ថយសំឡេងបន្តិចបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-350", "source": "I'll take the parcels in if the rain starts before you're back.", "target": "បើភ្លៀងធ្លាក់មុនឯងមកវិញ ចាំខ្ញុំយកឥវ៉ាន់ចូលក្នុងឲ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-351", "source": "The chickens got through the fence again. I shooed them toward your side.", "target": "ពូ មាន់លូនរបងមកទៀតហើយ។ ខ្ញុំដេញវាទៅខាងពូវិញហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-352", "source": "We're painting the front tomorrow. I'll cover your plants if the dust blows.", "target": "ស្អែកហ្នឹងពួកខ្ញុំលាបថ្នាំផ្ទះខាងមុខហើយ។ បើហុយ ខ្ញុំជួយយកអីគ្របដើមផ្កាឱ្យបង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-353", "source": "Can I choose the smaller bunch? I only cook for three.", "target": "ពូ ខ្ញុំសុំរើសយកកញ្ចុំតូចជាងហ្នឹងបានអត់? ខ្ញុំស្លហូបតែបីនាក់ទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-354", "source": "These morning-glory bunches were cut before sunrise.", "target": "ត្រកួនប៉ុន្មានបាច់ហ្នឹង គេកាត់តាំងពីមុនថ្ងៃរះម៉្លេះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-355", "source": "I'll take half a kilo of dried shrimp if you can wrap it dry.", "target": "ខ្ញុំយកបង្គាក្រៀមកន្លះគីឡូ បើបងអាចខ្ចប់ឱ្យស្ងួតល្អបាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-356", "source": "The dried shrimp is salty. Use less than you think.", "target": "បង្គាក្រៀមហ្នឹងប្រៃណា ដាក់តិចជាងឯងគិតទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-357", "source": "The fish smells fine, but the eyes look dull. Show me another.", "target": "ត្រីនេះអត់ធុំក្លិនអីទេ តែភ្នែកអត់សូវភ្លឺសោះ។ ដូរមួយទៀតឱ្យខ្ញុំមើលមកពូ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-358", "source": "This one was still moving when I set the stall up.", "target": "អាមួយហ្នឹង ពេលពូរៀបតូបមិញ នៅរើនៅឡើយទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-359", "source": "Auntie, my mother said not to pay more than the morning price.", "target": "មីង ម៉ាក់ខ្ញុំផ្តាំថាកុំឱ្យលុយលើសថ្លៃព្រឹកមិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-360", "source": "Tell your mother the rain delayed the truck. The price moved.", "target": "ប្រាប់ម៉ែឯងផង ឡានមកយឺតដោយសារភ្លៀង។ តម្លៃវាដូរហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-361", "source": "Do you have the small limes, not the big sour ones?", "target": "ពូមានក្រូចឆ្មារគ្រាប់តូចៗអត់ មិនមែនអាធំៗជូរៗទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-362", "source": "The small ones are in the blue basket. Smell one first.", "target": "អាតូចៗនៅកន្ត្រកខៀវហ្នឹង។ ហិតមើលមួយសិនទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-363", "source": "Can you keep this bag here while I buy the herbs?", "target": "បងឯងជួយមើលកាបូបនេះឱ្យខ្ញុំបន្តិចបានទេ ពេលខ្ញុំទៅទិញគ្រឿងហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-364", "source": "Put it under the table. Don't leave it on the meat side.", "target": "ដាក់វានៅក្រោមតុទៅ កុំទុកនៅខាងសាច់អី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-365", "source": "I'll come back for the charcoal after I get the ice.", "target": "ចាំខ្ញុំទៅយកទឹកកកហើយ ចាំខ្ញុំត្រឡប់មកយកធ្យូងវិញពូ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-366", "source": "If you wait past four, the good bags will be gone.", "target": "បើឯងចាំហួសម៉ោងបួន កាបូបល្អៗគេរើសអស់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-367", "source": "Is the coconut juice from today, or from yesterday's ice?", "target": "ទឹកដូងហ្នឹងទើបកាប់ថ្ងៃនេះ ឬសល់ត្រាំទឹកកកពីម្សិលមិញ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-368", "source": "I opened these just now. Taste a spoon if you doubt it.", "target": "ទើបតែបើកមិញហ្នឹងតើ។ បើអត់ជឿ សាកភ្លក់មួយស្លាបព្រាមើលទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-369", "source": "My scale at home said this was light. Can we weigh it again?", "target": "អាហ្នឹងជញ្ជីងនៅផ្ទះខ្ញុំថ្លឹងទៅថាស្រាល។ យើងសាកថ្លឹងម្តងទៀតបានអត់ពូ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-370", "source": "Put it back on the scale. I'll zero it in front of you.", "target": "ដាក់ឡើងជញ្ជីងវិញមក ចាំពូចុចសូន្យឲ្យឯងឃើញផ្ទាល់ភ្នែកហ្មង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-371", "source": "Wrap the bananas so they don't bruise on the moto.", "target": "ខ្ចប់ចេកហ្នឹងឱ្យស្រួលបួលទៅ កុំឱ្យវាជាំពេលដឹកតាមម៉ូតូ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-372", "source": "I'll put paper between them. Ride slowly over the bridge.", "target": "ចាំចៅដាក់ក្រដាសកល់ចន្លោះវាឱ្យ។ ពេលឆ្លងស្ពានជិះមួយៗណា៎យាយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-373", "source": "Read the sentence again, slower, and stop at the comma.", "target": "អានប្រយោគហ្នឹងឡើងវិញម្ដងទៀត ឲ្យយឺតជាងមុនបន្តិច ហើយឈប់ត្រង់ក្បៀស។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-374", "source": "Teacher, I don't know the word on the third line.", "target": "អ្នកគ្រូ ខ្ញុំអត់ចេះពាក្យនៅជួរទីបីហ្នឹងទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-375", "source": "Your answer is close. Check the date in the question.", "target": "ចម្លើយរបស់ប្អូនជិតត្រូវហើយ។ ពិនិត្យមើលកាលបរិច្ឆេទក្នុងសំណួរឡើងវិញមើល។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-376", "source": "Teacher, may I go to the washroom?", "target": "អ្នកគ្រូ ខ្ញុំសុំទៅបន្ទប់ទឹកបន្តិចបានទេបាទ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-377", "source": "Sit up. I can't hear you from the back row.", "target": "អង្គុយឱ្យត្រង់ខ្លួនបន្តិច។ នៅជួរក្រោយពេក ខ្ញុំស្តាប់មិនឮទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-378", "source": "Teacher, I left my book at home. May I share with her?", "target": "អ្នកគ្រូ ខ្ញុំអត់បានយកសៀវភៅមកទេ ភ្លេចនៅផ្ទះបាត់។ ខ្ញុំសុំចែកគ្នាមើលជាមួយគាត់បានអត់អ្នកគ្រូ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-379", "source": "That's the right sum. Show the class how you grouped it.", "target": "ផលបូកហ្នឹងត្រឹមត្រូវហើយ។ បង្ហាញមិត្តរួមថ្នាក់មើល៍ ថាកូនផ្គុំវាយ៉ាងម៉េច?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-380", "source": "Teacher, the chalk is finished in our box.", "target": "លោកគ្រូ ដីសក្នុងប្រអប់ពួកខ្ញុំអស់ហើយបាទ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-381", "source": "You may rewrite the ending. The first half can stay.", "target": "ប្អូនអាចកែវគ្គបញ្ចប់ឡើងវិញបាន ចំណែកពាក់កណ្តាលខាងមុខទុកដដែលក៏បាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-382", "source": "Teacher, is the test still on Friday if it rains?", "target": "អ្នកគ្រូ បើសិនជាភ្លៀង តើយើងនៅតែប្រឡងថ្ងៃសុក្រដដែលទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-383", "source": "Don't laugh at his mistake. You missed the same one yesterday.", "target": "កុំសើចចំអកលើកំហុសគេ! ម្សិលមិញឯងក៏ធ្វើខុសកន្លែងហ្នឹងដូចគ្នាដែរ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-384", "source": "Teacher, I finished early. Should I wait quietly?", "target": "អ្នកគ្រូ ខ្ញុំបាទធ្វើរួចរាល់មុនម៉ោងហើយ។ តើខ្ញុំត្រូវអង្គុយរង់ចាំស្ងាត់ៗមែនទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-385", "source": "Pack your bag only when I say so.", "target": "លុះត្រាតែអ្នកគ្រូប្រាប់ ទើបអាចរៀបចំកាតាបបាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-386", "source": "Teacher, someone wrote on my notebook. It wasn't me.", "target": "អ្នកគ្រូ មានគេសរសេរលើសៀវភៅខ្ញុំ! មិនមែនខ្ញុំទេអ្នកគ្រូ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-387", "source": "Drink some water, then come back. You look pale.", "target": "កូនទៅផឹកទឹកសិនទៅ ចាំត្រឡប់មកវិញ។ មុខស្លេកស្លាំងអស់ហើយហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-388", "source": "Teacher, my father can't come tomorrow. My mother will.", "target": "អ្នកគ្រូ ថ្ងៃស្អែកពុកខ្ញុំអត់បានមកទេ ម៉ាក់ខ្ញុំគាត់មកវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-389", "source": "Point to where the pain starts, then where it travels.", "target": "សូមជួយចង្អុលបង្ហាញកន្លែងដែលចាប់ផ្ដើមឈឺ រួចបន្ទាប់មកវារាលទៅណាទៀត?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-390", "source": "It starts under the ribs and moves when I breathe in.", "target": "វាចាប់ផ្ដើមឈឺនៅក្រោមឆ្អឹងជំនី ហើយពេលខ្ញុំដកដង្ហើមចូល វារាលរើកន្លែងទៀត អ្នកគ្រូ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-391", "source": "The cut is clean. Keep it dry until tomorrow.", "target": "មុខរបួសមិនអីទេ ស្អាតល្អ។ សូមរក្សាវាឱ្យស្ងួត កុំទាន់ឱ្យត្រូវទឹកដល់ស្អែក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-392", "source": "It stings when I lift my arm. Is that expected?", "target": "ពេលខ្ញុំលើកដៃឡើង ខ្ញុំមានអារម្មណ៍ថាឈឺចាក់ៗ។ តើរោគសញ្ញានេះធម្មតាទេអ្នកគ្រូពេទ្យ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-393", "source": "You don't have a fever now. Rest, and come back if it returns tonight.", "target": "ឥឡូវអត់ក្ដៅខ្លួនទេ សម្រាកឱ្យបានច្រើនទៅ បើយប់ហ្នឹងឡើងក្ដៅវិញ ចាំត្រឡប់មកជួបខ្ញុំម្ដងទៀតណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-394", "source": "I felt dizzy on the bus. I didn't eat breakfast.", "target": "នៅលើឡានក្រុង ខ្ញុំមានអារម្មណ៍ថាវិលមុខ។ ព្រឹកនេះ ខ្ញុំអត់បានញ៉ាំអាហារពេលព្រឹកទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-395", "source": "Take this with food, not on an empty stomach.", "target": "ថ្នាំនេះលោកតាត្រូវលេបក្រោយពេលបាយណា កុំលេបពេលពោះទទេឲ្យសោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-396", "source": "I forget the evening pill. Can my granddaughter remind me?", "target": "ថ្នាំពេលល្ងាចហ្នឹងតាភ្លេចញឹកញាប់ពេកហើយអ្នកគ្រូពេទ្យ។ តើឲ្យចៅស្រីតាជួយតាមដានរំលឹកបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-397", "source": "This will pinch for a second. Look at your mother, not the needle.", "target": "ឈឺដូចស្រមោចខាំមួយភ្លែតទេណា៎កូន។ មើលទៅម៉ាក់ទៅ កុំមើលម្ជុលអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-398", "source": "I'm scared. Can my mom hold my hand?", "target": "ខ្ញុំភ័យណាស់អ្នកគ្រូ... តើអាចឱ្យម៉ាក់ខ្ញុំកាន់ដៃខ្ញុំបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-399", "source": "The swelling should ease by morning. Don't wrap it tighter than this.", "target": "ដល់ព្រឹកស្អែក អាការហើមនឹងអាចស្រកហើយ។ កុំរុំឲ្យតឹងជាងហ្នឹងណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-400", "source": "I can still walk. I just can't put the heel down.", "target": "ខ្ញុំបាទនៅដើររួចតើ គ្រាន់តែទម្លាក់កែងជើងជាន់មិនបានទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-401", "source": "She coughed all night. She drank water but wouldn't eat.", "target": "កូនស្រីខ្ញុំក្អកពេញមួយយប់។ គាត់ផឹកតែទឹក តែមិនព្រមញ៉ាំអីទាល់តែសោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-402", "source": "Give her small sips. If the cough keeps her awake, come back at dawn.", "target": "ឱ្យកូនផឹកទឹកម្តងបន្តិចៗណា។ បើគាត់ក្អកខ្លាំងរហូតគេងមិនលក់ទេ ព្រឹកព្រលឹមឡើងនាំគាត់មកជួបពេទ្យវិញមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-403", "source": "I took the old medicine from home. Was that wrong?", "target": "ខ្ញុំលេបថ្នាំចាស់ដែលនៅផ្ទះ តើវាខុសអត់អ្នកគ្រូ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-404", "source": "Stop that bottle. We'll use the one I'm writing down.", "target": "ផ្អាកដបហ្នឹងសិនទៅ។ យើងប្រើដបដែលខ្ញុំកំពុងកត់នេះវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-405", "source": "Tell me what you saw, slowly, from the moment you left the shop.", "target": "សូមប្រាប់ខ្ញុំមួយៗមក អំពីអ្វីដែលបានឃើញ ចាប់ពីពេលចេញពីហាងមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-406", "source": "A man in a red cap took the phone from the table and ran toward the market.", "target": "លោកប៉ូលិស មានប្រុសម្នាក់ពាក់មួកក្រហម ឆក់យកទូរស័ព្ទពីលើតុ ហើយរត់សំដៅទៅខាងផ្សារបាត់ហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-407", "source": "Keep your hands where I can see them and answer one question at a time.", "target": "ដាក់ដៃនៅកន្លែងដែលខ្ញុំអាចមើលឃើញ ហើយឆ្លើយសំណួរម្តងមួយៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-408", "source": "I was at my sister's house. She can tell you the time.", "target": "ខ្ញុំនៅផ្ទះបងស្រីខ្ញុំតើលោក។ គាត់អាចប្រាប់ម៉ោងពេលបាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-409", "source": "Move the motorbike off the crossing. You're blocking the ambulance path.", "target": "សូមរំកិលម៉ូតូចេញពីគំនូសថ្មើរជើងភ្លាម! លោកកំពុងបាំងផ្លូវរថយន្តសង្គ្រោះបន្ទាន់ហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-410", "source": "Sorry, officer. I stalled. I'll push it now.", "target": "សុំទោសលោកប៉ូលិស វារលត់ម៉ាស៊ីន។ ចាំខ្ញុំរុញចេញឥឡូវហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-411", "source": "Is this your bag? Describe what is inside before I open it.", "target": "នេះជាកាបូបរបស់អ្នកមែនទេ? ជួយរៀបរាប់ប្រាប់ថាមានអ្វីខ្លះនៅខាងក្នុង មុនពេលខ្ញុំបើកវា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-412", "source": "A blue wallet, house keys, and a school letter. The zipper sticks.", "target": "ក្នុងហ្នឹងមានកាបូបលុយពណ៌ខៀវ កូនសោផ្ទះ ហើយនឹងលិខិតសាលាមួយ... ខ្សែរ៉ូតវាជាប់ស្អិត ពិបាកទាញណាស់ចាស។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-413", "source": "The station is closing the side gate. Use the front door.", "target": "ស្ថានីយ៍កំពុងបិទទ្វារចំហៀងហើយ។ សូមចេញចូលតាមទ្វារខាងមុខវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-414", "source": "Officer, I came to report a lost identification card.", "target": "ជម្រាបសួរលោក ខ្ញុំមកដាក់ពាក្យបណ្ដឹងបាត់កាតអត្តសញ្ញាណប័ណ្ណ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-415", "source": "Auntie, stay on the pavement. The trucks don't slow down here.", "target": "លោកយាយ នៅលើចិញ្ចើមផ្លូវសិនទៅ! ឡានធំៗនៅម្តុំនេះអត់បន្ថយល្បឿនទេណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-416", "source": "Thank you, officer. I was looking for the clinic gate.", "target": "អរគុណច្រើនណា៎លោកប៉ូលិស។ មិញនេះ យាយកំពុងដើររកច្រកចូលគ្លីនិកហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-417", "source": "I asked you to wait, and you left anyway.", "target": "ខ្ញុំប្រាប់ឱ្យឯងចាំហើយ នៅតែដើរចេញទៅកើត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-418", "source": "This is the third time the number is wrong.", "target": "នេះជាលើកទីបីហើយ ដែលលេខនេះខុសដដែល!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-419", "source": "Don't raise your voice at her. Talk to me.", "target": "កុំស្រែកដាក់នាង! មានអីនិយាយជាមួយខ្ញុំមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-420", "source": "You laughed while I was still explaining.", "target": "ខ្ញុំកំពុងតែពន្យល់សោះ ឯងបែរជាមកសើចដាក់ខ្ញុំ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-421", "source": "I am not your errand runner.", "target": "ខ្ញុំមិនមែនជាអ្នកបម្រើចាំតែរត់ការឱ្យអ្នកនាងនោះឡើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-422", "source": "Put the phone down when I'm speaking.", "target": "ពេលម៉ាក់កំពុងនិយាយ ដាក់ទូរសព្ទចុះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-423", "source": "You took the credit for work we both did.", "target": "ឯងយកមុខយកមាត់លើការងារដែលយើងធ្វើទាំងពីរនាក់ហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-424", "source": "I saved that seat. You saw me put the bag there.", "target": "កន្លែងហ្នឹងខ្ញុំកក់ទុកតើ! ឯងឃើញខ្ញុំដាក់កាតាបនៅហ្នឹងហើយតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-425", "source": "Stop telling people I agreed. I didn't.", "target": "ឈប់ដើរប្រាប់គេថាខ្ញុំយល់ព្រមទៀតទៅ! ខ្ញុំអត់បានព្រមផងហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-426", "source": "I came home to a mess and no note.", "target": "ពុកមកដល់ផ្ទះវិញ ឃើញសុទ្ធតែរញ៉េរញ៉ៃពេញហ្នឹង ហើយគ្មានទុកក្រដាសផ្ដាំមួយម៉ាត់សោះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-427", "source": "You knew I had the interview. You still took the bike.", "target": "ឯងដឹងហើយតើថាខ្ញុំត្រូវសម្ភាសន៍! នៅតែយកម៉ូតូទៅទៀត?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-428", "source": "I can hear you. You don't need to repeat it like I'm a child.", "target": "យាយស្ដាប់ឮហើយ! មិនបាច់និយាយដដែលៗ ដូចយាយជាកូនក្មេងទេ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-429", "source": "That joke was mean. Don't do it again.", "target": "លេងសើចចឹងអត់សមសោះ! លើកក្រោយកុំធ្វើចឹងទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-430", "source": "I waited in the rain. A message would have been enough.", "target": "ខ្ញុំឈរចាំឡើងទទឹកភ្លៀងអស់ហើយ។ គ្រាន់តែផ្ញើសារមកប្រាប់មួយម៉ាត់ ក៏បានដែរហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-431", "source": "Don't touch the papers. I just sorted them.", "target": "កុំប៉ះក្រដាសហ្នឹង! ខ្ញុំទើបតែរៀបហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-432", "source": "I'm angry, and I still want a straight answer.", "target": "ខ្ញុំកំពុងខឹង ហើយខ្ញុំនៅតែចង់បានចម្លើយត្រង់ៗពីបង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-433", "source": "You seasoned the soup like it insulted your family.", "target": "ឯងដាក់គ្រឿងស៊ុបហ្នឹង ដូចវាធ្លាប់ជេរម៉ែឯងពីកាលណាចឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-434", "source": "The chicken looked at you and chose a fight. Stay back.", "target": "អាមាន់ហ្នឹងមើលមុខឯង ឃើញចង់រករឿងតែម្ដង! ថយចេញមកសិនមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-435", "source": "You bowed to the mannequin. It did not bow back.", "target": "ហែងទៅសំពះរូបម៉ានឺកាំង តែវាអត់សំពះតបហែងវិញផង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-436", "source": "My motorbike starts only if I apologize to it first.", "target": "ម៉ូតូខ្ញុំទាល់តែសុំទោសវាសិន បានវាព្រមឆេះឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-437", "source": "You called the teacher Mom in front of the whole class.", "target": "ឯងហៅអ្នកគ្រូថាម៉ាក់នៅមុខគេពេញមួយថ្នាក់ហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-438", "source": "The fan is louder than your speech. We heard the fan.", "target": "សំឡេងកង្ហារឮជាងឯងនិយាយទៅទៀត! ឮតែកង្ហារហ្នឹងឯង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-439", "source": "You packed three shirts and seven snacks for one night.", "target": "ទៅតែមួយយប់សោះ ឯងរៀបអាវដល់ទៅបី នំដល់ទៅប្រាំពីរមុខ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-440", "source": "Uncle, your sunglass is still on your forehead.", "target": "ពូ! វ៉ែនតានៅលើថ្ងាសឯណោះតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-441", "source": "The cat attended the meeting and disagreed with everyone.", "target": "អាឆ្មាហ្នឹងចូលប្រជុំនឹងគេដែរ តែដើរតែជំទាស់គេពេញហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-442", "source": "You waved at your own reflection in the shop window.", "target": "មិញឯងបក់ដៃដាក់ស្រមោលខ្លួនឯងក្នុងកញ្ចក់ហាងតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-443", "source": "That dance move needs a warning sign.", "target": "ក្បាច់រាំឯងហ្នឹង គួរតែដាក់ស្លាកប្រយ័ត្នហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-444", "source": "You asked the statue for directions and almost waited for an answer.", "target": "ឯងទៅសួរផ្លូវរូបសំណាក ហើយចង់ឈរចាំគេឆ្លើយទៀត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-445", "source": "You missed your mouth and still blamed the spoon.", "target": "ឯងញ៉ាំខុសមាត់ខ្លួនឯងសោះ ទៅបន្ទោសស្លាបព្រាកើតដែរហា៎!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-446", "source": "Look at you, dressed up like the bus might take a photo.", "target": "មើលកូនឯងចុះ តែងខ្លួនឡើងឡូយ ដូចឡានក្រុងចាំថតរូបឱ្យអញ្ចឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-447", "source": "My little brother thinks hot sauce is a personality.", "target": "អាប្អូនខ្ញុំ វាគិតថាការញ៉ាំទឹកម្ទេសហ្នឹង គឺជាចរិតឡូយរបស់វាទៅហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-448", "source": "You rehearsed that greeting in the mirror, didn't you?", "target": "ឯងហាត់និយាយស្វាគមន៍មុខកញ្ចក់មកមែនអត់ហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-449", "source": "Come here, messy hair. The wind won.", "target": "មកនេះមើល៍ មេក្បាលកន្ទ្រើង! ខ្យល់ឈ្នះឯងបាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-450", "source": "You saved me the burnt piece and called it lucky.", "target": "ហែងទុកអាខ្លោចឱ្យអញ ហើយនៅថាហេងទៀត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-451", "source": "Auntie's favorite, you ate the center of the cake again.", "target": "ចៅសំណព្វចិត្តមីងឯងហ្នឹង ញ៉ាំចំកណ្តាលនំទៀតហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-452", "source": "You're smiling at your phone like it told a secret.", "target": "ឯងញញឹមដាក់ទូរសព្ទឡើងជាប់ ដូចវាទើបតែប្រាប់រឿងសម្ងាត់អីចឹងហ្ន៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-453", "source": "Slow down, champion. The race is to the kitchen, not the road.", "target": "យឺតៗមើល៍ អាជើងខ្លាំង! ប្រណាំងទៅផ្ទះបាយតើ មិនមែនផ្លូវធំឯណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-454", "source": "You hug the pillow harder than you hug people.", "target": "ឯងឱបខ្នើយណែនជាងឱបមនុស្សទៅទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-455", "source": "My dear, you named the goldfish and then forgot to feed it.", "target": "កូនសម្លាញ់អើយ ដាក់ឈ្មោះឱ្យត្រីមាសហើយ ស្រាប់តែភ្លេចឱ្យចំណីវាបាត់ទៅវិញ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-456", "source": "You wore two different sandals and walked like it was fashion.", "target": "ឯងពាក់ស្បែកជើងខុសគូ ហើយដើរធ្វើឫកដូចហ្វេសសិនចឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-457", "source": "Mother, I bought the fish you like. I'll clean it outside.", "target": "អ្នកម៉ាក់ ខ្ញុំទិញត្រីដែលម៉ាក់ចូលចិត្តបានហើយ ចាំខ្ញុំយកទៅលាងសម្អាតនៅខាងក្រៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-458", "source": "The soup is on the stove. Don't let it sit.", "target": "សម្លនៅលើចង្ក្រានហ្នឹង កុំទុកចោលយូរពេកណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-459", "source": "I can take Father to the clinic if you need the morning.", "target": "បើលោកពុកត្រូវការពេលព្រឹកនេះ កូនអាចជូនលោកពុកទៅគ្លីនិកបាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-460", "source": "You don't have to hover. Sit and eat with us.", "target": "មិនបាច់ឈរមើលអ៊ីចឹងទេកូន មកអង្គុយញ៉ាំបាយជុំគ្នាទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-461", "source": "The children asked for you before they asked for me.", "target": "ពួកវាសួររកម៉ែ មុនសួររកខ្ញុំទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-462", "source": "I'll wash the dishes. You hosted enough people today.", "target": "ឱ្យយាយលាងចានទាំងនេះវិញទៅ ថ្ងៃនេះឯងទទួលភ្ញៀវច្រើនណាស់ហើយ សម្រាកខ្លះទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-463", "source": "Please tell me if the chili is too much for Father.", "target": "លោកយាយ បើសិនជាម្ទេសហឹរពេកសម្រាប់លោកពុក ជួយប្រាប់ចៅផងណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-464", "source": "I moved the shoes so you wouldn't trip in the dark.", "target": "ស្បែកជើងហ្នឹងពុកទុកចេញហើយ ខ្លាចឯងងងឹតៗដើរទាក់ជើងដួល។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-465", "source": "Your son called. He'll be late, but he's on the way.", "target": "កូនម៉ាក់ខលមក។ គាត់ថាមកយឺតបន្តិច តែឥឡូវកំពុងតាមផ្លូវហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-466", "source": "I don't know if I say the greeting right. Correct me if I slip.", "target": "ម៉ាក់មិនដឹងថានិយាយជម្រាបសួរត្រូវអត់ទេ បើម៉ាក់ភ្លាត់ កូនជួយកែម៉ាក់ផងណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-467", "source": "Leave the heavy pot. I'll carry it to the table.", "target": "ទុកឆ្នាំងធ្ងន់ហ្នឹងសិនទៅយាយ ចាំចៅលើកយកទៅតុឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-468", "source": "Thank you for keeping the room ready. We won't stay past Sunday.", "target": "អរគុណចៅហើយណា៎ ដែលបានរៀបចំបន្ទប់ទុកឱ្យយាយ។ ពួកយាយមិននៅហួសពីថ្ងៃអាទិត្យទេណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-469", "source": "Driver, please stop at the clinic gate, not the market.", "target": "បង ជួយឈប់នៅមុខខ្លោងទ្វារគ្លីនិកមក កុំឈប់នៅផ្សារណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-470", "source": "The road is flooded past the bridge. We should turn around.", "target": "ហួសស្ពានទៅ ផ្លូវលិចទឹកបាត់ហើយ។ ពួកយើងបកក្រោយវិញល្អជាង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-471", "source": "Hold on. The ferry rocks when the truck boards.", "target": "ចាប់បង្កាន់ដៃឱ្យជាប់អូន! ពេលឡានធំឡើង សាឡាងវាឃ្លោងខ្លាំងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-472", "source": "Is this seat free all the way to the province?", "target": "កន្លែងនេះទំនេររហូតដល់ខេត្តអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-473", "source": "I missed the last bus. Is there a shared taxi still leaving?", "target": "ខ្ញុំមកអត់ទាន់ឡានក្រុងជើងចុងក្រោយទេ។ នៅសល់ឡានឈ្នួលចេញទៀតទេពូ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-474", "source": "Driver, the child gets sick if you take the curves fast.", "target": "បងម៉ៅ បើកកុំកាច់ចង្កូតលឿនពេក ក្មេងវាស្រួលមិនស្រួលពុលឡានឥឡូវហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-475", "source": "Move your bag. People can't pass in the aisle.", "target": "រំកិលកាបូបឯងចេញតិចមើល គេដើរអត់រួចទេតាមផ្លូវហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-476", "source": "The ticket man said our stop is after the pagoda, not before.", "target": "អ្នកលក់សំបុត្រគាត់ថា កន្លែងយើងចុះនៅហួសវត្តតើ មិនមែនមុនវត្តទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-477", "source": "I'll take the window. You can have the side with the fan.", "target": "ខ្ញុំយកខាងបង្អួចហើយ។ ឯងយកខាងកង្ហារទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-478", "source": "The boat is full. We'll wait for the next one.", "target": "ទូកពេញបាត់ហើយបង ចាំជើងក្រោយទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-479", "source": "Driver, that lane is a dead end. The school is to the left.", "target": "បងតៃកុង ផ្លូវនោះជាផ្លូវទាល់ទេ សាលានៅខាងឆ្វេងដៃ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-480", "source": "Keep your arm inside. The trucks pass close here.", "target": "ដាក់ដៃចូលក្នុងមក! កន្លែងហ្នឹងឡានធំៗបើកកៀកៗណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-481", "source": "We should buy water before the station. The next town is far.", "target": "យើងទិញទឹកទុកមុនដល់ស្ថានីយទៅ ក្រុងបន្ទាប់ទៀតឆ្ងាយណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-482", "source": "Excuse me, is the night bus the one with the blue stripe?", "target": "សុំទោសបង ឡានយប់គឺអាមួយដែលមានឆ្នូតខៀវមែនទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-483", "source": "The rain is on the seat. Let me wipe it before you sit.", "target": "មានទឹកភ្លៀងលើកៅអី ចាំខ្ញុំជូតចេញសិន ចាំឯងអង្គុយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-484", "source": "Tell me when we cross the river. I want to watch.", "target": "ដល់ពេលឆ្លងទន្លេ ជួយប្រាប់ខ្ញុំផងណាពូ ខ្ញុំចង់មើល។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-485", "source": "The copier is eating paper again. I already told the front desk.", "target": "ម៉ាស៊ីនកូពីស៊ីក្រដាសទៀតហើយ។ ខ្ញុំប្រាប់ខាងមុខរួចហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-486", "source": "I'll cover the counter if you take the delivery out back.", "target": "ទៅទទួលអីវ៉ាន់នៅក្រោយទៅ ចាំខ្ញុំមើលមុខទូឲ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-487", "source": "Don't send that email yet. The total on line four is off.", "target": "កុំទាន់អាលផ្ញើអ៊ីមែលហ្នឹង! ចំនួនសរុបត្រង់ជួរទីបួនអត់ត្រូវទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-488", "source": "The meeting moved to the room with the working fan.", "target": "គេដូរការប្រជុំទៅបន្ទប់ដែលមានកង្ហារដើរវិញហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-489", "source": "I saved you a stamp. The drawer was almost empty.", "target": "ខ្ញុំទុកតែមមួយឱ្យឯង។ ក្នុងថតតុជិតអស់រលីងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-490", "source": "The customer is upset about yesterday, not about you.", "target": "ភ្ញៀវខឹងរឿងម្សិលមិញតើ មិនមែនខឹងឯងទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-491", "source": "I'll finish the labels if you pack the small boxes.", "target": "ចាំខ្ញុំបិទស្លាកឲ្យហើយ បើឯងជួយរៀបប្រអប់តូចៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-492", "source": "Your headset is muted. That's why they kept saying hello.", "target": "កាសឯងបិទមេក្រូតើ! ចឹងតើបានជាគេចេះតែអាឡូៗមិនឈប់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-493", "source": "The lunch order is at the gate. Someone has to walk down.", "target": "បាយថ្ងៃត្រង់ដែលកុម្ម៉ង់មកដល់មាត់ទ្វារហើយ។ ត្រូវមានអ្នកចុះទៅយកម្នាក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-494", "source": "I logged the shortage. Please don't guess a number later.", "target": "ខ្ញុំកត់អាខ្វះហ្នឹងទុកហើយ តិចទៀតកុំចេះតែស្មានលេខដាក់អីណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-495", "source": "The new password works. You were typing the old one.", "target": "លេខសម្ងាត់ថ្មីប្រើបានតើ។ មិញឯងវាយអាលេខចាស់ទេតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-496", "source": "Leave the lights on in the hall. The night shift is coming in.", "target": "ទុកភ្លើងតាមផ្លូវដើរឱ្យនៅភ្លឺសិនទៅ ពួកវេនយប់ជិតមកចូលហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-497", "source": "I can hear the street, not you. Step inside and say it again.", "target": "ឮតែសំឡេងឡានទេ អត់ឮឯងនិយាយអីផង។ ចូលមកខាងក្នុងមក ចាំនិយាយម្តងទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-498", "source": "You cut out after the word hospital. Is someone hurt?", "target": "ឮដល់ពាក្យពេទ្យ ស្រាប់តែដាច់សំឡេងបាត់។ មានអ្នកណាកើតអីមែនបង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-499", "source": "Don't hang up. I'm writing the address down.", "target": "កុំអាលបិទណា៎ ខ្ញុំកំពុងកត់អាសយដ្ឋានទុក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-500", "source": "I'm whispering because the baby just fell asleep.", "target": "ខ្ញុំនិយាយខ្សឹបៗហ្នឹង ព្រោះអាអូនទើបតែគេងលក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-501", "source": "Mom, the charcoal stove is still smoking after breakfast.", "target": "ម៉ាក់ ចង្ក្រានធ្យូងនៅតែហុយផ្សែងទៀត ទាំងដែលយើងញ៉ាំបាយព្រឹករួចហើយហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-502", "source": "Dad, my stomach feels tight after that sour soup.", "target": "ប៉ា ញ៉ាំសម្លម្ជូរហ្នឹងរួច កូនមានអារម្មណ៍ថាណែនពោះ មិនស្រួលសោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-503", "source": "Mom, can I take the leftover rice to the school gate tomorrow?", "target": "ម៉ាក់ ស្អែកខ្ញុំសុំយកបាយសល់ទៅមុខសាលាបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-504", "source": "Dad, the teacher said I kicked the ball into the window.", "target": "ពុក លោកគ្រូគាត់ថាកូនទាត់បាល់បុកបង្អួច។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-505", "source": "Mom, I can't find my other sandal under the bench.", "target": "ម៉ាក់ ខ្ញុំរកស្បែកជើងម្ខាងទៀតនៅក្រោមបង់អត់ឃើញទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-506", "source": "Dad, the puppy followed me from the lane and sat down.", "target": "ប៉ា! កូនឆ្កែហ្នឹងដើរតាមកូនតាំងពីក្នុងច្រកមក ហើយមកអង្គុយចុះនៅហ្នឹងបាត់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-507", "source": "Mom, the power is out and I can't finish the reading.", "target": "ម៉ាក់ ដាច់ភ្លើងបាត់ហើយ ហើយកូនអានសៀវភៅមិនទាន់ចប់ផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-508", "source": "Dad, may I sleep at Grandma's house on Friday night?", "target": "ប៉ា សុំយប់ថ្ងៃសុក្រទៅគេងនៅផ្ទះយាយមួយយប់បានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-509", "source": "Mom, I spilled soy sauce down my white shirt again.", "target": "ម៉ាក់ ខ្ញុំច្រឡំធ្វើឲ្យកំពប់ទឹកស៊ីអ៊ីវស្រក់លើអាវសទៀតហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-510", "source": "Dad, the neighbor's radio was on before sunrise.", "target": "ប៉ា វិទ្យុផ្ទះជិតខាងបើកតាំងពីមិនទាន់ភ្លឺផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-511", "source": "Mom, this collar itches. Can I change shirts?", "target": "ម៉ាក់ កអាវនេះរមាស់ណាស់។ ខ្ញុំសុំដូរអាវបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-512", "source": "Dad, I saw a long snake by the well just now.", "target": "ពុក! អម្បាញ់មិញកូនឃើញពស់វែងមួយនៅក្បែរអណ្ដូង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-513", "source": "Mom, can you tie my hair before we walk out?", "target": "ម៉ាក់ ជួយចងសក់ឱ្យកូនបន្តិចសិនបានអត់ មុនពេលយើងចេញទៅ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-514", "source": "Dad, the water jug is empty and I'm still thirsty.", "target": "ពុក ថូទឹកអស់ហើយ ហើយកូននៅស្រេកទឹកនៅឡើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-515", "source": "Mom, the baby is crying in the hammock and won't settle.", "target": "ម៉ែ អាតូចវាយំក្នុងអង្រឹង អត់ព្រមនៅស្ងៀមសោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-516", "source": "Dad, may I borrow the small flashlight for the yard?", "target": "ប៉ា ខ្ញុំសុំខ្ចីពិលតូចយកទៅឆ្លុះក្រៅផ្ទះបន្តិចបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-517", "source": "Mom, I got every sum right on the practice sheet.", "target": "ម៉ាក់! កូនធ្វើលំហាត់ក្នុងសន្លឹកកិច្ចការត្រូវទាំងអស់ហ្មង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-518", "source": "Dad, the bicycle chain came off halfway down the lane.", "target": "ប៉ា ច្រវាក់កង់របូតបាត់ហើយ នៅត្រង់ពាក់កណ្តាលផ្លូវហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-519", "source": "Mom, can we buy eggs on the way home from school?", "target": "ម៉ាក់ តាមផ្លូវចេញពីរៀនទៅផ្ទះ យើងឈាងទិញពងមាន់បានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-520", "source": "Dad, I walked the long way because the short path is mud.", "target": "ប៉ា កូនដើរផ្លូវវាង ព្រោះផ្លូវកាត់សុទ្ធតែភក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-521", "source": "Mom, I put the shoes in a row by the door.", "target": "ម៉ាក់ កូនរៀបស្បែកជើងជាជួរនៅមាត់ទ្វារហើយណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-522", "source": "Dad, the roof is dripping onto my mat again.", "target": "ពុក ដំបូលស្រក់ទឹកលើកន្ទេលកូនទៀតហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-523", "source": "Mom, Auntie said I may help sell drinks on Sunday.", "target": "ម៉ាក់! មីងប្រាប់ថាកូនអាចទៅជួយគាត់លក់ទឹកបាននៅថ្ងៃអាទិត្យ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-524", "source": "Dad, can I feed the chickens before it gets dark?", "target": "ពុក កូនសុំទៅដាក់ចំណីមាន់មុនមេឃងងឹតបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-525", "source": "Mom, the other children left me out of the game.", "target": "ម៉ាក់ ពួកក្មេងៗគេអត់ឱ្យកូនលេងជាមួយគេផង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-526", "source": "Dad, I think I left my notebook on the classroom bench.", "target": "ប៉ា កូនដូចជាភ្លេចសៀវភៅនៅលើបង់ក្នុងថ្នាក់បាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-527", "source": "Mom, the rice is warm. Should I set out two bowls?", "target": "ម៉ាក់ បាយក្ដៅហើយ ឱ្យខ្ញុំដួសពីរចានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-528", "source": "Dad, someone is knocking and I don't know the voice.", "target": "ប៉ា! មានគេគោះទ្វារ ហើយកូនអត់ស្គាល់សំឡេងទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-529", "source": "Mom, can I wear the blue shirt to the market?", "target": "ម៉ាក់ កូនពាក់អាវពណ៌ខៀវទៅផ្សារបានទេ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-530", "source": "Dad, my legs hurt from carrying the water twice.", "target": "ប៉ា ខ្ញុំឈឺជើងណាស់ មកពីយួរទឹកពីរជើងមិញហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-531", "source": "Mom, look, the bean sprouts finally came up.", "target": "ម៉ាក់ មើលនែ! ទីបំផុតសណ្ដែកបណ្ដុះដុះចេញមកហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-532", "source": "Dad, the gas smells near the stove. Don't light it yet.", "target": "ប៉ា ធុំក្លិនហ្គាសនៅក្បែរចង្ក្រាន កុំទាន់អាលអុជណា៎!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-533", "source": "Mom, I washed the spoons and left them in the rack.", "target": "ម៉ាក់! ខ្ញុំលាងស្លាបព្រាទុកក្នុងកន្ត្រកហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-534", "source": "Dad, may I sit on the step until the rain slows?", "target": "ប៉ា កូនសុំអង្គុយលើកាំជណ្តើរនេះសិនបានអត់ ចាំភ្លៀងរាងស្រាលបន្តិច?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-535", "source": "Mom, I tore the page and I can't tape it straight.", "target": "ម៉ាក់ កូនហែកក្រដាសរហែកហើយ ហើយកូនបិទស្កុតអត់ស្មើវិញទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-536", "source": "Dad, the dog won't come out from under the house.", "target": "ប៉ា ឆ្កែអត់ព្រមចេញពីក្រោមផ្ទះមកសោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-537", "source": "Mom, can you check if my fever is still there?", "target": "ម៉ាក់ ជួយស្ទាបមើលខ្ញុំបន្តិច នៅក្តៅខ្លួនទៀតអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-538", "source": "Dad, I saved you the sweet piece of mango.", "target": "ប៉ា! កូនទុកចំណិតស្វាយផ្អែមឱ្យប៉ា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-539", "source": "Mom, I swept the front room and shook the mat.", "target": "ម៉ាក់ កូនបោសផ្ទះខាងមុខ ហើយរលាស់កន្ទេលរួចហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-540", "source": "Dad, can I lie down before we go to the shop?", "target": "ប៉ា កូនសុំគេងបន្តិចសិនបានអត់ មុនពេលយើងទៅហាង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-541", "source": "Mom, the ants are in the sugar jar again.", "target": "ម៉ែ ស្រមោចចូលកំប៉ុងស្ករទៀតហើយហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-542", "source": "Dad, I hung the wet shirts on the back line.", "target": "ប៉ា កូនហាលអាវសើមនៅខ្សែហាលខាងក្រោយហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-543", "source": "Mom, the thunder is close. Can I stay in here?", "target": "ម៉ាក់ ផ្គរលាន់ជិតណាស់! កូនសុំនៅទីនេះបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-544", "source": "Dad, may I take one banana for the walk?", "target": "ប៉ា កូនសុំយកចេកមួយផ្លែទៅញ៉ាំតាមផ្លូវបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-545", "source": "Mom, Grandma said my reading is getting clearer.", "target": "ម៉ាក់ យាយថាឥឡូវខ្ញុំអានច្បាស់ល្អជាងមុនហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-546", "source": "Dad, the bucket handle cracked when I filled it.", "target": "ប៉ា ដៃធុងទឹកហ្នឹងប្រេះបាត់ហើយ ពេលកូនដងទឹកដាក់ពេញមិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-547", "source": "Mom, I closed the shutters on the windy side.", "target": "ម៉ាក់ បង្អួចខាងត្រូវខ្យល់ខ្លាំងហ្នឹង កូនបិទរួចហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-548", "source": "Dad, I lost the coin you gave me for bread.", "target": "ប៉ា កូនធ្វើបាត់លុយកាក់ដែលប៉ាឱ្យទិញនំប៉័ងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-549", "source": "Mom, can we eat early? I'm hungry from the game.", "target": "ម៉ាក់ ញ៉ាំបាយមុនម៉ោងបន្តិចបានអត់? កូនលេងហត់ ឃ្លានចង់ដាច់ពោះហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-550", "source": "Dad, the baby pulled the cloth and the cup tipped.", "target": "ប៉ា! អាអូនទាញក្រណាត់ ក្រឡាប់កែវកំពប់អស់ហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-551", "source": "Wash your hands before you touch the rice pot.", "target": "កូន លាងដៃសិនទៅ ចាំទៅប៉ះឆ្នាំងបាយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-552", "source": "Finish the greens first. Then you can have fruit.", "target": "ញ៉ាំបន្លែឱ្យអស់សិនទៅ ចាំញ៉ាំផ្លែឈើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-553", "source": "Come here and let me see that scrape.", "target": "មកនេះមកកូន ឲ្យម៉ាក់មើលកន្លែងរលាត់ហ្នឹងបន្តិចមើល៍។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-554", "source": "Put the shoes in a pair so we can find them.", "target": "ដាក់ស្បែកជើងជាគូៗទៅកូន ចាំស្រួលរក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-555", "source": "Don't stand on that chair. Call me if you need the shelf.", "target": "កុំឈរលើកៅអីហ្នឹងកូន! បើចង់យកអីលើធ្នើរ ហៅម៉ាក់មក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-556", "source": "Take the umbrella. The lane floods when it pours.", "target": "យកឆ័ត្រទៅផង ឲ្យតែភ្លៀងខ្លាំង ផ្លូវហ្នឹងលិចហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-557", "source": "You did the whole page. I'm proud of the neat lines.", "target": "កូនធ្វើបានមួយទំព័រពេញហ្នឹង! ម៉ាក់សរសើរកូនត្រង់គូសបន្ទាត់បានស្អាតបាតល្អណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-558", "source": "Speak softly. The baby just went down.", "target": "និយាយតិចៗកូន អាអូនទើបតែគេងលក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-559", "source": "If the cough is still there at dawn, we go to the clinic.", "target": "បើដល់ភ្លឺនៅតែក្អកទៀត ម៉ាក់នាំទៅគ្លីនិកហើយណា៎។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-560", "source": "Turn the stove off when the kettle sings.", "target": "ពេលកំសៀវរោទ៍ បិទចង្ក្រានផងកូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-561", "source": "Fold the blanket so it dries by evening.", "target": "បត់ភួយហ្នឹងទៅ ឱ្យវាស្ងួតទាន់ល្ងាច។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-562", "source": "Stay where I can see you at the market.", "target": "នៅផ្សារ នៅកន្លែងណាដែលពុកមើលឃើញណា៎កូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-563", "source": "Bring the empty bottles back. Don't leave them at school.", "target": "យកដបទទេមកវិញណា កុំទុកចោលនៅសាលាអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-564", "source": "Sit with me a minute. Tell me about the game.", "target": "មកអង្គុយជិតប៉ាមួយភ្លែតមកកូន។ និយាយរឿងការប្រកួតឲ្យប៉ាស្ដាប់មើល៍។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-565", "source": "Lock the gate when you come in, even if it's still light.", "target": "នីតា ចូលមកចាក់សោទ្វាររបងផងណា ទោះមិនទាន់ងងឹតក៏ដោយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-566", "source": "That fruit is too green. It will hurt your stomach.", "target": "ផ្លែហ្នឹងនៅខ្ចីពេកហើយកូន ប្រយ័ត្នញ៉ាំទៅឈឺពោះណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-567", "source": "Set the table for four. Uncle may stop by.", "target": "រៀបតុបាយសម្រាប់បួននាក់ទៅកូន ប្រហែលជាពូឯងចូលមកលេង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-568", "source": "Hang your uniform so it isn't crushed in the morning.", "target": "កូន យកឯកសណ្ឋានទៅព្យួរទុកផង ប្រយ័ត្នព្រឹកស្អែកជ្រួញស្លៀកមិនស្អាត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-569", "source": "Don't open the door until you hear my voice.", "target": "កុំទាន់អាលបើកទ្វារណា៎កូន ទាល់តែឮសំឡេងម៉ាក់សិន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-570", "source": "You were brave at the clinic. Rest now.", "target": "នៅពេទ្យមិញ កូនពូកែណាស់។ សម្រាកទៅណា៎កូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-571", "source": "Carry the bag on your shoulder, not by the torn handle.", "target": "កូនស្ពាយកាបូបលើស្មាទៅ កុំកាន់យួរដៃដែលដាច់ហ្នឹងអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-572", "source": "Sweep the step before guests step in the mud.", "target": "បោសកាំជណ្តើរហ្នឹងទៅ កុំឱ្យភ្ញៀវដើរជាន់ភក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-573", "source": "The road is dark. Wait and we'll walk together.", "target": "ផ្លូវងងឹតណាស់កូន ចាំសិន ចាំដើរទៅជាមួយម៉ាក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-574", "source": "Drink water before you ask for another soda.", "target": "ផឹកទឹកធម្មតាសិនទៅ ចាំសុំទឹកក្រូចមួយកំប៉ុងទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-575", "source": "Put the knife back in the drawer when you finish the mango.", "target": "ពេលកូនញ៉ាំស្វាយរួច យកកាំបិតទៅទុកក្នុងថតវិញណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-576", "source": "I saved your place. Eat while it's warm.", "target": "ពុកទុកកន្លែងឱ្យកូនហើយ ញ៉ាំទៅពេលវានៅក្ដៅៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-577", "source": "Tell the teacher I'll come on Thursday after work.", "target": "ជួយប្រាប់អ្នកគ្រូទៅ ថាម៉ាក់ទៅថ្ងៃព្រហស្បតិ៍ ក្រោយពេលចេញពីធ្វើការ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-578", "source": "Don't chase the dog into the street.", "target": "រិទ្ធ! កុំដេញឆ្កែទៅលើផ្លូវ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-579", "source": "Count the change twice and put it in the tin.", "target": "កូនរាប់លុយអាប់ឱ្យបានពីរដងណា៎ រួចទុកក្នុងកំប៉ុងទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-580", "source": "Close the rice pot or the flies will get in.", "target": "គ្របឆ្នាំងបាយទៅ ប្រយ័ត្នរុយចូល។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-581", "source": "Your sister is smaller. Let her have the front of the bike.", "target": "ប្អូនស្រីឯងនៅតូចជាង ឱ្យនាងជិះខាងមុខកង់ទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-582", "source": "Wipe the table before you put the books down.", "target": "មុននឹងដាក់សៀវភៅ ជូតតុឱ្យស្អាតសិនណា៎កូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-583", "source": "I heard you help Grandma. That matters to me.", "target": "ម៉ាក់ឮថាកូនបានជួយយាយ។ សម្រាប់ម៉ាក់ រឿងហ្នឹងពិតជាមានន័យណាស់ណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-584", "source": "Take the flashlight if you go to the latrine.", "target": "បើទៅបង្គន់ យកពិលទៅផងកូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-585", "source": "Don't touch the outlet with wet hands.", "target": "កុំយកដៃសើមទៅប៉ះព្រីភ្លើងឱ្យសោះណា៎កូន!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-586", "source": "Leave a bowl for your father. He'll be late.", "target": "ទុកបាយមួយចានឱ្យប៉ាផង ប៉ាមកយឺតបន្តិចហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-587", "source": "Tie the sack before you carry it. The beans leak.", "target": "ចងបាវឱ្យស្រួលបួលសិនកូនចាំលើក សណ្តែកវាធ្លាយកំពប់ឥឡូវហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-588", "source": "If you feel dizzy, sit down and call me.", "target": "បើកូនវិលមុខ អង្គុយចុះសិនទៅ ហើយហៅប៉ាណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-589", "source": "Brush your teeth. We leave when the bell from the corner rings.", "target": "ដុសធ្មេញទៅកូន។ ដល់ពេលកណ្ដឹងនៅកែងផ្លូវរោទ៍ យើងចេញទៅហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-590", "source": "I need ten quiet minutes. Then I'll hear your story.", "target": "ប៉ាសុំពេលដប់នាទីស្ងាត់ៗសិន ចាំប៉ាស្តាប់រឿងកូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-591", "source": "Put the wet umbrella in the bucket, not on the mat.", "target": "លីណា យកឆ័ត្រសើមទៅដាក់ក្នុងធុង កុំទុកលើកន្ទេលអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-592", "source": "Don't repeat that insult. We don't talk like that here.", "target": "កុំនិយាយពាក្យជេរហ្នឹងទៀតអីកូន នៅទីនេះយើងអត់និយាយចឹងទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-593", "source": "Pack the leftover soup. You can warm it at noon.", "target": "ខ្ចប់សម្លសល់ហ្នឹងទៅកូន ដល់ថ្ងៃត្រង់ចាំកម្តៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-594", "source": "You told the truth about the broken cup. Thank you.", "target": "កូននិយាយការពិតរឿងកែវបែកហ្នឹង អរគុណណាកូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-595", "source": "Walk on the inside of the lane, away from the cars.", "target": "នីតា ដើរចូលខាងក្នុងផ្លូវមក កុំនៅជិតឡានពេក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-596", "source": "The fever cloth is warm. Let me change it.", "target": "កន្សែងហ្នឹងក្ដៅអស់ហើយ រិទ្ធ។ ចាំពុកដូរមួយទៀតឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-597", "source": "Ask before you lend my scissors to anyone.", "target": "មុននឹងយកកន្ត្រៃម៉ាក់ឱ្យគេខ្ចី ត្រូវសួរម៉ាក់សិន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-598", "source": "Stack the chairs so the floor can dry.", "target": "កូន លើកកៅអីតម្រៀបជាន់គ្នាទៅ ទុកឱ្យកម្រាលផ្ទះវាស្ងួតសិន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-599", "source": "Don't climb the mango tree after rain. The bark slips.", "target": "តារា ក្រោយភ្លៀងកុំឡើងដើមស្វាយ សំបកឈើវាស្រួលរអិលណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-600", "source": "Tell me when the tank is low. I'll call for water.", "target": "បើធុងទឹកជិតអស់ ប្រាប់ពុកផង ចាំពុកហៅគេមកចាក់ទឹក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-601", "source": "I saved you a seat under the awning, away from the drip.", "target": "អូនទុកកន្លែងឱ្យបងនៅក្រោមសំយាបហើយ ផុតពីកន្លែងទឹកស្រក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-602", "source": "The noodles are ready. Come eat before they go soft.", "target": "នែ៎ មីរួចរាល់ហើយ! ឆាប់មកញ៉ាំ កុំឱ្យវាទន់ជ្រាយអត់ឆ្ងាញ់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-603", "source": "Text me when the bus turns onto the river road.", "target": "ពេលឡានបត់ចូលផ្លូវមាត់ទន្លេ ឆាតមកខ្ញុំផងណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-604", "source": "I like the way you laugh when the story gets silly.", "target": "បងចូលចិត្តរបៀបដែលអូនសើច ពេលរឿងហ្នឹងចាប់ផ្ដើមកំប្លែងឡប់ៗ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-605", "source": "Can we walk the long way home tonight?", "target": "យប់ហ្នឹង យើងដើរទៅផ្ទះតាមផ្លូវវាងវិញបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-606", "source": "You sounded tired on the phone. Did you eat?", "target": "និយាយទូរស័ព្ទមិញ សំឡេងអូនដូចហត់ៗម៉្លេះ។ ញ៉ាំបាយហើយនៅហ្នឹង?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-607", "source": "I found the song you hummed. I'll play it low.", "target": "ខ្ញុំរកឃើញបទដែលឯងច្រៀងរហ៊ឺមៗនោះហើយ! ចាំខ្ញុំចាក់តិចៗឱ្យស្ដាប់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-608", "source": "Bring a jacket. The ferry wind is cold after dark.", "target": "យកអាវរងាទៅផង យប់ឡើងខ្យល់លើសាឡាងត្រជាក់ណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-609", "source": "Hold my bag a second. I want both hands for the cups.", "target": "កាន់កាបូបឱ្យអូនមួយភ្លែតមើល៍។ ចង់កាន់កែវទាំងពីរដៃ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-610", "source": "Let's leave before the market closes the side gate.", "target": "តោះចេញទៅ មុនពេលផ្សារបិទទ្វារចំហៀង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-611", "source": "I waited by the clinic door. Did I miss you?", "target": "ខ្ញុំចាំនៅមុខទ្វារពេទ្យតើ... ឬមួយយើងដើររំលងគ្នាទៅហើយ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-612", "source": "You remembered the extra lime. Sit down.", "target": "នឹកឃើញថែមក្រូចឆ្មាទៀតហ្ន៎! អង្គុយមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-613", "source": "I'll walk you to the corner, then I have to turn back.", "target": "ខ្ញុំដើរជូនឯងទៅដល់កែងផ្លូវហ្នឹងសិន ចាំខ្ញុំបកក្រោយវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-614", "source": "Your hair still smells like rain. Come in.", "target": "សក់អូននៅធុំក្លិនទឹកភ្លៀងនៅឡើយ។ ចូលមកក្នុងមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-615", "source": "Don't buy the tickets yet. I might finish late.", "target": "កុំអាលទិញសំបុត្រអី ខ្ញុំប្រហែលចេញយឺតហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-616", "source": "Tell me if your mother doesn't want me there.", "target": "បើម៉ាក់អូនអត់ចង់ឱ្យបងទៅទីនោះទេ ប្រាប់បងតាមត្រង់មក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-617", "source": "The lamp on your step was on. I knew you were home.", "target": "ឃើញចង្កៀងនៅមុខជណ្តើរបើកភ្លឺ អូនដឹងភ្លាមថាបងនៅផ្ទះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-618", "source": "Can we talk after you close the shop, not in the aisle?", "target": "ចាំអូនបិទហាងហើយ ចាំយើងនិយាយគ្នាបានអត់? កុំនិយាយនៅតាមច្រកដើរចឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-619", "source": "I kept the note you wrote. It's in my wallet.", "target": "ក្រដាសដែលឯងសរសេរឱ្យហ្នឹង ខ្ញុំនៅទុកតើ នៅក្នងកាបូបលុយខ្ញុំហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-620", "source": "The rain started. Share the umbrella or we'll both soak.", "target": "ភ្លៀងមកហើយ! មកបាំងឆ័ត្រជាមួយគ្នាមក កុំអីទទឹកជោកទាំងពីរនាក់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-621", "source": "You went quiet when he joked. Are you all right?", "target": "ពេលគាត់និយាយកំប្លែងមិញ ម៉េចក៏ស្ងាត់ម៉្លេះ? អត់អីទេណ៎ា?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-622", "source": "I brought the mangoes you like, the small sweet ones.", "target": "បងទិញស្វាយអូនឯងចូលចិត្តមកផ្ញើហើយ អាផ្លែតូចៗផ្អែមឆ្ងាញ់ហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-623", "source": "Let's not promise Sunday if your shift can change.", "target": "កុំទាន់សន្យាថ្ងៃអាទិត្យអី បើវេនឯងអាចដូរបាននោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-624", "source": "Stay for one more song. Then I'll let you sleep.", "target": "នៅជាមួយបងមួយបទទៀតសិនទៅណា៎... ចាំបងឱ្យគេង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-625", "source": "I'll meet you where the lane splits by the tailor.", "target": "ចាំជួបគ្នានៅត្រង់ផ្លូវបែក ក្បែរហាងកាត់ដេរហ្នឹងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-626", "source": "Don't ride home alone if the streetlight is still out.", "target": "បើភ្លើងផ្លូវនៅតែរលត់ កុំជិះទៅផ្ទះម្នាក់ឯងណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-627", "source": "You waved from the bus window. I saw you.", "target": "ឯងបក់ដៃតាមបង្អួចឡានក្រុង ខ្ញុំឃើញឯងតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-628", "source": "Order for me if the line is long. I'll pay you back.", "target": "បើជួរវែង កុម្ម៉ង់ឱ្យគ្នាមួយផង ចាំគ្នាសងលុយវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-629", "source": "I saved the last piece because you always give yours away.", "target": "អូនទុកមួយដុំចុងក្រោយនេះឱ្យបង ព្រោះដឹងថាបងចេះតែចែកចំណែកខ្លួនឯងឱ្យគេអស់រហូតហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-630", "source": "Can we sit somewhere quieter than the river wall?", "target": "យើងទៅរកកន្លែងណាស្ងាត់ជាងនៅខឿនមាត់ទន្លេនេះអង្គុយបានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-631", "source": "Your voice shook. Tell me what the message said.", "target": "សំឡេងឯងញ័រម៉្លេះ! ប្រាប់ខ្ញុំភ្លាមមក ក្នុងសារហ្នឹងគេសរសេរថាម៉េច?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-632", "source": "The photo came out. You were looking at the boats.", "target": "រូបថតចេញមកហើយ! ឯងកំពុងមើលទូកតើហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-633", "source": "I'll carry the bag of rice. You take the greens.", "target": "ចាំខ្ញុំយួរថង់អង្ករ ឯងយកបន្លែទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-634", "source": "Come closer. I can't hear you over the generator.", "target": "មកជិតបងបន្តិចមក សំឡេងម៉ាស៊ីនភ្លើងឮខ្លាំងពេក បងស្តាប់អូនមិនសូវឮទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-635", "source": "Don't wait in the rain. Step into the shop doorway.", "target": "កុំឈរចាំហាលភ្លៀងអី ចូលទៅជ្រកមុខហាងសិនទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-636", "source": "If your brother is angry, I'll speak to him myself.", "target": "បើសិនជាបងប្រុសឯងខឹង ចាំញ៉ុំទៅនិយាយជាមួយគាត់ផ្ទាល់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-637", "source": "You wore the blue shirt. I hoped you would.", "target": "ឯងពាក់អាវខៀវមែនតើ! ខ្ញុំសង្ឃឹមថាឯងពាក់ហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-638", "source": "Let's leave the party when the speeches start.", "target": "ពេលគេឡើងថ្លែងការណ៍ភ្លាម តោះយើងលួចចេញបាត់ទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-639", "source": "I made too much soup. Stay and help me finish it.", "target": "ខ្ញុំស្លសម្លច្រើនពេកហ្អា៎។ នៅជួយញ៉ាំឱ្យអស់សិនទៅណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-640", "source": "Call when you reach the bridge so I know you're across.", "target": "ទៅដល់ស្ពានចាំតេប្រាប់បងផង ឱ្យបងដឹងថាអូនឆ្លងផុតហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-641", "source": "Don't joke about leaving. I need a plain answer.", "target": "កុំនិយាយលេងសើចរឿងចាកចេញអី។ ឆ្លើយមកឲ្យត្រង់ ខ្ញុំចង់ដឹងច្បាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-642", "source": "The flowers are from the stall, not a big shop. Still yours.", "target": "ផ្កានេះទិញពីតូបតាមផ្លូវទេ មិនមែនហាងធំអីទេ តែនៅតែជារបស់អូនហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-643", "source": "I'll be at the gate at six, even if the bus is late.", "target": "ទោះឡានក្រុងមកយឺត ក៏ខ្ញុំទៅចាំនៅមុខទ្វារម៉ោងប្រាំមួយដែរ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-644", "source": "Rest your head. I'll wake you before the last ferry.", "target": "គេងផ្អែកមកអូន។ ចាំបងដាស់មុនសាឡាងចុងក្រោយចេញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-645", "source": "We can walk and not talk for a while. That's fine.", "target": "យើងដើរទៅ អត់បាច់និយាយគ្នាមួយស្របក់ក៏បានដែរ។ អត់អីទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-646", "source": "You didn't answer at noon. I started to worry.", "target": "ថ្ងៃត្រង់មិញខលទៅអត់លើកសោះ ខ្ញុំចាប់ផ្ដើមបារម្ភហើយហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-647", "source": "I kept our cups. We can use them on the roof again.", "target": "ខ្ញុំទុកកែវយើងហើយ! ចាំយកវាទៅប្រើលើដំបូលផ្ទះម្ដងទៀតក៏បាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-648", "source": "Tell me the truth about the job, even if it's a no.", "target": "ប្រាប់ខ្ញុំតាមត្រង់ពីរឿងការងារហ្នឹងមក ទោះចម្លើយគឺអត់ក៏ដោយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-649", "source": "I like ordinary nights with you more than the loud ones.", "target": "អូនចូលចិត្តយប់ធម្មតាៗនៅជាមួយបង ជាងយប់ដែលអ៊ូអរខ្លាំងទៅទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-650", "source": "Lock the bike to mine so we don't lose the spot.", "target": "ចាក់សោកង់ឯងភ្ជាប់នឹងកង់ខ្ញុំមក កុំឱ្យបាត់កន្លែង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-651", "source": "I'm running late. Start on the homework without me.", "target": "ខ្ញុំរាងយឺតបន្តិចហើយ ឯងធ្វើកិច្ចការផ្ទះមុនខ្ញុំទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-652", "source": "Save me a place in the shade. I'm bringing the drinks.", "target": "ទុកកន្លែងម្លប់ឱ្យខ្ញុំមួយផង ចាំខ្ញុំយកទឹកទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-653", "source": "You left your charger on my desk. I'll bring it tomorrow.", "target": "ឯងភ្លេចឆ្នាំងសាកនៅលើតុខ្ញុំ។ ចាំស្អែកខ្ញុំយកទៅឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-654", "source": "You said five minutes and the noodles went cold.", "target": "ឯងថា ៥ នាទី មីត្រជាក់អស់ហើយនៀក!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-655", "source": "Can you cover my shift until four? I'll take yours Friday.", "target": "ឯងជួយធ្វើវេនខ្ញុំដល់ម៉ោងបួនបានអត់? ចាំថ្ងៃសុក្រ ខ្ញុំធ្វើជំនួសឯងវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-656", "source": "You look pale. Sit down before we cross the road.", "target": "ឯងមើលទៅមុខស្លេកម៉្លេះ។ អង្គុយចុះសិនទៅ ចាំឆ្លងថ្នល់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-657", "source": "The coach put you on the list. I saw the paper.", "target": "គ្រូដាក់ឈ្មោះឯងចូលក្នុងបញ្ជីហើយ! ខ្ញុំឃើញក្រដាសហ្នឹងផ្ទាល់ភ្នែកម៉ង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-658", "source": "Don't wait at the main gate. The side door is open.", "target": "កុំចាំនៅទ្វារធំអី ទ្វារចំហៀងគេបើកតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-659", "source": "You always pick the burnt piece and call it lucky.", "target": "ឯងហ្នឹងរាល់តែដង ចូលចិត្តរើសយកអាខ្លោច ហើយថាអាហ្នឹងសំណាងទៀត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-660", "source": "I'll walk with you as far as the bridge.", "target": "ចាំអញដើរជូនហែងដល់ត្រឹមស្ពាន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-661", "source": "Text me when you're inside. The lane is dark tonight.", "target": "ចូលដល់ក្នុងចាំឆាតមកខ្ញុំណា យប់ហ្នឹងផ្លូវឌឿងហែមងងឹតណាស់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-662", "source": "We won the practice match. Don't tell the whole class yet.", "target": "យើងឈ្នះការប្រកួតហាត់សមហើយ! កុំអាលប្រាប់គេពេញថ្នាក់អីណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-663", "source": "Lend me a pen that works. Mine skipped on the test.", "target": "ឲ្យខ្ចីប៊ិចដើរស្រួលមួយមកហី។ អាប៊ិចអញគាំងបាត់ពេលប្រឡងមិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-664", "source": "You studied the wrong chapter and still looked confident.", "target": "ឯងមើលខុសមេរៀនសោះ នៅធ្វើមុខឡើងជឿជាក់បានទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-665", "source": "Meet me by the juice stall, not inside the crowd.", "target": "ចាំជួបគ្នានៅតូបទឹកក្រឡុកណា កុំចូលទៅក្នុងហ្វូងមនុស្សពេក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-666", "source": "Your bag is open. The wallet is about to fall.", "target": "កាបូបឯងចំហហើយ! កាបូបលុយជិតធ្លាក់ឥឡូវហើយ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-667", "source": "I kept the ticket stub. We should go again.", "target": "ខ្ញុំនៅទុកកន្ទុយសំបុត្រហ្នឹងនៅឡើយតើ។ លើកក្រោយយើងទៅទៀតតោះ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-668", "source": "Can I copy the diagram after class, not during it?", "target": "ចាំចប់ម៉ោងចាំខ្ញុំសុំចម្លងរូបហ្នឹងបានអត់? កុំចម្លងក្នុងម៉ោងអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-669", "source": "You fell asleep in the last row and snored once.", "target": "ឯងដេកលក់នៅជួរក្រោយគេ ហើយស្រមុកមួយគ្រូកទៀតផង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-670", "source": "I'll return the book before the library locks the gate.", "target": "ចាំខ្ញុំយកសៀវភៅទៅសងគេវិញសិន មុនបណ្ណាល័យចាក់សោទ្វារ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-671", "source": "Don't get on that bus. The sign says it's full.", "target": "កុំឡើងឡានហ្នឹងអី! គេដាក់ស្លាកថាពេញហើយតើ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-672", "source": "Your joke landed. Even the strict one smiled.", "target": "ឯងលេងកំប្លែងត្រូវម៉ាច់ហ្មង! សូម្បីតែអ្នកមុខតឹងនោះ ក៏លួចញញឹមដែរ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-673", "source": "Hold my place in line. I need to buy a bottle of water.", "target": "ជួយចាំកន្លែងឱ្យតិច ខ្ញុំទៅទិញទឹកមួយដបសិន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-674", "source": "You brought snacks for yourself and then shared them anyway.", "target": "ឯងយកនំមកទុកញ៉ាំតែម្នាក់ឯងសោះ ចុងក្រោយនៅតែចែកគេដដែលហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-675", "source": "Let's finish the project at your place. Mine is too loud.", "target": "តោះទៅធ្វើកិច្ចការហ្នឹងឱ្យហើយនៅផ្ទះឯងវិញ។ ផ្ទះខ្ញុំថ្លង់ពេក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-676", "source": "You didn't come to practice. Are you sick or just hiding?", "target": "ឯងអត់មកហាត់ចឹង? មិនស្រួលខ្លួន ឬគ្រាន់តែចង់គេចមុខ?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-677", "source": "I recorded the song badly, but the chorus is there.", "target": "ខ្ញុំថតបទហ្នឹងមិនសូវបានល្អទេ តែវគ្គបន្ទរស្តាប់ទៅអេមតើ!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-678", "source": "Walk slower. My sandal strap is slipping.", "target": "ដើរយឺតៗតិចមើល៍ ខ្សែស្បែកជើងខ្ញុំរអិលចង់របូតហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-679", "source": "You claimed the window seat and then gave it up.", "target": "ឯងខំដណ្តើមយកកៅអីជាប់បង្អួចសោះ ដល់ចុងក្រោយស្រាប់តែឱ្យគេវិញហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-680", "source": "I'll tell the teacher we split the work down the middle.", "target": "ចាំអញប្រាប់គ្រូថា ពួកយើងចែកគ្នាម្នាក់កន្លះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-681", "source": "Don't swim there. The current sign is new.", "target": "កុំហែលនៅត្រង់ហ្នឹងអី! ស្លាកព្រមានទឹកហូរហ្នឹងទើបតែដាក់ថ្មីៗទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-682", "source": "The photo of us is funny. Send it to me.", "target": "រូបយើងពីរនាក់ហ្នឹងកំប្លែងម៉ងហ៎ា! ផ្ញើមកខ្ញុំមក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-683", "source": "Can you wake me if I doze off before our stop?", "target": "បើខ្ញុំងោកលក់មុនដល់កន្លែងចុះ ឯងជួយដាស់ខ្ញុំផងណា?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-684", "source": "You memorized the menu and forgot the assignment.", "target": "ឯងចាំម៉ឺនុយឡើងច្បាស់ ដល់កិច្ចការសាលាភ្លេចរលីងតែម្តង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-685", "source": "Leave my helmet on the hook. I'll ride back at dusk.", "target": "ទុកមួកការពារខ្ញុំនៅលើទំពក់ហ្នឹងហើយ ចាំព្រលប់បន្តិចចាំខ្ញុំជិះទៅវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-686", "source": "Your phone is almost dead. Use mine to call home.", "target": "ទូរសព្ទឯងជិតអស់ថ្មហើយ។ យកទូរសព្ទខ្ញុំខលទៅផ្ទះទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-687", "source": "We found the cheap seats and they were actually good.", "target": "ពួកយើងរកបានកៅអីធូរថ្លៃ ហើយតាមពិតទៅល្អមើលតើហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-688", "source": "Count me in for Sunday, unless my mother says no.", "target": "ថ្ងៃអាទិត្យហ្នឹងរាប់ខ្ញុំមួយដែរ លើកលែងតែម៉ាក់អត់ឱ្យទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-689", "source": "You got lost between two stalls and blamed the map.", "target": "វង្វេងផ្លូវត្រឹមចន្លោះតូបពីរហ្នឹងសោះ ហើយមកបន្ទោសផែនទីទៀត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-690", "source": "I'll carry the speaker. You take the cable bag.", "target": "អញលើកធុងបាស ហ្អែងស្ពាយកាតាបខ្សែទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-691", "source": "Don't laugh yet. He might have heard us.", "target": "កុំទាន់អាលសើចអី! ក្រែងលោគាត់ឮពួកយើងបាត់ទៅ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-692", "source": "You passed. I watched you refresh the page twice.", "target": "ឯងជាប់ហើយ! ខ្ញុំឃើញឯងចុច refresh ឡើងពីរដងឯណោះ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-693", "source": "Let's leave before they ask us to help pack the chairs.", "target": "តោះទៅ មុនគេពឹងឱ្យជួយរៀបកៅអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-694", "source": "You said you weren't hungry and ate half of mine.", "target": "ថាអត់ឃ្លានៗ ស្រាប់តែស៊ីអស់កន្លះចានរបស់អញបាត់!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-695", "source": "Meet me after the bell, by the bicycle racks.", "target": "កណ្ដឹងរោទ៍ហើយ ចាំជួបគ្នានៅកន្លែងផ្ញើកង់។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-696", "source": "Your knee is swelling. Skip the second game.", "target": "ជង្គង់ឯងឡើងហើមហើយហ្នឹង! កុំលេងការប្រកួតទីពីរអី។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-697", "source": "The vendor gave us an extra skewer. Your luck.", "target": "អ្នកលក់ថែមឱ្យមួយចង្កាក់ហ្នឹង! ហេងរបស់ឯងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-698", "source": "I'll wait ten minutes. Then I'm going in without you.", "target": "ខ្ញុំចាំ ១០ នាទីទៀត។ ហួសពេលហ្នឹង ខ្ញុំចូលទៅចោលឯងហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-699", "source": "You wore mismatched socks and called it a plan.", "target": "ឯងពាក់ស្រោមជើងខុសគូ ហើយមកថានេះជាផែនការទៅកើត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-700", "source": "Move your books. I need the table for one hour.", "target": "ដារ៉ា ជួយរំកិលសៀវភៅចេញបន្តិច ខ្ញុំត្រូវការតុនេះមួយម៉ោង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-701", "source": "You used my shirt and left it in a heap again.", "target": "ឯងយកអាវខ្ញុំទៅពាក់ហើយ ទុកគរចោលទៀតហើយហ្នឹង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-702", "source": "I'll wash the dishes if you sweep the step.", "target": "បើអូនបោសកាំជណ្តើរ ចាំបងលាងចានឱ្យ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-703", "source": "The baby climbed onto the stool. Come quick.", "target": "អាអូនឡើងលើកៅអីបាត់ហើយ! មកមើលឲ្យលឿនបង!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-704", "source": "Don't tell Mom I ate the last banana. I'll replace it.", "target": "កុំប្រាប់ម៉ាក់ណាថាខ្ញុំញ៉ាំចេកមួយចុងក្រោយនោះ ចាំខ្ញុំទិញសងវិញ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-705", "source": "You sing in the shower loud enough for the lane.", "target": "ឯងច្រៀងពេលងូតទឹក ឮដល់ក្រៅផ្លូវហើយដឹងអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-706", "source": "Can I borrow your ruler? Mine snapped in the bag.", "target": "សុំខ្ចីបន្ទាត់ឯងមួយមក? អាខ្ញុំបាក់ក្នុងកាតាបបាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-707", "source": "Someone is at the gate asking for Dad. Stay with me.", "target": "បង! មានគេមកសួររកប៉ាដល់មុខទ្វាររបង។ នៅជាមួយអូនសិនមកណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-708", "source": "I saved you rice. It's under the upside-down plate.", "target": "ខ្ញុំទុកបាយឱ្យឯងហើយ នៅក្រោមចានផ្កាប់ហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-709", "source": "You fell asleep on the homework and drooled on the page.", "target": "ឯងដេកលក់លើកិច្ចការផ្ទះ ហើយហៀរទឹកមាត់ប្រឡាក់សៀវភៅទៀត។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-710", "source": "Turn the fan toward the middle. I'm melting over here.", "target": "បង្វែរកង្ហារមកកណ្ដាលបន្តិចមើល៍ ក្តៅស្ទើររលាយហើយនៀក។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-711", "source": "The gas knob was left open a little. I closed it.", "target": "ក្បាលហ្គាសបើកចំហចោលបន្តិចហ្នឹង អូនបិទវិញហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-712", "source": "Walk me to the corner. I don't want to go alone.", "target": "បងជូនទៅកែងផ្លូវហ្នឹងតិចមក ខ្ញុំអត់ចង់ទៅម្នាក់ឯងទេ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-713", "source": "You take forever in the bathroom when I'm already late.", "target": "ឯងចូលបន្ទប់ទឹកយូរម៉េះ ទាំងដែលខ្ញុំកំពុងតែយឺតម៉ោងផងហ្នឹង។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-714", "source": "I'll help you with the sums after I hang the clothes.", "target": "ចាំបងហាលខោអាវរួច ចាំបងជួយគិតលេខឱ្យអូន។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-715", "source": "Don't let the dog out. The gate on the lane side is open.", "target": "បងរិទ្ធ កុំទាន់អាលលែងឆ្កែចេញ! ទ្វាររបងខាងច្រកឌឿងហែមគេបើកចោលបាត់ហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-716", "source": "Your uniform is on the chair. I ironed the collar only.", "target": "ខោអាវឯកសណ្ឋានឯងនៅលើកៅអីហ្នឹង។ ខ្ញុំអ៊ុតតែត្រង់កអាវទេណា។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-717", "source": "You blamed me for the muddy floor and your shoes are worse.", "target": "មិញបន្ទោសខ្ញុំរឿងការ៉ូប្រឡាក់ភក់ ដល់មើលស្បែកជើងឯងវិញ ប្រឡាក់លើសខ្ញុំទៀត!", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-718", "source": "Can we share the earphones on the bus ride?", "target": "ពេលជិះឡានក្រុង យើងចែកកាសគ្នាស្ដាប់បានអត់?", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-719", "source": "Grandma called twice. One of us should call back.", "target": "ម៉ាក់យាយខលមកពីរដងហើយបង គួរតែមានម្នាក់ក្នុងពួកយើងខលទៅគាត់វិញហើយ។", "licence": "unknown", "split": "train", "from_jev": true}
+{"id": "kp-720", "source": "I left the key under the mat. Don't forget it there.", "target": "កូនសោ ខ្ញុំដាក់នៅក្រោមក្រណាត់ជូតជើងហើយ កុំភ្លេចទុកចោលនៅហ្នឹងណា។", "licence": "unknown", "split": "train", "from_jev": true}

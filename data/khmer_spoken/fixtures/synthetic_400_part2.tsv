@@ -1,0 +1,96 @@
+grandparent_to_grandchild	grandparent_to_grandchild	grandma_yeay	srey	tender	neutral	home	Come sit in the shade, child. The sun is sharp.
+grandparent_to_grandchild	grandparent_to_grandchild	grandpa_ta	dara	neutral	neutral	yard	Watch how I coil the rope. Then you try.
+grandparent_to_grandchild	grandparent_to_grandchild	grandma_yeay	lina	neutral	neutral	kitchen	Taste this. Does it need more salt?
+grandparent_to_grandchild	grandparent_to_grandchild	grandpa_ta	srey	tender	neutral	yard	The stars are clear tonight. Sit with me a while.
+grandparent_to_grandchild	grandparent_to_grandchild	grandma_yeay	dara	worried	neutral	home	Don't climb that ladder. Call your father.
+grandparent_to_grandchild	grandparent_to_grandchild	grandpa_ta	lina	proud	neutral	home	You read the letter to me without stumbling.
+grandparent_to_grandchild	grandparent_to_grandchild	grandma_yeay	srey	neutral	neutral	home	Take this banana to your mother on your way.
+grandparent_to_grandchild	grandparent_to_grandchild	grandpa_ta	dara	worried	neutral	river	The boat leans if you stand up. Stay low.
+grandparent_to_grandchild	grandparent_to_grandchild	grandma_yeay	lina	tender	neutral	kitchen	I kept your favorite bowl. Eat before it cools.
+grandparent_to_grandchild	grandparent_to_grandchild	grandpa_ta	srey	teasing	neutral	home	You grew taller than the doorway mark.
+grandparent_to_grandchild	grandparent_to_grandchild	grandma_yeay	dara	neutral	neutral	home	Wake your sister. The monks will pass soon.
+grandparent_to_grandchild	grandparent_to_grandchild	grandpa_ta	lina	worried	neutral	home	If the fever stays, we go to the clinic at dawn.
+romantic	romantic	vuthy	channary	tender	casual	street	I waited under the tamarind tree. I was afraid you wouldn't come.
+romantic	romantic	channary	vuthy	tender	casual	street	I came as soon as the shop closed. Did you wait long?
+romantic	romantic	vuthy	channary	worried	casual	phone	Your voice sounds tired. Did you eat today?
+romantic	romantic	channary	vuthy	happy	casual	river	The boat is quiet. Sit next to me, not across.
+romantic	romantic	vuthy	channary	teasing	casual	market	You always pretend you don't want the sweet one.
+romantic	romantic	channary	vuthy	sad	casual	lane	My mother asked who walked me home. I didn't know what to say.
+romantic	romantic	vuthy	channary	tender	casual	lane	I'll walk you to the lane. I won't come inside.
+romantic	romantic	channary	vuthy	angry	casual	phone	You said sunset. It's dark and you're still not here.
+romantic	romantic	vuthy	channary	tender	casual	rain	Take my jacket. Your shoulders are wet.
+romantic	romantic	channary	vuthy	happy	casual	bus	I read your note three times on the bus.
+romantic	romantic	vuthy	channary	worried	casual	lane	If your father sees me, I'll greet him properly.
+romantic	romantic	channary	vuthy	tender	casual	ceremony	I saved you a seat at the ceremony.
+romantic	romantic	vuthy	channary	sad	casual	evening	I have to leave for the province on Friday.
+romantic	romantic	channary	vuthy	tender	casual	evening	Then write to me. Don't disappear.
+romantic	romantic	vuthy	channary	teasing	casual	cafe	You ordered two drinks and claimed both were yours.
+romantic	romantic	channary	vuthy	worried	casual	clinic	I'll wait outside the clinic until they call you.
+romantic	romantic	vuthy	channary	tender	casual	wedding	You look like you belong in that color.
+romantic	romantic	channary	vuthy	angry	casual	lane	Don't joke about leaving if you mean it.
+romantic	romantic	vuthy	channary	neutral	casual	phone	I'm at the corner by the pharmacy. Wave if you see me.
+romantic	romantic	channary	vuthy	tender	casual	night	Go home safe. Message me when the gate closes.
+friends_close	friends_close	vuthy	rith	neutral	casual	street	The noodle stall moved. It's behind the cinema now.
+friends_close	friends_close	rith	vuthy	teasing	casual	street	You owe me from last week and you know it.
+friends_close	friends_close	bopha	rachana	neutral	casual	campus	Save me a seat. I'm buying the iced coffee.
+friends_close	friends_close	rachana	bopha	tired	casual	campus	I stayed up rewriting the paper. Don't ask me to sing.
+friends_close	friends_close	vuthy	rith	happy	casual	field	You actually scored. I thought the ball hated you.
+friends_close	friends_close	rith	vuthy	worried	casual	street	Don't take that shortcut after dark. The lamps are out.
+friends_close	friends_close	bopha	rachana	tender	casual	campus	I brought the notes you missed. They're a mess, but they're yours.
+friends_close	friends_close	rachana	bopha	teasing	casual	market	You haggled for ten minutes and paid the first price.
+friends_close	friends_close	vuthy	rith	neutral	casual	garage	Hold the light higher. I can't see the bolt.
+friends_close	friends_close	rith	vuthy	angry	casual	street	You told him my plan before I was ready.
+friends_close	friends_close	bopha	rachana	sad	casual	bus	I failed the practical. I don't want to talk on the ride.
+friends_close	friends_close	rachana	bopha	neutral	casual	phone	I'm outside your gate. Bring the charger down.
+friends_close	friends_close	vuthy	rith	happy	casual	river	The water is warm. Come in. Stop standing there.
+friends_close	friends_close	rith	vuthy	teasing	casual	cafe	I'll cover the bill if you tell me what she said.
+friends_close	friends_close	bopha	rachana	worried	casual	clinic	I'll sit with you until your name is called.
+friends_close	friends_close	rachana	bopha	teasing	casual	home	You wore the shirt backwards and still walked in proud.
+friends_close	friends_close	vuthy	rith	tired	casual	night	My shift ends at midnight. Wait if you can.
+friends_close	friends_close	rith	vuthy	neutral	casual	school	Lend me your ruler. Mine snapped in the bag.
+friends_close	friends_close	bopha	rachana	happy	casual	wedding	Dance with me before the slow songs start.
+friends_close	friends_close	rachana	bopha	tender	casual	rain	Share the umbrella. We'll both get wet otherwise.
+friends	friends	sophea	visal	neutral	neutral	class	Can I see how you solved the second problem?
+friends	friends	visal	sophea	neutral	neutral	class	Sure. Don't copy the last line. It's wrong.
+friends	friends	sophea	nita	neutral	neutral	library	The librarian said we have to whisper in this room.
+friends	friends	nita	sophea	neutral	neutral	gate	I'll return your pen tomorrow. I promise.
+friends	friends	sophea	visal	happy	casual	court	Good game. Same time next week?
+friends	friends	visal	nita	neutral	neutral	bus	This is my stop. See you at the group meeting.
+friends	friends	nita	sophea	worried	neutral	class	I left my draft at home. May I check the topic against your outline?
+friends	friends	sophea	visal	neutral	neutral	cafe	Do you want the window seat or the one by the fan?
+friends	friends	visal	sophea	tender	neutral	class	You looked nervous. You still answered clearly.
+friends	friends	nita	visal	neutral	neutral	phone	I'm running late. Start without me.
+friends	friends	sophea	nita	neutral	neutral	market	I'll hold the bags if you pay the vendor.
+friends	friends	nita	sophea	happy	casual	class	We both passed. Let's not pretend we expected that.
+boss_to_employee	boss_to_employee	mr_chea	vanna	neutral	formal	office	The client changed the date. Reprint the schedule before noon.
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	neutral	formal	office	Please speak slower on the phone. They couldn't follow you.
+boss_to_employee	boss_to_employee	mr_chea	vanna	happy	formal	office	The delivery arrived intact. Thank you for staying late.
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	angry	formal	office	This invoice has the wrong total. Fix it before you leave.
+boss_to_employee	boss_to_employee	mr_chea	vanna	neutral	neutral	shop	Stack the new boxes in the back, labels facing out.
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	worried	formal	office	If you feel unwell, go home. Don't push through the shift.
+boss_to_employee	boss_to_employee	mr_chea	vanna	neutral	formal	meeting	Walk us through the numbers. Start with last month.
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	neutral	formal	office	Lock the front door when you take lunch. The register stays closed.
+boss_to_employee	boss_to_employee	mr_chea	vanna	teasing	casual	office	You beat me to the coffee again. Leave me half a cup.
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	proud	formal	office	The guest asked for you by name. Keep that standard.
+boss_to_employee	boss_to_employee	mr_chea	vanna	angry	formal	office	I asked for the file yesterday. Where is it?
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	neutral	formal	office	Take the visitor to the small room. I'll be there in five minutes.
+boss_to_employee	boss_to_employee	mr_chea	vanna	neutral	neutral	warehouse	Count the sacks twice. Write the number on the clipboard.
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	tender	formal	office	You handled that complaint calmly. I noticed.
+boss_to_employee	boss_to_employee	mr_chea	vanna	neutral	formal	shop	Tomorrow we open early. Be here before the shutter goes up.
+boss_to_employee	boss_to_employee	ms_sothea	sopheak	worried	formal	office	Don't promise the customer a date I haven't approved.
+employee_to_boss	employee_to_boss	vanna	mr_chea	neutral	formal	office	The printer jammed again. I already cleared the tray once.
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	neutral	formal	office	The supplier says the cloth won't arrive until Thursday.
+employee_to_boss	employee_to_boss	vanna	mr_chea	worried	formal	office	I need to leave at four. My father has a clinic appointment.
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	happy	formal	office	The guest signed the form. It's on your desk.
+employee_to_boss	employee_to_boss	vanna	mr_chea	neutral	formal	meeting	I can present the first half if you want to take the questions.
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	angry	formal	office	The schedule you posted overlaps my other shift.
+employee_to_boss	employee_to_boss	vanna	mr_chea	neutral	formal	office	May I confirm the price before I tell the customer?
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	sad	formal	office	I made an error on the receipt. I want to correct it now.
+employee_to_boss	employee_to_boss	vanna	mr_chea	worried	neutral	warehouse	We are short two cartons. I checked the loading bay.
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	neutral	formal	office	I brought the documents you asked for. They're in order.
+employee_to_boss	employee_to_boss	vanna	mr_chea	worried	formal	office	The back door lock is loose. Should I call someone?
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	neutral	formal	phone	I'm at the bank. The line is long. I'll return after the stamp.
+employee_to_boss	employee_to_boss	vanna	mr_chea	neutral	formal	office	The new intern is waiting downstairs. Shall I bring them up?
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	happy	formal	office	The customer called back to say the repair holds.
+employee_to_boss	employee_to_boss	vanna	mr_chea	neutral	formal	office	I don't understand this column. Can you show me once?
+employee_to_boss	employee_to_boss	sopheak	ms_sothea	worried	formal	office	I can stay late tonight, but not tomorrow. My bus stops early.

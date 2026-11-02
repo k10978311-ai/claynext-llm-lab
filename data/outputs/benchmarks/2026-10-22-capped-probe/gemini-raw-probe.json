@@ -1,0 +1,25 @@
+{
+  "synthetic_fixture": false,
+  "not_a_gold_benchmark": true,
+  "quality_score": null,
+  "prompt_version": "khmer-movie-benchmark-1",
+  "decoding": {
+    "temperature": 0,
+    "prompt_version": "khmer-movie-benchmark-1"
+  },
+  "provider_label": "gemini",
+  "model_id": "gemini-flash-latest",
+  "n_requested": 8,
+  "n_completed": 0,
+  "stopped_error": "No available gemini API keys. Add keys in Settings → API Keys.",
+  "outputs": [
+    {
+      "id": "kp-001",
+      "ok": false,
+      "error": "No available gemini API keys. Add keys in Settings → API Keys.",
+      "text": "",
+      "source_text": "Mom, I'm hungry."
+    }
+  ],
+  "note": "Raw provider text only. Rows are not a locked human-reviewed gold set. This file is not a quality score and not a comparison against GPT."
+}

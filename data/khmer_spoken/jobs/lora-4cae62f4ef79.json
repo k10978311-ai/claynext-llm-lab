@@ -1,0 +1,22 @@
+{
+  "job_id": "lora-4cae62f4ef79",
+  "kind": "local_lora",
+  "status": "refused",
+  "created_at": "2026-10-23T13:17:31+00:00",
+  "updated_at": "2026-10-23T13:17:31+00:00",
+  "error": "this M4 has 16 GB RAM; 3B/7B/8B/14B fine-tunes are not started (7B/8B/14B do not fit; 3B is not a tiny adapter) peft and mlx_lm are not installed, so no tiny adapter ran either.",
+  "details": {
+    "dataset_path": "/Users/server2/Documents/Project/claynext/data/khmer_spoken/versions/heldout-locked-20261023-kp081-100/train.jsonl",
+    "test_path": "/Users/server2/Documents/Project/claynext/data/khmer_spoken/versions/heldout-locked-20261023-kp081-100/test.jsonl",
+    "base_model": "none",
+    "platform": "local_open_weight",
+    "separate_from_vertex": true,
+    "started": false,
+    "weights_written": false,
+    "train_count": 80,
+    "test_count": 20,
+    "owner_intent_quote": "continue train my spoke turne for best performae bensmark",
+    "licence": "unknown",
+    "does_not_replace": "lora-ac1dc7173b31"
+  }
+}

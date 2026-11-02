@@ -1,0 +1,14 @@
+{
+  "job_id": "lora-ac1dc7173b31",
+  "kind": "local_lora",
+  "status": "refused",
+  "created_at": "2026-10-23T03:07:59+00:00",
+  "updated_at": "2026-10-23T03:07:59+00:00",
+  "error": "Local LoRA/QLoRA trainer is a separate stub entrypoint in milestone 1. Not started.",
+  "details": {
+    "dataset_path": "/Users/server2/Documents/Project/claynext/data/outputs/voice_training/2026-10-22-ai-first/ranked_sft.jsonl",
+    "base_model": "unspecified-open-weight",
+    "platform": "local_open_weight",
+    "separate_from_vertex": true
+  }
+}

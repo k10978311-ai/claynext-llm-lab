@@ -1,0 +1,1032 @@
+{
+  "at": "2026-10-23T13:17:31+00:00",
+  "dataset_version": "heldout-locked-20261023-kp081-100",
+  "provider": "benchmark-automatic-check",
+  "prompt_version": "khmer-movie-benchmark-1",
+  "split": "test",
+  "evaluated": 20,
+  "pronoun": {
+    "passed": 20,
+    "failed": []
+  },
+  "postcheck": {
+    "violations": 0,
+    "failed": []
+  },
+  "cost_usd": null,
+  "trace_ids": [],
+  "passed": 13,
+  "results": [
+    {
+      "id": "kp-081",
+      "category": "police",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "លោក",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.7,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ខ្ញុំ"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-082",
+      "category": "comedy",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "ឯង",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.7,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ឯង"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-083",
+      "category": "comedy",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "បង",
+        "second_person": "អូន",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.85,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-084",
+      "category": "comedy",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "ពូ",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.7,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-085",
+      "category": "anger_without_profanity",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "លោក",
+        "needs_review": true,
+        "review_reasons": [
+          "Angry employee to boss; keep deference unless the scene shows a break."
+        ],
+        "confidence": 0.75,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ខ្ញុំ"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-086",
+      "category": "anger_without_profanity",
+      "review_status": "pending_native_review",
+      "passed": false,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [
+          "rough_pronoun_unplanned:ឯង",
+          "unexpected_pronoun:ឯង",
+          "unexpected_pronoun:ខ្ញុំ"
+        ],
+        "output": []
+      },
+      "decision": {
+        "first_person": "បង",
+        "second_person": "អូន",
+        "needs_review": true,
+        "review_reasons": [
+          "couple of same or unknown gender with unknown ages: បង / អូន direction unclear"
+        ],
+        "confidence": 0.8,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ឯង",
+          "ខ្ញុំ"
+        ],
+        "violations": [
+          "rough_pronoun_unplanned:ឯង"
+        ],
+        "warnings": [
+          "unplanned_pronoun:ខ្ញុំ"
+        ],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": false
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-087",
+      "category": "anger_without_profanity",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "អ្នក",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.7,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-088",
+      "category": "anger_without_profanity",
+      "review_status": "pending_native_review",
+      "passed": false,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [
+          "rough_pronoun_unplanned:ឯង",
+          "unexpected_pronoun:ឯង"
+        ],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ម៉ាក់",
+        "second_person": "កូន",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.85,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ឯង"
+        ],
+        "violations": [
+          "rough_pronoun_unplanned:ឯង"
+        ],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": false
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-089",
+      "category": "anger_without_profanity",
+      "review_status": "pending_native_review",
+      "passed": false,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [
+          "unexpected_pronoun:បង"
+        ],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "អ្នក",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.65,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "បង",
+          "ខ្ញុំ"
+        ],
+        "violations": [],
+        "warnings": [
+          "unplanned_pronoun:បង"
+        ],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-090",
+      "category": "anger_without_profanity",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "កូន",
+        "second_person": "ម៉ាក់",
+        "needs_review": true,
+        "review_reasons": [
+          "Angry child to parent; check whether the speaker keeps កូន or distances with ខ្ញុំ."
+        ],
+        "confidence": 0.85,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "កូន"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-091",
+      "category": "affectionate_teasing",
+      "review_status": "pending_native_review",
+      "passed": false,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [
+          "rough_pronoun_unplanned:ឯង",
+          "unexpected_pronoun:ឯង"
+        ],
+        "output": []
+      },
+      "decision": {
+        "first_person": "បង",
+        "second_person": "អូន",
+        "needs_review": true,
+        "review_reasons": [
+          "couple of same or unknown gender with unknown ages: បង / អូន direction unclear"
+        ],
+        "confidence": 0.8,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ឯង"
+        ],
+        "violations": [
+          "rough_pronoun_unplanned:ឯង"
+        ],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": false
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-092",
+      "category": "affectionate_teasing",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "យាយ",
+        "second_person": "ចៅ",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.85,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-093",
+      "category": "affectionate_teasing",
+      "review_status": "pending_native_review",
+      "passed": false,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [
+          "unexpected_pronoun:ប្អូន",
+          "unexpected_pronoun:ញ៉ុំ"
+        ],
+        "output": []
+      },
+      "decision": {
+        "first_person": "បង",
+        "second_person": "អូន",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.85,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ប្អូន",
+          "ញ៉ុំ"
+        ],
+        "violations": [],
+        "warnings": [
+          "unplanned_pronoun:ប្អូន",
+          "unplanned_pronoun:ញ៉ុំ",
+          "habit_gated_form_unplanned:ញ៉ុំ"
+        ],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-094",
+      "category": "affectionate_teasing",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "ឯង",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.7,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ឯង"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-095",
+      "category": "unknown_relationship",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "អ្នក",
+        "needs_review": true,
+        "review_reasons": [
+          "relationship unknown",
+          "confidence below review threshold"
+        ],
+        "confidence": 0.4,
+        "source": "age_fallback"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-096",
+      "category": "unknown_relationship",
+      "review_status": "pending_native_review",
+      "passed": false,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [
+          "rough_pronoun_unplanned:ឯង",
+          "unexpected_pronoun:ឯង"
+        ],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "អ្នក",
+        "needs_review": true,
+        "review_reasons": [
+          "relationship unknown",
+          "confidence below review threshold"
+        ],
+        "confidence": 0.4,
+        "source": "age_fallback"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ឯង"
+        ],
+        "violations": [
+          "rough_pronoun_unplanned:ឯង"
+        ],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": false
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-097",
+      "category": "unknown_relationship",
+      "review_status": "pending_native_review",
+      "passed": false,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [
+          "rough_pronoun_unplanned:ឯង",
+          "unexpected_pronoun:ឯង"
+        ],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "អ្នក",
+        "needs_review": true,
+        "review_reasons": [
+          "relationship unknown",
+          "confidence below review threshold"
+        ],
+        "confidence": 0.4,
+        "source": "age_fallback"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ឯង"
+        ],
+        "violations": [
+          "rough_pronoun_unplanned:ឯង"
+        ],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": false
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-098",
+      "category": "nyom_habit",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "អូន",
+        "second_person": "បង",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.85,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "បង",
+          "អូន"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-099",
+      "category": "nyom_habit",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "អូន",
+        "second_person": "បង",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.85,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "បង",
+          "អូន"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    },
+    {
+      "id": "kp-100",
+      "category": "nyom_habit",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "អ្នក",
+        "needs_review": false,
+        "review_reasons": [],
+        "confidence": 0.7,
+        "source": "relation_rule"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [
+          "ខ្ញុំ"
+        ],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    }
+  ]
+}

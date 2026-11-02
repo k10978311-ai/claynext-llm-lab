@@ -1,0 +1,120 @@
+{
+  "written_at": "2026-10-21T15:44:38+00:00",
+  "owner_request": "local overnight train of Khmer spoken models/dataset",
+  "approval_scope": "local only; no paid/hosted/Vertex/deploy/commit",
+  "dry_run": true,
+  "weights_uploaded": false,
+  "weights_written": false,
+  "hosted_or_vertex_called": false,
+  "training_process_running": false,
+  "platform": {
+    "system": "Darwin",
+    "machine": "arm64",
+    "python": "3.12.15"
+  },
+  "trainer_capability": {
+    "platform": "Darwin-arm64",
+    "intel_mac": false,
+    "torch": false,
+    "coqui_tts": false,
+    "can_gpu_train": false,
+    "recommended_mode": "dry_run",
+    "note": "GPU training only when a compatible TTS trainer package is installed."
+  },
+  "memory_note": "memory_pressure reported System-wide memory free percentage 69% before this command. torch, peft, mlx, TTS were not installed. Studio (uv run main.py) was already running. No uv sync was started.",
+  "datasets": {
+    "ksld_documented_path": "/Users/vannya/Documents/SourceCode/AiProject/khmer_spoken_language_dataset_v0.1",
+    "ksld_present_on_this_machine": false,
+    "data_datasets_files": 0,
+    "data_khmer_spoken_files_before_jobs": "empty except this run's job ledger",
+    "data_voice_datasets_files": 0,
+    "speech_fixture": {
+      "path": "/Users/server2/Documents/Project/claynext/tests/fixtures/khmer_speech/dataset.json",
+      "dataset_id": "demo_consented_km",
+      "segments": 2,
+      "sessions": 2,
+      "splits": {
+        "train": 1,
+        "val": 1,
+        "test": 0
+      },
+      "license_type": [
+        "internal_test_fixture"
+      ],
+      "owners": [
+        "Claynext Test Fixtures"
+      ],
+      "restrictions": [
+        "tests_only"
+      ],
+      "permitted_uses": [
+        "tts_synthesis",
+        "voice_model_training"
+      ],
+      "catalog_role": [
+        "training_source"
+      ],
+      "audio_seconds_nominal": 1.2,
+      "notes": "Synthetic/short placeholder for tests only. Not a real actor voice.",
+      "schema_ok": true,
+      "rights_gate_allowed": true,
+      "rights_issues": []
+    },
+    "library_media": {
+      "count": 100,
+      "kind": "mp4",
+      "folder": "/Users/server2/Downloads/Hongguo/持械入宋：第九季",
+      "licence_files_found": false,
+      "used_for_training": false,
+      "reason": "Commercial video library. No licence or performer consent. Voice-training policy treats movie/TV stems as catalog_candidate only."
+    }
+  },
+  "training_export": {
+    "written": false,
+    "path": null,
+    "reason": "No licensed reviewed/gold spoken rows on disk. KSLD source missing. Speech fixture is tests_only and 2 segments / 1.2s. Export refused."
+  },
+  "dry_run_result": {
+    "ok": true,
+    "experiment_id": "khmer_tts_20261021T154503Z",
+    "manifest_path": "/Users/server2/Documents/Project/claynext/data/cache/voice_training/checkpoints/khmer_tts_20261021T154503Z/manifest.json",
+    "segment_counts": {
+      "train": 1,
+      "val": 1,
+      "test": 0
+    },
+    "checkpoint_weights": null,
+    "status": "dry_run_complete",
+    "also_from_tests": "data/cache/voice_training/checkpoints/khmer_tts_20261021T154407Z/manifest.json"
+  },
+  "real_train_attempt": {
+    "command": "run_finetune(fixture, dry_run=False)",
+    "error": "RuntimeError: No compatible TTS fine-tuner is wired in this environment. Re-run with dry_run=True.",
+    "weights_written": false,
+    "manifest_path": "data/cache/voice_training/checkpoints/khmer_tts_20261021T154438Z/manifest.json",
+    "manifest_status": "failed",
+    "note": "Same-second experiment ids collided: the failed dry_run=False call overwrote the first overnight dry-run manifest at khmer_tts_20261021T154438Z. The dedicated dry-run manifest is dry_run_result.manifest_path. No weights in either file."
+  },
+  "local_lora": {
+    "plan_status": "refused",
+    "plan_error": "Local LoRA/QLoRA trainer is stubbed; Vertex SFT is a different client.",
+    "job_id": "lora-669cecadf965",
+    "job_status": "refused",
+    "job_error": "Local LoRA/QLoRA trainer is a separate stub entrypoint in milestone 1. Not started.",
+    "job_path": "/Users/server2/Documents/Project/claynext/data/khmer_spoken/jobs/lora-669cecadf965.json"
+  },
+  "refused": [
+    "KSLD v0.1 is not on this machine (documented path missing). tests/python/test_datasets.py and docs/khmer-platform/02-target-architecture-and-plan.md state that package has no licence and every row is a synthetic draft.",
+    "SFT export was not written. src/claynext/models/datasets/export.py keeps reviewed/gold only; gold promotion in promote.py refuses a missing licence. There are zero working records under data/datasets/.",
+    "Speech fixture tests/fixtures/khmer_speech/dataset.json passes the consent-id gate but restrictions include tests_only, notes say not a real actor, and audio is one 1.2s synthetic tone reused for 2 segments. Too small to train.",
+    "Library MP4s were not ingested. No consent records.",
+    "tts_trainer real path has no wired trainer (torch and TTS are not installed). dry_run=False raises and writes no weights.",
+    "local LoRA stub refuses. Vertex / JOB-011 was not called and stays BLOCKED. No API was contacted."
+  ],
+  "morning_checks": [
+    "Confirm no process is training: nothing was left running.",
+    "Read the dry-run manifest (weights must stay null).",
+    "Read the local LoRA job JSON (status refused).",
+    "To train later: place a licensed, human-reviewed Khmer spoken set under data/datasets/ (provenance.license set, status reviewed or gold) and/or consented booth audio under data/voice_datasets/ with permitted_uses including voice_model_training. Then a real trainer still has to be wired; this repo only dry-runs."
+  ]
+}

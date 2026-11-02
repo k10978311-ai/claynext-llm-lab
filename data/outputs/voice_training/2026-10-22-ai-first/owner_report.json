@@ -1,0 +1,119 @@
+{
+  "written_at": "2026-10-22T09:38:13Z",
+  "owner_request": "Run the AI spoken-dataset pass now. The owner will review later.",
+  "approval_scope": "local Gemini candidate drafts only; no gold, no review flags, no Vertex, no voice cloning",
+  "dry_run": true,
+  "weights_uploaded": false,
+  "weights_written": false,
+  "hosted_or_vertex_called": false,
+  "gemini_called": true,
+  "training_process_running": false,
+  "drafts": {
+    "source": "src/claynext/prompts/evaluations/khmer_pronoun_cases.jsonl",
+    "source_note": "Built-in 100-line pronoun eval seed. Already pending_native_review in the repo. Not a new invented corpus and not a licence.",
+    "fixture_path": "data/khmer_spoken/fixtures/dialogue_100.jsonl",
+    "fixture_rows": 100,
+    "fixture_candidates": 0,
+    "workspace_path": "data/khmer_spoken/workspace/candidates.jsonl",
+    "workspace_rows": 100,
+    "rows_with_gemini_candidates": 55,
+    "candidates_per_updated_row": 3,
+    "rows_still_without_candidates": 45,
+    "candidate_id_range": "kp-001 through kp-055",
+    "review_status": "pending_native_review",
+    "gold_rows": 0,
+    "verified_by_set": 0,
+    "origin_counts": {
+      "gemini_teacher": 55,
+      "synthetic": 45
+    },
+    "license_type": "unknown",
+    "license_notes": "No licence. AI draft. Not for gold promotion or weight training."
+  },
+  "gemini": {
+    "model_used": "gemini-flash-latest",
+    "env_GEMINI_API_KEY_set": false,
+    "env_GOOGLE_API_KEY_set": false,
+    "enabled_gemini_keys_before": 4,
+    "enabled_gemini_keys_after": 4,
+    "keys_disabled": false,
+    "secrets_recorded": false,
+    "commands": [
+      "KMP_DUPLICATE_LIB_OK=TRUE PYTHONPATH=src .venv/bin/python -u data/outputs/voice_training/2026-10-22-ai-first/run_ai_first.py"
+    ],
+    "first_batch": "kp-001 succeeded (3 candidates). kp-002 returned HTTP 503 high demand. That batch stopped.",
+    "resume_result": "Retries of HTTP 503 continued the pass through kp-055 (55 rows, 3 candidates each). kp-056 then failed.",
+    "stop_reason": "kp-056: No available gemini API keys. The pool still had 4 enabled keys; they were cooling (per-minute limit / cooldown), so GeminiTeacherProvider.available() went false. No key text was stored. The runner was stopped so it would not keep retrying on the same pool.",
+    "last_command_exit": "The last resume exited 2 in under a second because available() was false while keys were cooling, before the wait was moved. A later resume was stopped by hand after it began retrying kp-056. No further candidates were written."
+  },
+  "train_gate": {
+    "gold_export_version": "ai-draft-not-gold-20261022",
+    "gold_export_path": "data/khmer_spoken/versions/ai-draft-not-gold-20261022/dialogue.jsonl",
+    "gold_export_bytes": 0,
+    "gold_export_count": 0,
+    "gold_export_rejected": 100,
+    "manifest": "data/khmer_spoken/versions/ai-draft-not-gold-20261022/manifest.json",
+    "rejected_list": "data/khmer_spoken/versions/ai-draft-not-gold-20261022/rejected.json",
+    "reason": "export_gold_version kept every row out. None are approved or gold, and none have verified_by. Flags were not changed to pass the gate.",
+    "local_lora": "plan_local_lora status refused. Every lora-*.json under data/khmer_spoken/jobs/ is status refused, including lora-35a7a1ccb4b9 from this pass. No weights.",
+    "run_finetune": "Not called. The speech trainer is still unwired (can_gpu_train false) and these rows are text drafts, not consented audio.",
+    "vertex": "Not called. JOB-011 stays blocked."
+  },
+  "process": {
+    "draft_runner_still_running": false,
+    "studio_note": "The draft runner was stopped with a signal aimed only at run_ai_first.py. At the final process check, main.py was not in the process list. It was not restarted."
+  },
+  "owner_reviews_later": [
+    "data/khmer_spoken/workspace/candidates.jsonl — 55 rows with 3 Gemini candidates each (kp-001 to kp-055), plus 45 source rows that still have only the unverified stub.",
+    "All 100 rows stay pending_native_review with license_type unknown. Nothing was marked reviewed or gold.",
+    "Weight training still waits on that review and on a real licence. The gold export is empty on purpose."
+  ],
+  "owner_approval": {
+    "written_at": "2026-10-22T09:45:00Z",
+    "owner_quote": "pls approve all",
+    "reviewer": "project-owner",
+    "decision": "approve",
+    "command": "KMP_DUPLICATE_LIB_OK=TRUE PYTHONPATH=src .venv/bin/python data/outputs/voice_training/2026-10-22-ai-first/apply_owner_approval.py",
+    "command_result": {
+      "approved": 55,
+      "workspace_pending": 45,
+      "gold_export_count": 55,
+      "gold_export_rejected": 45,
+      "lora_status": "refused",
+      "skipped": []
+    },
+    "workspace_path": "data/khmer_spoken/workspace/candidates.jsonl",
+    "workspace_approved": 55,
+    "workspace_status": "approved",
+    "workspace_still_pending": 45,
+    "workspace_pending_ids": "kp-056 through kp-100",
+    "workspace_gold": 0,
+    "candidates_kept": 3,
+    "license_type": "unknown",
+    "license_outcome": "Licence left as the schema value unknown. No CC-BY, commercial, or other external licence was written. The spoken gold exporter does not reject unknown: it only errors when license_type is empty. It accepted the 55 approved rows and rewrote review_status to gold in the version file only. The workspace rows stay approved, not gold. The dialogue-dataset gold gate (provenance.license required) was not used and was not weakened. Voice-cloning consent was not touched. These are text drafts.",
+    "gold_export_accepted": true,
+    "gold_export_path": "data/khmer_spoken/versions/owner-approved-20261022/dialogue.jsonl",
+    "gold_export_rows": 55,
+    "gold_export_ids": "kp-001 through kp-055",
+    "gold_export_rejected_rows": 45,
+    "gold_export_rejected_reason": "not_approved_or_gold",
+    "previous_empty_export_left_in_place": "data/khmer_spoken/versions/ai-draft-not-gold-20261022/dialogue.jsonl",
+    "local_lora": {
+      "called": "plan_local_lora",
+      "status": "refused",
+      "ok": false,
+      "error": "Local LoRA/QLoRA trainer is stubbed; Vertex SFT is a different client.",
+      "weights_written": false
+    },
+    "vertex_called": false,
+    "gemini_called": false,
+    "weights_written": false,
+    "still_blocked": [
+      "kp-056 through kp-100 remain pending_native_review with no Gemini candidates",
+      "licence is still unknown, not an external grant",
+      "local LoRA trainer is still a stub and refused",
+      "no weights were written",
+      "JOB-011 hosted fine-tune was not called"
+    ]
+  }
+}

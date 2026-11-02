@@ -1,0 +1,216 @@
+lay_to_monk	lay_to_monk	bopha	venerable_sok	neutral	formal	pagoda	Venerable, we brought rice and fruit for the morning offering.
+lay_to_monk	lay_to_monk	sokha	venerable_sok	neutral	formal	pagoda	Venerable, may I ask which day the ceremony begins?
+lay_to_monk	lay_to_monk	grandma_yeay	venerable_sok	tender	formal	pagoda	Venerable, please remember my grandson in your chant.
+lay_to_monk	lay_to_monk	piseth	venerable_sok	neutral	formal	pagoda	Venerable, the shoes are left at the step, as you asked.
+lay_to_monk	lay_to_monk	channary	venerable_sok	worried	formal	pagoda	Venerable, my mother is ill. May I request a blessing for her?
+lay_to_monk	lay_to_monk	rith	venerable_sok	neutral	formal	pagoda	Venerable, where should I place this water?
+lay_to_monk	lay_to_monk	srey	venerable_sok	neutral	formal	pagoda	Venerable, I came with my grandmother. She is sitting in the shade.
+lay_to_monk	lay_to_monk	lina	venerable_sok	sad	formal	pagoda	Venerable, I spoke harshly at home. I want to make it right.
+lay_to_monk	lay_to_monk	visal	venerable_sok	neutral	formal	pagoda	Venerable, the gate was open. I closed it behind me.
+lay_to_monk	lay_to_monk	rachana	venerable_sok	neutral	formal	pagoda	Venerable, is it all right if we sit at the back?
+lay_to_monk	lay_to_monk	kosal	venerable_sok	tender	formal	pagoda	Venerable, this incense is from our family. We offer it with respect.
+lay_to_monk	lay_to_monk	nita	venerable_sok	neutral	formal	pagoda	Venerable, we will return after the rain passes.
+monk_to_lay	monk_to_lay	venerable_sok	bopha	neutral	formal	pagoda	Place the offering on the mat. There is no need to rush.
+monk_to_lay	monk_to_lay	venerable_sok	grandma_yeay	tender	formal	pagoda	Sit comfortably. Your knees need not touch the floor.
+monk_to_lay	monk_to_lay	venerable_sok	channary	neutral	formal	pagoda	Come back tomorrow morning. I will chant then.
+monk_to_lay	monk_to_lay	venerable_sok	lina	neutral	formal	pagoda	Anger cools if you do not feed it with more words.
+monk_to_lay	monk_to_lay	venerable_sok	sokha	neutral	formal	pagoda	The ceremony begins after the bell. Wait with the others.
+monk_to_lay	monk_to_lay	venerable_sok	srey	tender	formal	pagoda	You did well to help your grandmother up the steps.
+monk_to_lay	monk_to_lay	venerable_sok	piseth	neutral	formal	pagoda	Leave the shoes outside. You may enter quietly.
+monk_to_lay	monk_to_lay	venerable_sok	rith	neutral	formal	pagoda	If you are unsure of the words, listen first.
+younger_to_elder	younger_to_elder	lina	old_lady_san	neutral	neutral	street	Auntie, may I walk with you to the corner? The basket looks heavy.
+younger_to_elder	younger_to_elder	dara	uncle_heng	neutral	neutral	market	Uncle, which of these mangoes is sweet today?
+younger_to_elder	younger_to_elder	srey	neighbor_mali	neutral	neutral	lane	Auntie, my mother asked me to return your bowl.
+younger_to_elder	younger_to_elder	rith	uncle_heng	neutral	neutral	lane	Uncle, your bicycle tire is flat. I can pump it.
+younger_to_elder	younger_to_elder	nita	old_lady_san	neutral	neutral	street	Auntie, the bus you want stops across the road, not here.
+younger_to_elder	younger_to_elder	piseth	uncle_heng	neutral	neutral	market	Uncle, your change is short. I think they missed a note.
+younger_to_elder	younger_to_elder	little_pich	grandma_yeay	neutral	neutral	home	Grandma, may I sit on the step while you talk?
+younger_to_elder	younger_to_elder	kosal	ms_sothea	neutral	formal	ceremony	Ma'am, is this row saved, or may I sit here?
+younger_to_elder	younger_to_elder	sopheak	old_lady_san	neutral	neutral	clinic	Auntie, the nurse called the next number. I think it's yours.
+younger_to_elder	younger_to_elder	vuthy	uncle_heng	neutral	neutral	ferry	Uncle, the boatman said children board first. Should I wait behind them?
+younger_to_elder	younger_to_elder	rachana	neighbor_mali	neutral	neutral	lane	Auntie, your laundry fell off the line. I picked it up.
+younger_to_elder	younger_to_elder	visal	mr_dy	neutral	formal	shop	Sir, you dropped your receipt by the counter.
+younger_to_elder	younger_to_elder	channary	old_lady_san	worried	neutral	street	Auntie, the rain is starting. Do you have a cover for the basket?
+younger_to_elder	younger_to_elder	bopha	uncle_heng	neutral	neutral	market	Uncle, is the morning price the same after noon?
+younger_to_elder	younger_to_elder	dara	old_lady_san	neutral	neutral	lane	Auntie, my ball rolled under your stairs. May I get it?
+younger_to_elder	younger_to_elder	srey	mr_chea	neutral	formal	lane	Sir, my father said the meeting moved to the shade by the well.
+strangers	strangers	channary	stranger	neutral	neutral	bus	Excuse me, does this bus stop at the hospital?
+strangers	strangers	vuthy	stranger	neutral	neutral	ferry	Sorry, I stepped on your foot when the boat rocked.
+strangers	strangers	bopha	stranger	neutral	neutral	street	Is the clinic still open, or did I miss the hours?
+strangers	strangers	rith	stranger	neutral	neutral	street	Could you point me toward the river road?
+strangers	strangers	rachana	stranger	neutral	neutral	market	I think you dropped this scarf.
+strangers	strangers	sokha	stranger	neutral	neutral	queue	Please, the line starts behind that pole.
+strangers	strangers	nita	stranger	neutral	neutral	street	Do you know if the power will be back tonight?
+strangers	strangers	piseth	stranger	neutral	neutral	station	Sorry, is this the queue for tickets?
+strangers	strangers	visal	stranger	worried	neutral	gate	Watch your bag. The crowd is pushing toward the gate.
+strangers	strangers	lina	stranger	neutral	neutral	street	I don't need a ride, thank you. I'm waiting for my sister.
+strangers	strangers	sophea	stranger	neutral	neutral	station	Can you hear the announcement? I missed the platform number.
+strangers	strangers	kosal	stranger	neutral	neutral	shop	Please don't lean on that glass. It looks cracked.
+strangers	strangers	channary	stranger	neutral	neutral	street	I'm looking for the pharmacy with the green sign.
+strangers	strangers	vuthy	stranger	neutral	neutral	bus	Sorry I'm blocking the aisle. I'll move up.
+strangers	strangers	bopha	stranger	neutral	neutral	market	Did the seller say the fruit was included, or did I mishear?
+strangers	strangers	grandma_yeay	stranger	worried	neutral	station	Hold the rail. The stairs are wet.
+neighbors	neighbor_to_neighbor	vuthy	rith	neutral	casual	lane	Your dog was in our yard this morning. I gave him water and sent him home.
+neighbors	neighbor_to_neighbor	rith	vuthy	neutral	casual	lane	We're having a ceremony on Sunday. The music may run late.
+neighbors	neighbor_to_neighbor	bopha	rachana	neutral	casual	lane	The shared tap is leaking. I turned it tight, but it still drips.
+neighbors	neighbor_to_neighbor	rachana	bopha	neutral	casual	lane	Can I borrow a cup of rice? The shop is already shut.
+neighbors	neighbor_to_neighbor	sokha	visal	neutral	casual	lane	Your child left a sandal by our gate. I put it on the wall.
+neighbors	neighbor_to_neighbor	channary	old_lady_san	neutral	neutral	lane	The smoke from the burning leaves is coming into our kitchen.
+neighbors	neighbor_to_neighbor	sophea	nita	tender	casual	lane	I'll watch the lane while you go to the clinic.
+neighbors	neighbor_to_neighbor	father	neighbor_mali	worried	neutral	lane	The power line is hanging low after the wind. Don't let the kids play under it.
+neighbors	neighbor_to_neighbor	grandma_yeay	neighbor_mali	happy	neutral	lane	Thank you for the jackfruit. We shared it after dinner.
+neighbors	neighbor_to_neighbor	piseth	vuthy	neutral	casual	lane	Please ask your guests to leave the motorbikes off the footpath.
+neighbors	neighbor_to_neighbor	lina	old_lady_san	worried	neutral	lane	I heard a noise at your back door. Is everyone all right?
+neighbors	neighbor_to_neighbor	mother	neighbor_mali	worried	neutral	lane	The well water looks cloudy today. We're boiling ours.
+neighbors	neighbor_to_neighbor	srey	rachana	neutral	casual	lane	Your radio is loud during the baby's nap. Could you lower it after noon?
+neighbors	neighbor_to_neighbor	kosal	sopheak	neutral	casual	lane	I'll take the parcels in if the rain starts before you're back.
+neighbors	neighbor_to_neighbor	dara	uncle_heng	neutral	casual	yard	The chickens got through the fence again. I shooed them toward your side.
+neighbors	neighbor_to_neighbor	ms_sothea	mr_chea	neutral	neutral	lane	We're painting the front tomorrow. I'll cover your plants if the dust blows.
+customer_to_vendor	customer_to_vendor	channary	uncle_heng	neutral	neutral	market	Can I choose the smaller bunch? I only cook for three.
+vendor_to_customer	vendor_to_customer	uncle_heng	channary	neutral	casual	market	These morning-glory bunches were cut before sunrise.
+customer_to_vendor	customer_to_vendor	bopha	neighbor_mali	neutral	neutral	market	I'll take half a kilo of dried shrimp if you can wrap it dry.
+vendor_to_customer	vendor_to_customer	neighbor_mali	bopha	neutral	casual	market	The dried shrimp is salty. Use less than you think.
+customer_to_vendor	customer_to_vendor	sokha	uncle_heng	neutral	neutral	market	The fish smells fine, but the eyes look dull. Show me another.
+vendor_to_customer	vendor_to_customer	uncle_heng	sokha	neutral	casual	market	This one was still moving when I set the stall up.
+customer_to_vendor	customer_to_vendor	srey	neighbor_mali	neutral	neutral	market	Auntie, my mother said not to pay more than the morning price.
+vendor_to_customer	vendor_to_customer	neighbor_mali	srey	neutral	casual	market	Tell your mother the rain delayed the truck. The price moved.
+customer_to_vendor	customer_to_vendor	vuthy	uncle_heng	neutral	neutral	market	Do you have the small limes, not the big sour ones?
+vendor_to_customer	vendor_to_customer	uncle_heng	vuthy	neutral	casual	market	The small ones are in the blue basket. Smell one first.
+customer_to_vendor	customer_to_vendor	rachana	neighbor_mali	neutral	neutral	market	Can you keep this bag here while I buy the herbs?
+vendor_to_customer	vendor_to_customer	neighbor_mali	rachana	neutral	casual	market	Put it under the table. Don't leave it on the meat side.
+customer_to_vendor	customer_to_vendor	piseth	uncle_heng	neutral	neutral	market	I'll come back for the charcoal after I get the ice.
+vendor_to_customer	vendor_to_customer	uncle_heng	piseth	neutral	casual	market	If you wait past four, the good bags will be gone.
+customer_to_vendor	customer_to_vendor	lina	neighbor_mali	neutral	neutral	market	Is the coconut juice from today, or from yesterday's ice?
+vendor_to_customer	vendor_to_customer	neighbor_mali	lina	neutral	casual	market	I opened these just now. Taste a spoon if you doubt it.
+customer_to_vendor	customer_to_vendor	rith	uncle_heng	neutral	neutral	market	My scale at home said this was light. Can we weigh it again?
+vendor_to_customer	vendor_to_customer	uncle_heng	rith	neutral	casual	market	Put it back on the scale. I'll zero it in front of you.
+customer_to_vendor	customer_to_vendor	grandma_yeay	neighbor_mali	neutral	neutral	market	Wrap the bananas so they don't bruise on the moto.
+vendor_to_customer	vendor_to_customer	neighbor_mali	grandma_yeay	neutral	casual	market	I'll put paper between them. Ride slowly over the bridge.
+teacher_to_student	teacher_to_student	teacher_sopheap	lina	neutral	formal	class	Read the sentence again, slower, and stop at the comma.
+student_to_teacher	student_to_teacher	lina	teacher_sopheap	worried	formal	class	Teacher, I don't know the word on the third line.
+teacher_to_student	teacher_to_student	teacher_sopheap	rith	neutral	formal	class	Your answer is close. Check the date in the question.
+student_to_teacher	student_to_teacher	rith	teacher_sopheap	neutral	formal	class	Teacher, may I go to the washroom?
+teacher_to_student	teacher_to_student	teacher_sopheap	srey	neutral	formal	class	Sit up. I can't hear you from the back row.
+student_to_teacher	student_to_teacher	srey	teacher_sopheap	worried	formal	class	Teacher, I left my book at home. May I share with her?
+teacher_to_student	teacher_to_student	teacher_sopheap	dara	proud	formal	class	That's the right sum. Show the class how you grouped it.
+student_to_teacher	student_to_teacher	dara	teacher_sopheap	neutral	formal	class	Teacher, the chalk is finished in our box.
+teacher_to_student	teacher_to_student	teacher_sopheap	lina	neutral	formal	class	You may rewrite the ending. The first half can stay.
+student_to_teacher	student_to_teacher	lina	teacher_sopheap	neutral	formal	class	Teacher, is the test still on Friday if it rains?
+teacher_to_student	teacher_to_student	teacher_sopheap	rith	angry	formal	class	Don't laugh at his mistake. You missed the same one yesterday.
+student_to_teacher	student_to_teacher	rith	teacher_sopheap	neutral	formal	class	Teacher, I finished early. Should I wait quietly?
+teacher_to_student	teacher_to_student	teacher_sopheap	srey	neutral	formal	class	Pack your bag only when I say so.
+student_to_teacher	student_to_teacher	srey	teacher_sopheap	worried	formal	class	Teacher, someone wrote on my notebook. It wasn't me.
+teacher_to_student	teacher_to_student	teacher_sopheap	dara	worried	formal	class	Drink some water, then come back. You look pale.
+student_to_teacher	student_to_teacher	dara	teacher_sopheap	neutral	formal	class	Teacher, my father can't come tomorrow. My mother will.
+doctor_to_patient	doctor_to_patient	doctor_nary	sokha	neutral	formal	clinic	Point to where the pain starts, then where it travels.
+patient_to_doctor	patient_to_doctor	sokha	doctor_nary	worried	formal	clinic	It starts under the ribs and moves when I breathe in.
+doctor_to_patient	doctor_to_patient	doctor_nary	channary	neutral	formal	clinic	The cut is clean. Keep it dry until tomorrow.
+patient_to_doctor	patient_to_doctor	channary	doctor_nary	worried	formal	clinic	It stings when I lift my arm. Is that expected?
+doctor_to_patient	doctor_to_patient	doctor_nary	lina	neutral	formal	clinic	You don't have a fever now. Rest, and come back if it returns tonight.
+patient_to_doctor	patient_to_doctor	lina	doctor_nary	tired	formal	clinic	I felt dizzy on the bus. I didn't eat breakfast.
+doctor_to_patient	doctor_to_patient	doctor_nary	grandpa_ta	neutral	formal	clinic	Take this with food, not on an empty stomach.
+patient_to_doctor	patient_to_doctor	grandpa_ta	doctor_nary	worried	formal	clinic	I forget the evening pill. Can my granddaughter remind me?
+doctor_to_patient	doctor_to_patient	doctor_nary	srey	tender	formal	clinic	This will pinch for a second. Look at your mother, not the needle.
+patient_to_doctor	patient_to_doctor	srey	doctor_nary	afraid	formal	clinic	I'm scared. Can my mom hold my hand?
+doctor_to_patient	doctor_to_patient	doctor_nary	vuthy	neutral	formal	clinic	The swelling should ease by morning. Don't wrap it tighter than this.
+patient_to_doctor	patient_to_doctor	vuthy	doctor_nary	worried	formal	clinic	I can still walk. I just can't put the heel down.
+patient_to_doctor	patient_to_doctor	mother	doctor_nary	worried	formal	clinic	She coughed all night. She drank water but wouldn't eat.
+doctor_to_patient	doctor_to_patient	doctor_nary	mother	neutral	formal	clinic	Give her small sips. If the cough keeps her awake, come back at dawn.
+patient_to_doctor	patient_to_doctor	bopha	doctor_nary	worried	formal	clinic	I took the old medicine from home. Was that wrong?
+doctor_to_patient	doctor_to_patient	doctor_nary	bopha	neutral	formal	clinic	Stop that bottle. We'll use the one I'm writing down.
+police	police_to_civilian	officer_dara	citizen_kunthea	neutral	formal	street	Tell me what you saw, slowly, from the moment you left the shop.
+police	civilian_to_police	citizen_kunthea	officer_dara	worried	formal	street	A man in a red cap took the phone from the table and ran toward the market.
+police	police_to_civilian	officer_dara	suspect_vibol	neutral	formal	station	Keep your hands where I can see them and answer one question at a time.
+police	civilian_to_police	suspect_vibol	officer_dara	afraid	formal	station	I was at my sister's house. She can tell you the time.
+police	police_to_civilian	officer_dara	vuthy	angry	formal	street	Move the motorbike off the crossing. You're blocking the ambulance path.
+police	civilian_to_police	vuthy	officer_dara	neutral	formal	street	Sorry, officer. I stalled. I'll push it now.
+police	police_to_civilian	officer_dara	bopha	neutral	formal	station	Is this your bag? Describe what is inside before I open it.
+police	civilian_to_police	bopha	officer_dara	worried	formal	station	A blue wallet, house keys, and a school letter. The zipper sticks.
+police	police_to_civilian	officer_dara	rith	neutral	formal	station	The station is closing the side gate. Use the front door.
+police	civilian_to_police	rith	officer_dara	neutral	formal	station	Officer, I came to report a lost identification card.
+police	police_to_civilian	officer_dara	grandma_yeay	worried	formal	street	Auntie, stay on the pavement. The trucks don't slow down here.
+police	civilian_to_police	grandma_yeay	officer_dara	neutral	formal	street	Thank you, officer. I was looking for the clinic gate.
+anger_without_profanity	anger_without_profanity	channary	vuthy	angry	neutral	lane	I asked you to wait, and you left anyway.
+anger_without_profanity	anger_without_profanity	vanna	mr_chea	angry	formal	office	This is the third time the number is wrong.
+anger_without_profanity	anger_without_profanity	sokha	rith	angry	casual	home	Don't raise your voice at her. Talk to me.
+anger_without_profanity	anger_without_profanity	lina	sokha	angry	casual	home	You laughed while I was still explaining.
+anger_without_profanity	anger_without_profanity	sopheak	ms_sothea	angry	formal	office	I am not your errand runner.
+anger_without_profanity	anger_without_profanity	mother	lina	angry	neutral	home	Put the phone down when I'm speaking.
+anger_without_profanity	anger_without_profanity	bopha	rachana	angry	casual	office	You took the credit for work we both did.
+anger_without_profanity	anger_without_profanity	visal	sophea	angry	casual	bus	I saved that seat. You saw me put the bag there.
+anger_without_profanity	anger_without_profanity	channary	piseth	angry	neutral	home	Stop telling people I agreed. I didn't.
+anger_without_profanity	anger_without_profanity	father	dara	angry	neutral	home	I came home to a mess and no note.
+anger_without_profanity	anger_without_profanity	rith	vuthy	angry	casual	lane	You knew I had the interview. You still took the bike.
+anger_without_profanity	anger_without_profanity	grandma_yeay	sokha	angry	neutral	home	I can hear you. You don't need to repeat it like I'm a child.
+anger_without_profanity	anger_without_profanity	srey	lina	angry	casual	school	That joke was mean. Don't do it again.
+anger_without_profanity	anger_without_profanity	channary	vuthy	angry	casual	rain	I waited in the rain. A message would have been enough.
+anger_without_profanity	anger_without_profanity	sophea	visal	angry	neutral	class	Don't touch the papers. I just sorted them.
+anger_without_profanity	anger_without_profanity	mother	father	angry	neutral	home	I'm angry, and I still want a straight answer.
+comedy	comedy	rith	vuthy	teasing	casual	kitchen	You seasoned the soup like it insulted your family.
+comedy	comedy	bopha	rachana	teasing	casual	yard	The chicken looked at you and chose a fight. Stay back.
+comedy	comedy	vuthy	rith	teasing	casual	shop	You bowed to the mannequin. It did not bow back.
+comedy	comedy	sokha	dara	teasing	casual	lane	My motorbike starts only if I apologize to it first.
+comedy	comedy	lina	srey	teasing	casual	class	You called the teacher Mom in front of the whole class.
+comedy	comedy	teacher_sopheap	rith	teasing	casual	class	The fan is louder than your speech. We heard the fan.
+comedy	comedy	channary	bopha	teasing	casual	home	You packed three shirts and seven snacks for one night.
+comedy	comedy	srey	uncle_heng	teasing	casual	market	Uncle, your sunglass is still on your forehead.
+comedy	comedy	rachana	bopha	teasing	casual	office	The cat attended the meeting and disagreed with everyone.
+comedy	comedy	visal	sophea	teasing	casual	shop	You waved at your own reflection in the shop window.
+comedy	comedy	nita	sophea	teasing	casual	wedding	That dance move needs a warning sign.
+comedy	comedy	dara	sokha	teasing	casual	pagoda	You asked the statue for directions and almost waited for an answer.
+affectionate_teasing	affectionate_teasing	channary	srey	teasing	casual	kitchen	You missed your mouth and still blamed the spoon.
+affectionate_teasing	affectionate_teasing	mother	lina	teasing	casual	home	Look at you, dressed up like the bus might take a photo.
+affectionate_teasing	affectionate_teasing	sokha	dara	teasing	casual	kitchen	My little brother thinks hot sauce is a personality.
+affectionate_teasing	affectionate_teasing	bopha	rachana	teasing	casual	home	You rehearsed that greeting in the mirror, didn't you?
+affectionate_teasing	affectionate_teasing	grandma_yeay	srey	teasing	casual	yard	Come here, messy hair. The wind won.
+affectionate_teasing	affectionate_teasing	rith	vuthy	teasing	casual	kitchen	You saved me the burnt piece and called it lucky.
+affectionate_teasing	affectionate_teasing	grandpa_ta	dara	teasing	casual	kitchen	Auntie's favorite, you ate the center of the cake again.
+affectionate_teasing	affectionate_teasing	channary	vuthy	teasing	casual	cafe	You're smiling at your phone like it told a secret.
+affectionate_teasing	affectionate_teasing	father	dara	teasing	casual	lane	Slow down, champion. The race is to the kitchen, not the road.
+affectionate_teasing	affectionate_teasing	lina	srey	teasing	casual	home	You hug the pillow harder than you hug people.
+affectionate_teasing	affectionate_teasing	mother	dara	teasing	casual	home	My dear, you named the goldfish and then forgot to feed it.
+affectionate_teasing	affectionate_teasing	rachana	bopha	teasing	casual	home	You wore two different sandals and walked like it was fashion.
+child_in_law	child_in_law_to_parent_in_law	piseth	grandma_yeay	neutral	formal	kitchen	Mother, I bought the fish you like. I'll clean it outside.
+parent_in_law	parent_in_law_to_child_in_law	grandma_yeay	piseth	neutral	neutral	kitchen	The soup is on the stove. Don't let it sit.
+child_in_law	child_in_law_to_parent_in_law	channary	father	neutral	formal	home	I can take Father to the clinic if you need the morning.
+parent_in_law	parent_in_law_to_child_in_law	mother	piseth	tender	neutral	home	You don't have to hover. Sit and eat with us.
+child_in_law	child_in_law_to_parent_in_law	piseth	mother	happy	neutral	home	The children asked for you before they asked for me.
+parent_in_law	parent_in_law_to_child_in_law	grandma_yeay	channary	tender	neutral	kitchen	I'll wash the dishes. You hosted enough people today.
+child_in_law	child_in_law_to_parent_in_law	channary	grandma_yeay	neutral	formal	kitchen	Please tell me if the chili is too much for Father.
+parent_in_law	parent_in_law_to_child_in_law	father	piseth	neutral	neutral	home	I moved the shoes so you wouldn't trip in the dark.
+child_in_law	child_in_law_to_parent_in_law	piseth	mother	neutral	neutral	home	Your son called. He'll be late, but he's on the way.
+parent_in_law	parent_in_law_to_child_in_law	mother	channary	tender	neutral	home	I don't know if I say the greeting right. Correct me if I slip.
+child_in_law	child_in_law_to_parent_in_law	channary	grandma_yeay	neutral	neutral	kitchen	Leave the heavy pot. I'll carry it to the table.
+parent_in_law	parent_in_law_to_child_in_law	grandma_yeay	piseth	tender	neutral	home	Thank you for keeping the room ready. We won't stay past Sunday.
+travel	passenger_to_driver	channary	driver_mao	neutral	neutral	taxi	Driver, please stop at the clinic gate, not the market.
+travel	driver_to_passenger	driver_mao	channary	worried	neutral	road	The road is flooded past the bridge. We should turn around.
+travel	passenger_to_passenger	vuthy	bopha	worried	casual	ferry	Hold on. The ferry rocks when the truck boards.
+travel	passenger_to_passenger	sophea	nita	neutral	neutral	bus	Is this seat free all the way to the province?
+travel	passenger_to_driver	sokha	driver_mao	worried	neutral	station	I missed the last bus. Is there a shared taxi still leaving?
+travel	passenger_to_driver	mother	driver_mao	worried	neutral	taxi	Driver, the child gets sick if you take the curves fast.
+travel	passenger_to_passenger	rith	visal	neutral	casual	bus	Move your bag. People can't pass in the aisle.
+travel	passenger_to_passenger	lina	srey	neutral	casual	bus	The ticket man said our stop is after the pagoda, not before.
+travel	passenger_to_passenger	rachana	bopha	neutral	casual	bus	I'll take the window. You can have the side with the fan.
+travel	passenger_to_driver	piseth	driver_mao	neutral	neutral	ferry	The boat is full. We'll wait for the next one.
+travel	passenger_to_driver	vuthy	driver_mao	neutral	neutral	taxi	Driver, that lane is a dead end. The school is to the left.
+travel	driver_to_passenger	driver_mao	srey	worried	neutral	road	Keep your arm inside. The trucks pass close here.
+travel	passenger_to_passenger	grandma_yeay	lina	neutral	neutral	station	We should buy water before the station. The next town is far.
+travel	passenger_to_stranger	nita	stranger	neutral	neutral	station	Excuse me, is the night bus the one with the blue stripe?
+travel	passenger_to_passenger	sokha	channary	neutral	casual	bus	The rain is on the seat. Let me wipe it before you sit.
+travel	passenger_to_driver	bopha	driver_mao	neutral	neutral	bus	Tell me when we cross the river. I want to watch.
+coworkers	coworker_to_coworker	vanna	sopheak	neutral	neutral	office	The copier is eating paper again. I already told the front desk.
+coworkers	coworker_to_coworker	sopheak	vanna	neutral	neutral	shop	I'll cover the counter if you take the delivery out back.
+coworkers	coworker_to_coworker	vanna	sopheak	worried	neutral	office	Don't send that email yet. The total on line four is off.
+coworkers	coworker_to_coworker	sopheak	vanna	neutral	neutral	office	The meeting moved to the room with the working fan.
+coworkers	coworker_to_coworker	vanna	sopheak	neutral	neutral	office	I saved you a stamp. The drawer was almost empty.
+coworkers	coworker_to_coworker	sopheak	vanna	neutral	neutral	shop	The customer is upset about yesterday, not about you.
+coworkers	coworker_to_coworker	vanna	sopheak	neutral	neutral	warehouse	I'll finish the labels if you pack the small boxes.
+coworkers	coworker_to_coworker	sopheak	vanna	teasing	casual	office	Your headset is muted. That's why they kept saying hello.
+coworkers	coworker_to_coworker	vanna	sopheak	neutral	neutral	office	The lunch order is at the gate. Someone has to walk down.
+coworkers	coworker_to_coworker	sopheak	vanna	neutral	neutral	warehouse	I logged the shortage. Please don't guess a number later.
+coworkers	coworker_to_coworker	vanna	sopheak	neutral	neutral	office	The new password works. You were typing the old one.
+coworkers	coworker_to_coworker	sopheak	vanna	neutral	neutral	office	Leave the lights on in the hall. The night shift is coming in.
+phone_call	phone_call	channary	vuthy	neutral	casual	phone	I can hear the street, not you. Step inside and say it again.
+phone_call	phone_call	mother	father	worried	neutral	phone	You cut out after the word hospital. Is someone hurt?
+phone_call	phone_call	sokha	lina	neutral	casual	phone	Don't hang up. I'm writing the address down.
+phone_call	phone_call	bopha	rachana	tender	casual	phone	I'm whispering because the baby just fell asleep.

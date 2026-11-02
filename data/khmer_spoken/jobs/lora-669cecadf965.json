@@ -1,0 +1,14 @@
+{
+  "job_id": "lora-669cecadf965",
+  "kind": "local_lora",
+  "status": "refused",
+  "created_at": "2026-10-21T15:44:38+00:00",
+  "updated_at": "2026-10-21T15:44:38+00:00",
+  "error": "Local LoRA/QLoRA trainer is a separate stub entrypoint in milestone 1. Not started.",
+  "details": {
+    "dataset_path": "/Users/server2/Documents/Project/claynext/tests/fixtures/khmer_speech/dataset.json",
+    "base_model": "unspecified-open-weight",
+    "platform": "local_open_weight",
+    "separate_from_vertex": true
+  }
+}

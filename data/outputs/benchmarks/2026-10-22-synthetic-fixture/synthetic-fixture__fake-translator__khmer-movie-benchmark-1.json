@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "at": "2026-10-22T09:49:14+00:00",
+  "synthetic_fixture": true,
+  "not_a_gold_benchmark": true,
+  "quality_score": null,
+  "dataset_version": "synthetic-fixture",
+  "prompt_version": "khmer-movie-benchmark-1",
+  "prompt_template_sha256": "a148725cf5cea0f19f5b348fd3fff9e2b53405133693ad6f53608beff252d707",
+  "prompt_includes_model_id": false,
+  "decoding": {
+    "prompt_version": "khmer-movie-benchmark-1",
+    "temperature": 0.0,
+    "max_tokens": null,
+    "top_p": null,
+    "seed": null
+  },
+  "provider_label": "fake-translator",
+  "model_id": "fixture-not-a-model",
+  "split": "test",
+  "n_rows": 1,
+  "leakage_check": {
+    "ok": true,
+    "families": []
+  },
+  "metrics": {
+    "meaning": {
+      "metric": "meaning",
+      "value": null,
+      "unit": null,
+      "n": null,
+      "agreement": null,
+      "method": "not_scored",
+      "reason": "no human scores; no string-overlap or model-judge number is computed",
+      "details": {},
+      "automatic_check": null
+    },
+    "naturalness": {
+      "metric": "naturalness",
+      "value": null,
+      "unit": null,
+      "n": null,
+      "agreement": null,
+      "method": "not_scored",
+      "reason": "no human ratings; the 4-or-5 naturalness gate is not filled",
+      "details": {},
+      "automatic_check": null
+    },
+    "pronoun_accuracy": {
+      "metric": "pronoun_accuracy",
+      "value": null,
+      "unit": null,
+      "n": null,
+      "agreement": null,
+      "method": "evaluation_runner",
+      "reason": "automatic pronoun resolver and post-check via evaluation.runner; not a human pronoun-accuracy percentage",
+      "details": {
+        "evaluation_runner_split": "test"
+      },
+      "automatic_check": {
+        "passed": 1,
+        "failed": [],
+        "evaluated": 1,
+        "postcheck_violations": 0,
+        "gold": false
+      }
+    },
+    "emotion_register": {
+      "metric": "emotion_register",
+      "value": null,
+      "unit": null,
+      "n": null,
+      "agreement": null,
+      "method": "not_scored",
+      "reason": "no human scores; no string-overlap or model-judge number is computed",
+      "details": {},
+      "automatic_check": null
+    },
+    "terminology": {
+      "metric": "terminology",
+      "value": null,
+      "unit": null,
+      "n": null,
+      "agreement": null,
+      "method": "not_scored",
+      "reason": "no glossary supplied; terminology consistency is not scored",
+      "details": {},
+      "automatic_check": null
+    },
+    "structured_output": {
+      "metric": "structured_output",
+      "value": null,
+      "unit": null,
+      "n": null,
+      "agreement": null,
+      "method": "not_scored",
+      "reason": "no output schema configured; structured-output rate is not scored",
+      "details": {},
+      "automatic_check": null
+    },
+    "latency": {
+      "metric": "latency",
+      "value": null,
+      "unit": "ms",
+      "n": null,
+      "agreement": null,
+      "method": "not_scored",
+      "reason": "no measured latency on the translator result",
+      "details": {},
+      "automatic_check": null,
+      "tokens_per_second": null
+    },
+    "cost": {
+      "metric": "cost",
+      "value": null,
+      "unit": "usd",
+      "n": null,
+      "agreement": null,
+      "method": "not_scored",
+      "reason": "no user-supplied price config and no provider-trace cost",
+      "details": {},
+      "automatic_check": null
+    }
+  },
+  "uncertainty": {
+    "n": null,
+    "agreement": null,
+    "reviewers": []
+  },
+  "promotion": {
+    "promoted": false,
+    "decision": "not_promoted",
+    "candidate_id": "fixture-not-a-model",
+    "proposed_gates": {
+      "meaning": 0.98,
+      "natural_khmer": 0.9,
+      "pronoun": 0.97,
+      "emotion_register": 0.95,
+      "terminology": 0.98,
+      "structured_output": 0.99
+    },
+    "observed": {},
+    "missing": [],
+    "reasons": [
+      "synthetic fixture reviews cannot promote a model",
+      "no human review record"
+    ],
+    "uncertainty": {
+      "n": null,
+      "agreement": null,
+      "reviewers": []
+    },
+    "synthetic_fixture": true,
+    "model_evaluated": false
+  },
+  "leaderboard": {
+    "ranked": false,
+    "reason": "automatic metrics are not a ranking; promotion requires the human gate",
+    "rows": [
+      {
+        "candidate_id": "fixture-not-a-model",
+        "promotion": {
+          "promoted": false,
+          "decision": "not_promoted",
+          "candidate_id": "fixture-not-a-model",
+          "proposed_gates": {
+            "meaning": 0.98,
+            "natural_khmer": 0.9,
+            "pronoun": 0.97,
+            "emotion_register": 0.95,
+            "terminology": 0.98,
+            "structured_output": 0.99
+          },
+          "observed": {},
+          "missing": [],
+          "reasons": [
+            "synthetic fixture reviews cannot promote a model",
+            "no human review record"
+          ],
+          "uncertainty": {
+            "n": null,
+            "agreement": null,
+            "reviewers": []
+          },
+          "synthetic_fixture": true,
+          "model_evaluated": false
+        }
+      }
+    ],
+    "promoted_model_id": null,
+    "promoted_ids": []
+  },
+  "judge_raw": [],
+  "outputs": [
+    {
+      "id": "fixture-1",
+      "dialogue_family_id": "fixture-family",
+      "text": "ទៅផ្ទះហើយ",
+      "trace_id": "",
+      "latency_ms": null
+    }
+  ],
+  "cost_usd": null
+}

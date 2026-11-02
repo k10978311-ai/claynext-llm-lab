@@ -1,0 +1,71 @@
+{
+  "at": "2026-10-22T09:49:14+00:00",
+  "dataset_version": "synthetic-fixture",
+  "provider": "benchmark-automatic-check",
+  "prompt_version": "khmer-movie-benchmark-1",
+  "split": "test",
+  "evaluated": 1,
+  "pronoun": {
+    "passed": 1,
+    "failed": []
+  },
+  "postcheck": {
+    "violations": 0,
+    "failed": []
+  },
+  "cost_usd": null,
+  "trace_ids": [],
+  "passed": 1,
+  "results": [
+    {
+      "id": "fixture-1",
+      "category": "everyday",
+      "review_status": "pending_native_review",
+      "passed": true,
+      "failures": {
+        "resolver": [],
+        "levels": [],
+        "reference": [],
+        "output": []
+      },
+      "decision": {
+        "first_person": "ខ្ញុំ",
+        "second_person": "អ្នក",
+        "needs_review": true,
+        "review_reasons": [
+          "listener unknown",
+          "relationship unknown",
+          "confidence below review threshold"
+        ],
+        "confidence": 0.4,
+        "source": "age_fallback"
+      },
+      "levels": {
+        "source_profanity": 0,
+        "allowed_profanity": 0,
+        "allowed_slang": 0,
+        "markers": [],
+        "reasons": [
+          "profanity capped by source=0",
+          "slang capped by character=0"
+        ]
+      },
+      "reference_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      },
+      "output_check": {
+        "detected": [],
+        "violations": [],
+        "warnings": [],
+        "profanity_level": 0,
+        "profanity_terms": [],
+        "ok": true
+      }
+    }
+  ]
+}
